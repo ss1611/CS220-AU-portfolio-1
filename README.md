@@ -1,2 +1,4 @@
-# CS220-AU-portfolio
-Portfolio template for CS220 AU students. 2021 Essex
+# CS220 AU Portfolio
+STUDENT REG NB: `to add by student`
+
+
