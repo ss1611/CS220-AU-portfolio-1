@@ -1,7 +1,7 @@
 # CS220 AU Portfolio
 
 ## overview
-This repository is a template for the CS220 module assignment, the digital portfolio. Students will need to submit the URL link of their repositories through FASER. The URL of this repository is https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio.
+This repository is a template for the CS220 module assignment, the digital portfolio. Students need to submit the URL link of their repositories through FASER. The URL of this repository is https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio.
 
 - examples the use of Markdown language for project management e.g. logging and webdesign including embeddign audio-visual assets
 - turns Markdown files (.md) into GitHub Pages (a statice website)
