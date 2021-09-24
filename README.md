@@ -12,9 +12,9 @@ Students enrolled in this module need to
 Creating a GitHub account and amending this repository to be used for the digital porfolio, including all of the above steps, is demonstrated in the workshops. 
 
 This repository
-- examples the use of Markdown language for project management e.g. logging and webdesign including embeddign audio-visual assets
-- turns Markdown files (.md) into GitHub Pages (a statice website)
-- provides a self and peer assesment tool
+- examples the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for project management e.g. logging and webdesign including embeddign audio-visual assets
+- turns Markdown files (.md) into [GitHub Pages](https://pages.github.com/) (a statice website)
+- provides a self and peer assesment tool (Hofstadter, 2019)
 
 ## website
 Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` is turned into a home page and the `report.md` is turned into an additinal page. The home page in this website contains 
@@ -34,8 +34,5 @@ It has a home page (index.md) and a report page (report.md)
 - add index.md and an additional file(s) with hyperlinks to each other and populate with project related info: text, images, videos, perhaps some code?
 - add marking rubric here as well as checklist (inlcuding sought feedback from others) and general marking guide
 
-## bibliography
-- Hofstadter, K (2019) [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
-
-
 ## references
+- Hofstadter, K (2019) [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
