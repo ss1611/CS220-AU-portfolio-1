@@ -35,4 +35,4 @@ It has a home page (index.md) and a report page (report.md)
 - add marking rubric here as well as checklist (inlcuding sought feedback from others) and general marking guide
 
 ## references
-- Hofstadter, K (2019) [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
+- Hofstadter, K, 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
