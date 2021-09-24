@@ -1,10 +1,27 @@
+<!-- #ktodo
+- row numbering to link to the rubric
+- remove below 30%
+- add more to checklist
+-->
+
+# general 
+Student registration number:  <!-- #todo -->  
+Module code: CS220 AU  
+Coursework title: Digitial Portfolio  
+Marker: Krisztian Hofstadter  
+Moderator: TBC  
+GitHub repository URL: <!-- #todo add your repositories URL -->
+
+
 ## checklist
+<!-- #todo check all -->
 - [ ] the GitHub account name is my student registration number
 - [ ] I filled in the self assessment table below
 - [ ] I filled in the peer assessment tables below
 
 ## self assessment
-To measure my own progress, I filled in the table below using the module's Digital Portfolio Rubric <!-- #todo adjust row numbering to link to the rubric below -->
+<!-- #todo fill in, perhaps update weekly -->
+To measure my own progress, I filled in the table below using the module's [Digital Portfolio Rubric](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/blob/main/assets/doc/digital-portfolio-rubric.md).
 
 <br>
 
@@ -24,7 +41,7 @@ To measure my own progress, I filled in the table below using the module's Digit
 <br>
 
 ## peer assessment
-To help measure my progress, I asked two of my classmates to reflect on my progress using the module's Digital Portfolio Rubric <!-- #todo adjust row numbering to link to the rubric below -->.
+To help measure my progress, I asked two of my classmates to reflect on my progress using the module's [Digital Portfolio Rubric](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/blob/main/assets/doc/digital-portfolio-rubric.md).
 
 ### peer assessment 1
 Assessed by: <!-- add student reg nb -->
