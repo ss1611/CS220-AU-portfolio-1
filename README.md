@@ -6,7 +6,7 @@ This GitHub repository is a template for the CS220 AU module assignment, the dig
 Students enrolled in this module need to 
 1. complete the checklist in the `assessment.md` file
 2. format this file into PDF format
-3. rename the new PDF file using their student number e.g. `2002012.pdf`
+3. rename the new PDF file with their student number e.g. `2002012.pdf`
 4. submit this PDF version on [FASER](https://faser.essex.ac.uk/)
 
 Creating a GitHub account and amending this repository to be used for the digital porfolio, including all of the above steps, is demonstrated in the workshops. 
