@@ -9,7 +9,9 @@ This repository is a template for the CS220 students.
 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
 ## self assessment
-To measure my own progress, I used the table below in conjunction with my university's Assessment Criteria. 
+To measure my own progress, I used the table below in conjunction with 
+- my university's [Assessment Marking Criteria](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/ISC%20Assignment%20Marking%20Criteria%202020-21.pdf) and 
+- the module's Digital Portfolio Rubric <!-- todo make, hyperlink, adjust table below -->
 
 <br>
 
