@@ -1,5 +1,4 @@
 # CS220 AU Portfolio
-STUDENT REG NB:
 
 ## overview
 This repository is a digital portfolio (assignment) template for the CS220 students. It examples 
