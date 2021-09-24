@@ -4,12 +4,12 @@
 This GitHub repository is a template for the CS220 AU module assignment, the digital portfolio. 
 
 Students enrolled in this module need to 
-1. rename the `mystudentnb.md` file with their own student number e.g. `2001211.md`
-2. complete the checklist in this file
-3. format this .md file into PDF format
+1. complete the checklist in the `assessment.md` file
+2. format this file into PDF format
+3. rename the new PDF file using their student number e.g. `2002012.pdf`
 4. submit this PDF version on [FASER](https://faser.essex.ac.uk/)
 
-Creating a GitHub account and using this repository as a template is demonstrated in class. 
+Creating a GitHub account and amending this repository to be used for the digital porfolio, including all of the above steps, is demonstrated in the workshops. 
 
 This repository
 - examples the use of Markdown language for project management e.g. logging and webdesign including embeddign audio-visual assets
