@@ -8,7 +8,9 @@ This repository is a digital portfolio (assignment) template for the CS220 stude
 - provides a self and peer assesment tool
 
 ## website
-- link
+Some .md files in this repository are turned into GitHub pages, a static website:
+<br>
+https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/
 
 ## self assessment
 To measure my own progress, I filled in the table below in conjunction with the module's Digital Portfolio Rubric <!-- todo make, hyperlink, adjust table below -->
