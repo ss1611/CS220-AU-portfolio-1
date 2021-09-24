@@ -1,15 +1,15 @@
 # CS220 AU portfolio
 
 ## overview
-This GitHub repository is a template for the CS220 AU module assignment, the digital portfolio. 
+This GitHub repository is a template for the CS220 AU module assignment, your digital portfolio. 
 
-Students enrolled in this module need to 
+At the end of the module, you need to 
 1. complete the checklist in the `assessment.md` file
-2. format this file into PDF format
-3. rename the new PDF file with their student number e.g. `2002012.pdf`
+2. format this `assessment.md` file into PDF format
+3. rename the new PDF file with your student number e.g. `2002012.pdf`
 4. submit this PDF version on [FASER](https://faser.essex.ac.uk/)
 
-Creating a GitHub account and amending this repository to be used for the digital porfolio, including all of the above steps, is demonstrated in the workshops. 
+How to create a GitHub account and amend this repository for your digital porfolio, including all of the above steps, is demonstrated in the workshops. 
 
 This repository
 - examples the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for project management e.g. logging and webdesign including embeddign audio-visual assets
@@ -17,16 +17,16 @@ This repository
 - provides a self and peer assesment tool (Hofstadter, 2019)
 
 ## website
-Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` is turned into a home page and the `report.md` is turned into an additinal page. The home page in this website contains 
+Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` is turned into a home page and the `reflection.md` is turned into an additinal page. While both of these pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should support <!-- #todo is there are better phrase for this --> one of your choosen digital identites (personal, professional or one linked to a specific project), the additinal page should refect on how you have used the Visitors and Residents Map (White, <!-- #todo add date -->) to develop your visitor and resident modes of engagment on the Web. 
 
-Note: you can provied a link to a website that you desinged with another content manamement system (CMS) e.g. Wordpress. 
-
-It has a home page (index.md) and a report page (report.md) 
-
-(a report reflecting on the usof the visitors and residents method to help improve my digital indentities)
+Flexibilities:   
+1. you could have more than two pages on your website 
+2. instead of GitHub Pages, you can use another content manamement system (CMS) e.g. Wordpress to design your website
+3. instead of reflecting about ydeveloping your visitor and resident modes of engagment on the Web on a public website e.g. in your GitHub Pages or Wordpress website, you can submit a PDF version of your reflection on FASER. To clarify, in this case you will submit two PDF files on FASER: (1) the `assessment.md` with a completed checklist and formated in PDF and (2) your reflection in PDF. This reflection file in PDF format should still follow the template/guide provided in the `reflection.md` file. 
 
 ## log
 <!-- #todo remove content of template's log and add my own -->
+2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined. 
 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
 ## todo
