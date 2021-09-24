@@ -12,3 +12,7 @@ Edit by considering
 - new assignment 
 - ARU marking criteria
 - general ICS criteria 
+
+## checklist
+- the GitHub account name is my student registration number
+- I filled in the self and peer assessment table (in readme.md)
