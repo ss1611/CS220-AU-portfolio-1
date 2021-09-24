@@ -1,6 +1,4 @@
 <!-- #ktodo
-- row numbering to link to the rubric
-- remove below 30%
 - add more to checklist
 -->
 
@@ -16,7 +14,6 @@ GitHub repository URL: <!-- #todo add your repositories URL -->
 ## checklist
 <!-- #todo check all -->
 - [ ] the GitHub account name is my student registration number
-- [ ] if GitHub Pages is used for my website, the repository name reflects the website's content
 - [ ] I filled in the self assessment table below
 - [ ] I filled in the peer assessment tables below
 
@@ -30,7 +27,7 @@ To measure my own progress, I filled in the table below using the module's [Digi
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1 |     |     |     |     |  o  |
 | 2 |     |     |     |  o  |     |
-| 3 |     |     |  o  |     |     |
+| 3 |     |     |     |  o  |     |
 | 4 |     |     |  o  |     |     |
 
 
@@ -44,9 +41,9 @@ Assessed by: <!-- add student reg nb -->
 
 |   | 39% or less | 40% - 49% | 50% - 59% | 60% - 69% | 70% or above | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 |     |     |     |     |  o  |
+| 1 |     |     |  o  |     |     |
 | 2 |     |     |     |  o  |     |
-| 3 |     |     |  o  |     |     |
+| 3 |     |  o  |     |     |     |
 | 4 |     |     |  o  |     |     |
 
 
@@ -57,8 +54,8 @@ Assessed by: <!-- add student reg nb -->
 
 |   | 39% or less | 40% - 49% | 50% - 59% | 60% - 69% | 70% or above | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 |     |     |     |     |  o  |
-| 2 |     |     |     |  o  |     |
+| 1 |     |     |  o  |     |     |
+| 2 |     |     |  o  |     |     |
 | 3 |     |     |  o  |     |     |
 | 4 |     |     |  o  |     |     |
 
