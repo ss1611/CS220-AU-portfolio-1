@@ -16,7 +16,7 @@ GitHub repository URL: <!-- #todo add your repositories URL -->
 ## checklist
 <!-- #todo check all -->
 - [ ] the GitHub account name is my student registration number
-- [ ] if GitHub Pages is used for my website, the repository name reflects the website's content (by renaming the repository, the website's title is renamed as well)
+- [ ] if GitHub Pages is used for my website, the repository name reflects the website's content
 - [ ] I filled in the self assessment table below
 - [ ] I filled in the peer assessment tables below
 
