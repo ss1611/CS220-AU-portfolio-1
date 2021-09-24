@@ -1,10 +1,17 @@
 # CS220 AU portfolio
 
 ## overview
-This GitHub repository is a template for the CS220 AU module assignment, the digital portfolio. Students need to submit the URL link of their repositories through FASER. <!-- #todo make a template file to submit through FASER --> Creating a GitHub account and using this repository as a template is demonstrated in class. 
+This GitHub repository is a template for the CS220 AU module assignment, the digital portfolio. 
 
-This repository 
+Students enrolled in this module need to 
+1. rename the `mystudentnb.md` file with their own student number e.g. `2001211.md`
+2. complete the checklist in this file
+3. format this .md file into PDF format
+4. submit this PDF version on [FASER](https://faser.essex.ac.uk/)
 
+Creating a GitHub account and using this repository as a template is demonstrated in class. 
+
+This repository
 - examples the use of Markdown language for project management e.g. logging and webdesign including embeddign audio-visual assets
 - turns Markdown files (.md) into GitHub Pages (a statice website)
 - provides a self and peer assesment tool
