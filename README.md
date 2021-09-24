@@ -2,7 +2,10 @@
 STUDENT REG NB:
 
 ## overview
-This repository is a template for the CS220 students.
+This repository is a digital portfolio (assignment) template for the CS220 students. It examples 
+- the use of Markdown language for project management e.g. logging and webdesign including embeddign audio-visual assets
+- turning Markdown files (.md) into GitHub Pages (a statice website)
+- provides a self and peer assesment tool
 
 ## website
 - link
