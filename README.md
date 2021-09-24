@@ -14,7 +14,7 @@ Creating a GitHub account and amending this repository to be used for the digita
 This repository
 - examples the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for project management e.g. logging and webdesign including embeddign audio-visual assets
 - turns Markdown files (.md) into [GitHub Pages](https://pages.github.com/) (a statice website)
-- provides a self and peer assesment tool (Hofstadter, 2019)
+- provides a self and peer assesment tool <sup>1</sup>
 
 ## website
 Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` is turned into a home page and the `report.md` is turned into an additinal page. The home page in this website contains 
@@ -35,4 +35,4 @@ It has a home page (index.md) and a report page (report.md)
 - add marking rubric here as well as checklist (inlcuding sought feedback from others) and general marking guide
 
 ## references
-- Hofstadter, K (2019) [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
+<sup>1</sup> Hofstadter, K (2019) [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
