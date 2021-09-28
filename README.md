@@ -17,7 +17,7 @@ This repository
 - provides a self and peer assesment tool (Hofstadter, 2019)
 
 ## website
-Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` is turned into a home page and the `reflection.md` is turned into an additinal page. While both of these pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should support <!-- #todo is there are better phrase for this --> one of your choosen digital identites (personal, professional or one linked to a specific project), the additinal page should refect on how you have used the Visitors and Residents Map (White, <!-- #todo add date -->) to develop your visitor and resident modes of engagment on the Web. 
+Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` is turned into a home page and the `reflection.md` is turned into an additinal page. While both of these pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should support <!-- #todo is there are better phrase for this --> one of your choosen digital identites (personal, professional or one linked to a specific project of yours), the additinal page should refect on how you have used the Visitors and Residents Map (White, <!-- #todo add date -->) to develop your visitor and resident modes of engagment on the Web. 
 
 Flexibilities:   
 1. you could have more than two pages on your website 
