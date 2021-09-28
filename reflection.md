@@ -43,3 +43,7 @@ This file is used to reflect on my prgress regarding the visitors and residents 
 - what implications do our resident identities have on our professional life?
 - how do we assess the credibility of information comming other people's (or institutions) resident identies e.g. does it matter who good their profile picture looks or how well their website is designed? 
 - how much fact checking should people do who visit my resident identities e.g. websites or social accounts and who much fact checking do I do when visiting others' resident identities?
+- is an information's creditibily in line with how high the information ranks using a search engine?
+- is an information's creditibily in line with the creditibility (or number of followers) of a mainstream or alternative broadcaster, its references and who it was reviewed by? Can the information be biast or could there be a conflict of interest? 
+- what does it mean to critically evaluate information i.e. what is critical thinking?
+- how do I develop my critical thinking regarding my engagment on the Web in my visitor and resident modes?
