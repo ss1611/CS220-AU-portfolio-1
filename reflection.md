@@ -39,3 +39,4 @@ This file is used to reflect on my prgress regarding the visitors and residents 
 - what's the difference between White's and Prensky's idea regarding people engaging with technology e.g. the Web?
 - what's the main difference between White's visitor and resident modes?
 - reflect on how you use digital technology in different contexts - explore your own 'digital journey' by thinking about the different digital devices you - - have bought (or been given) over your lifetime
+- how can/should I (or shouldn't)  link my personal identities to my professional identites?
