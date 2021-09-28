@@ -1,9 +1,7 @@
 # report
 This file is used to reflect on my prgress regarding the visitors and residents method.
 
-## past
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-## present
+## now
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## future
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
