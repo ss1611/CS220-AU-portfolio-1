@@ -30,3 +30,7 @@ This file is used to reflect on my prgress regarding the visitors and residents 
 #### project 2
 ##### APM
 ### overall conclusion and outlook
+
+
+## questions to explore
+- reflect on how you use digital technology in different contexts - explore your own 'digital journey' by thinking about the different digital devices you - - have bought (or been given) over your lifetime
