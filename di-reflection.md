@@ -1,5 +1,8 @@
-# report
-This file is used to reflect on my prgress regarding the visitors and residents method.
+# digital indentity reflection
+
+In this report I 
+
+
 
 ## now
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
