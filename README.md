@@ -16,6 +16,8 @@ At the end of the module, you need to
 3. rename the new PDF file with your student number e.g. `2002012.pdf`
 4. submit this PDF version on [FASER](https://faser.essex.ac.uk/)
 
+<!-- #todo make screencast and link video -->
+
 How to create a GitHub account and amend this repository for your digital porfolio, including all of the above steps, is demonstrated in the workshops. 
 
 This repository
