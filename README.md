@@ -31,7 +31,7 @@ Two .md files in this repository are turned into a [static website](https://kris
 Flexibilities:   
 1. you could have more than two pages on your website 
 2. instead of GitHub Pages, you can use another content manamement system (CMS) e.g. Wordpress to design your website
-3. instead of reflecting about ydeveloping your visitor and resident modes of engagment on the Web on a public website e.g. in your GitHub Pages or Wordpress website, you can submit a PDF version of your reflection on FASER. To clarify, in this case you will submit two PDF files on FASER: (1) the `assessment.md` with a completed checklist and formated in PDF and (2) your reflection in PDF. This reflection file in PDF format should still follow the template/guide provided in the `reflection.md` file. 
+3. instead of reflecting on developing your visitor and resident modes on a public website e.g. in your GitHub Pages or Wordpress website, you can submit a PDF version of your reflection on FASER. To clarify, in this case you will submit two PDF files on FASER: (1) the `assessment.md` with a completed checklist and formated in PDF and (2) your reflection in PDF. This reflection file in PDF format should still follow the template/guide provided in the `reflection.md` file. If you decide to work on your reflection privately, you could choose to do this in a private GitHub repository or even in your choosen text editor e.g. Word. 
 
 ## log
 <!-- #todo remove content of template's log and add my own -->
