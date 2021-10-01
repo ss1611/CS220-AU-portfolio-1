@@ -8,7 +8,7 @@
 # CS220 AU portfolio
 
 ## overview
-This GitHub repository is a template for the [CS220 AU module](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, the digital portfolio you need to submit.
+This GitHub repository is a template for the [CS220 AU module](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, the digital portfolio.
 
 At the end of the module, you need to 
 1. complete the checklist in the `submit.md` file
@@ -21,14 +21,14 @@ At the end of the module, you need to
 How to create a GitHub account and amend this repository for your personal digital porfolio, including all of the above steps, is demonstrated in the workshops. 
 
 This repository demonstrates
-- the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for project management e.g. logging and elementary webdesign including embeddign audio-visual assets
+- the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for project management e.g. logging and elementary webdesign
 - turns Markdown files (.md) into [GitHub Pages](https://pages.github.com/) (a free statice website)
 - provides a self and peer assesment tool (Hofstadter, 2019)
 
 <br>
 
 ## website to submit
-Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additinal page. While both of these pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there are better phrase for this --> one of your choosen digital identites (personal, professional or one linked to a specific project of yours), the additinal page, the di-reflection page, should refect on how you have used the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to develop your modes of engagment on the Web. 
+Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additinal page. While both of these pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there are better phrase for this --> one of your choosen resident (digital) identites (institutional/professional or one linked to a specific project of yours), the additinal page, the di-reflection page, should refect on the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) can be used to develop your digital identities in both, visitor and resident modes. 
 
 Flexibilities:   
 1. you could have more than two pages on your website 
@@ -39,11 +39,11 @@ Flexibilities:
 
 ## log
 <!-- #todo remove content of template's log and add my own -->
-2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine tuned. 
-2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined. 
-2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+- 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine tuned
+- 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
+- 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
 <br>
 
 ## references
-- Hofstadter, K, 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
+- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
