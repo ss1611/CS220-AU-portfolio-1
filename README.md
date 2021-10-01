@@ -1,6 +1,9 @@
 <!-- #todo
 - turn into GitHub Pages
 - create template from reflection link digital-identities.md file, perhaps move all questions from reflection.md to a #dicussion heading in digital-identities
+- make screencast on submitting this digital-portfolio i.e. the pdf of submit.md
+-->
+
 
 # CS220 AU portfolio
 
