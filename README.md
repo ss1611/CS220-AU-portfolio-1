@@ -1,3 +1,7 @@
+<!-- #todo
+- turn into GitHub Pages
+- create template from reflection link digital-identities.md file, perhaps move all questions from reflection.md to a #dicussion heading in digital-identities
+
 # CS220 AU portfolio
 
 ## overview
