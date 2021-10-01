@@ -1,9 +1,9 @@
 <!-- #todo
 - turn into GitHub Pages
 - create template from reflection link digital-identities.md file, perhaps move all questions from reflection.md to a #dicussion heading in digital-identities
+- refine submit.md and rubric.md
 - make screencast on submitting this digital-portfolio i.e. the pdf of submit.md
 -->
-
 
 # CS220 AU portfolio
 
@@ -31,17 +31,12 @@ Two .md files in this repository are turned into a [static website](https://kris
 Flexibilities:   
 1. you could have more than two pages on your website 
 2. instead of GitHub Pages, you can use another content manamement system (CMS) e.g. Wordpress to design your website
-3. instead of reflecting on developing your visitor and resident modes on a public website e.g. in your GitHub Pages or Wordpress website, you can submit a PDF version of your reflection on FASER. To clarify, in this case you will submit two PDF files on FASER: (1) the `assessment.md` with a completed checklist and formated in PDF and (2) your reflection in PDF. This reflection file in PDF format should still follow the template/guide provided in the `reflection.md` file. If you decide to work on your reflection privately, you could choose to do this in a private GitHub repository or even in your choosen text editor e.g. Word. 
+3. instead of reflecting on your visitor and resident modes on a public website e.g. using this GitHub repository or a Wordpress website, you can submit a PDF version of your reflection on FASER. To clarify, in this case you will submit two PDF files on FASER: (1) the `assessment.md` with a completed checklist and formated in PDF and (2) your reflection in PDF. This reflection file in PDF format should still follow the template/guide provided in the `reflection.md` file. If you decide to work on your reflection privately, you could choose to do this in a private GitHub repository or even in your choosen text editor e.g. Word. 
 
 ## log
 <!-- #todo remove content of template's log and add my own -->
 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined. 
 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
-
-## todo
-- create three v&r maps (past, present, future) and add to `assets/img` folder
-- add index.md and an additional file(s) with hyperlinks to each other and populate with project related info: text, images, videos, perhaps some code?
-- add marking rubric here as well as checklist (inlcuding sought feedback from others) and general marking guide
 
 ## references
 - Hofstadter, K, 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
