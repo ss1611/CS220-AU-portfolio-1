@@ -10,11 +10,13 @@ Marker: Krisztian Hofstadter
 Moderator: TBC  
 GitHub repository URL: <!-- #todo add your repositories URL -->
 
-
 ## checklist
 <!-- #todo check all -->
-- [ ] the GitHub account name is my student registration number
-- [ ] I filled in the self assessment table below
+- [ ] my GitHub /username matches my student registration number
+- [ ] this repository is named 'CS220-AU-portfolio'
+- [ ] I amended the `di-reflection.md` file with my own reflection on my digital identities. I undestand that this reflection could alternatively be submitted in a PDF file on FASER if I wanted to keep my writing more private i.e. not puplically available in this repository online. (I deleted the 'di-reflection.md' file from this repository when submitting a PDF version of it on FASER.)
+- [ ] I amended the `index.md` file to support one of my own resident identities (or projects) and used GitHub Pages to create a one page website from this file. I understand that as an alternative to GitHub Pages, I could have used an another content management system e.g. Wordpress to create my website and that I could have added additional pages if essential.
+- [ ] I filled in the self assessment tables below
 - [ ] I filled in the peer assessment tables below
 
 ## self assessment
