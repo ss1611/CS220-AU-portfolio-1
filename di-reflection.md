@@ -63,7 +63,7 @@ This writing I reflected on my understanding of
 
 <br>
 
-##### To expore 
+##### questions you could expore 
 - do I know people who are much older than me and can use technology e.g. the Web more efficiently?
 - what does it actually mean 'to use the Web more efficiently'?
 - what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?
