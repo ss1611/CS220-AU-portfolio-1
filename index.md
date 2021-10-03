@@ -1,15 +1,15 @@
 Dear CS220 cohorts, 
 
-This page examples a simple home page that
+This is a simple home page example that provides
 
-- gives a brief introduction to my professional identity
-- provides links to my selected social platforms
-- outlines current projects
-- outlines selected education and work experience, etc. 
+- a brief introduction to my professional identity
+- links to my selected social platforms
+- a list of current projects
+- a list of education and work experience 
 
 You can use it as a template, amend it, change it completely, etc. or create your own from scratch. 
 
-As you can see on my [website](https://khofstadter.com/), my home page simply links to a PDF version of my general CV, instead of writing all the information out on the home page. You can choose as you wish, but be aware that when you submit a CV for a job, you should customise that CV for that specific job. Good practice is to have a general/full CV with all your accomplishments (and aspirations) and then edit this full CV for each job you apply for. Also, it's good to have a general/full CV with minimal formating for when you have to copy and past specific CV information to websites e.g. LinkedIn or online application forms. 
+My [home page](https://khofstadter.com/) links to a general CV instead of writing all the information out, which you might want to consider as well. You can choose as you wish, but be aware that when you submit a CV for a job, you should customise that CV for that specific job. Good practice is to have a general/full CV with all your accomplishments (and aspirations) and then edit this full CV for each job you apply for. Also, it's good to have a general/full CV with minimal formating for when you have to copy and past specific CV information to websites e.g. LinkedIn or online application forms. 
 
 For inspiration, please check the following links:
 
