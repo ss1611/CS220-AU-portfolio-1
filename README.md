@@ -6,7 +6,7 @@
 
 # CS220 AU portfolio
 
-## overview
+## Overview
 This GitHub repository is a template for the [CS220 AU module](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, the digital portfolio.
 
 At the end of the module, you need to 
@@ -26,7 +26,7 @@ This repository
 
 <br>
 
-## website to submit
+## Website
 Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additinal page. While both of these pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there are better phrase for this --> one of your choosen resident identites (institutional/professional or one linked to a specific project of yours - perhaps it could be a start on your major project?). The additinal page, the di-reflection page, should refect on your use of the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to help develop your digital identities in both, visitor and resident modes. 
 
 Flexibilities:   
@@ -36,11 +36,11 @@ Flexibilities:
 
 <br>
 
-## log
+## Log
 <!-- #todo remove content of template's log and add my own -->
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine tuned
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
-## references
+## References
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
