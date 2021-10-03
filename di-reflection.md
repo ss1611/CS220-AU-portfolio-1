@@ -1,6 +1,38 @@
+## reflection on my digital identity
+
+This writing reflects on my understanding of
+
+1. digital identities in general
+2. my own digital identities in the past/present
+3. my own digital identities in the future
+
+### digital identities
+To help identify and improve my own digital identities, I explored 
+- White et al.'s Visitor and Resident (V&R) concept which 
+  - says this and that 
+  - and out of these things that they wrote, I found this and that interesting, and therefore researched this and that further and found this and that, etc. 
+
+### my past/present digitial identity/identities
+Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes: 
+
+![](/assets/img/vr-map-plain.svg)
+
+### my future digitial identity/identities
+
+To address 
+- digital capability
+- online presence 
+- digital identity 
+- 
+- and self-awareness to identify areas for improvement.  
+- 
+- 
+- | The student has a good understanding of their digital identity, online presence and capability, and has defined at least one goal for future growth.  | The student has demonstrated a comprehensive and critical understanding of their relationship with technology and has defined several goals for future growth.  | The student has devised a comprehensive plan of self-development and has fully embraced the growth mindset in relation to the use of technology.  |   |
+
 # digital indentity reflection
 
 In this report I 
+
 
 
 
