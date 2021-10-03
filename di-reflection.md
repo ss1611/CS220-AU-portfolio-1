@@ -13,7 +13,9 @@ To help identify and improve my own digital identities, I explored
   - and out of these things that they wrote, I found this and that interesting, and therefore researched this and that further and found this and that, etc. 
 
 ### my past/present digitial identity/identities
-Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes: 
+Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes
+
+![V&R map plain](assets/img/vr-map-plain.svg)
 
 ### my future digitial identity/identities
 
