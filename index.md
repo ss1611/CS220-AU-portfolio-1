@@ -1,15 +1,15 @@
 Dear CS220 cohorts, 
 
-This page examples a simple home (or about) page that
+This page examples a simple home page that
 
-- gives a brief introduction to my professional digital identity
-- provides links to social platforms
-- outlines corrent projects
+- gives a brief introduction to my professional identity
+- provides links to my social platforms
+- outlines current projects
 - outlines education and selected work experience, etc. 
 
-You can use it as a template, amend it, change it completely, etc. 
+You can use it as a template, amend it, change it completely, etc. or create your own from scratch. 
 
-As you can see on my [website](https://khofstadter.com/), my home page simply links to a PDF version of my CV, instead of writing it all out on the home page. 
+As you can see on my [website](https://khofstadter.com/), my home page simply links to a PDF version of my general CV, instead of writing all the information out on the home page. You can choose as you wish, but be aware that when you submit a CV for a job, you should customise that CV for that specific job. Good practice is to have a general/full CV with all your accomplishments (and aspirations) and then edit this full CV for each job you apply for. 
 
 For inspiration, please check the following links:
 
@@ -19,7 +19,9 @@ For inspiration, please check the following links:
 - https://www.higheredjobs.com/Articles/articleDisplay.cfm?ID=2619
 - https://enhancv.com/blog/seth-godin-resume/
 
-We will discuss ideas on making CVs in the workshops. 
+We will discuss ideas for making CVs in the workshops.
+
+Thanks, k
 
 <br>
 
@@ -31,6 +33,8 @@ Hello! My name is Krisztián Hofstädter, aka tEdör.
 I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio
 Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
 
+Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite very oftern before they consider it final. So should you. Experiment and ask for feedback. 
+
 <br>
 
 ## social media links
@@ -38,18 +42,28 @@ Description project as a research assistant, my doctoral research developed brai
 - [Twitter](https://twitter.com/kris_hofstadter)
 - [Facebook](https://www.facebook.com/tedor)
 - [Flickr](https://www.flickr.com/photos/tedor/)
+- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
+- [Vimeo](https://vimeo.com/user2912511)
+
+
+Note: only link social media that you are happy for people to visit i.e. if your website is about a professional service (even your blog on something very specific that a few people could learn somehing from), you should not link it to  your social media account which is primarily for your personal use. 
 
 <br>
 
-## staff pages
+## acedmic pages
 - [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
+- [StoryLab Team Page](https://storylabresearch.com/team/)
+- [Enhancing Audio Description People Page](http://enhancingaudiodescription.com/people/)
+- [Academia](https://anglia.academia.edu/KrisztianHofstadter)
+- [Research Gate](https://www.researchgate.net/profile/Krisztian-Hofstadter)
+
 <!-- #todo add York -->
 
 <br>
 
 ## now
 - working as a post-grad research asssistant on [EAD](http://enhancingaudiodescription.com/)
-- running the CSS200 module at the University of Essex(https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world)
+- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctorol thesis on [BCMI](https://bcmi.khofstadter.com/)
 - working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
 - resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
@@ -58,7 +72,7 @@ Description project as a research assistant, my doctoral research developed brai
 
 ## EDUCATION
 
-| |  | |
+| date | degree | institute |
 --- | --- | ---
 |ongoing|**Ph.D.** in Music (submitted in Apr 2021)|ARU, Cambridge School of Creative Industries|
 | ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
@@ -68,16 +82,12 @@ Description project as a research assistant, my doctoral research developed brai
 | 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
 | 2004 | **College Diploma** in Cultural Organising | EJF Pedagogical Faculty, Hungary |
 
-Please see list of additional courses/workshops that I attended at the end of this document. 
-
 <br>
 
 ### Doctoral Research
 This interdisciplinary research developed and tested open-source brain-computer music interfaces for scientific and artistic purposes. These interfaces were primarily developed for neurofeedback practitioners interested in using auditory entrainment to support meditation practices and for creative technologists interested in using real-time electroencephalography to support artistic practices. The outcome of this research is a portfolio of creative work including the source code of both interfaces, audio releases, public presentations and performances, as well as the submitted commentary which not only reflects on the research process but also serves as a guide for other researchers and artists interested in developing new BCMIs. While developing my artistic vision and technical skills, the research also stabilised my meditation practice into regular sense-making procedures providing well-being and meaning.
 
-The full abstract and the submitted thesis commentary can be found at [https://bcmi.khofstadter.info/assets/doc/Hofstadter-2021-phd-thesis-commentary.pdf](https://bcmi.khofstadter.info/assets/doc/Hofstadter-2021-phd-thesis-commentary.pdf). 
-
-<div class="page"/>
+<br>
 
 ## WORK EXPERIENCE
 ### Research Assistant Positions
@@ -134,8 +144,6 @@ Additional information including links to module outlines and outcomes, e.g. stu
 ### Freelancer at tEdör TEA (Technology, Education and Art)
 2013 – ongoing &nbsp; &nbsp; I have been producing compositions and sound design for short films, games and theatre plays, audio/video projects, developing, designing and maintaining websites and running audio-video and music workshops.
 
-<!-- add references from Rhea and Menagerie to relevant posts (maybe ask Patrick to write on on LinkedIn based on what Paul wrote -->
-
 ### Tedör's Vegan Food
 09/2011 – 06/2014 &nbsp; &nbsp; As a sole trader I prepared plant based food based on locally sourced, organic vegetables and delivered it sustainably with a push-bike. 
 
@@ -181,11 +189,13 @@ Audio Engineering Society International Conference on Immersive and Interactive 
 
 <!-- painting exhition -->
 
+<br>
 
 ### Recent Performances
 - Hofstadter, K. 2019. NeuroMeditation with Music (presentation and a brain-computer music interfacing performance) at 2019 Festival of Ideas, ARU, Cambridge. [https://bcmi.khofstadter.info/festival-of-ideas-2019-talk-performance/](https://bcmi.khofstadter.info/festival-of-ideas-2019-talk-performance/)
-
 - Ryan, D. et al 2019. Aphorisms (live sound design and engineering). Performed at ARU, Music Department. [https://bcmi.khofstadter.info/aphorisms/](https://bcmi.khofstadter.info/aphorisms/)
+
+<br>
 
 ### Funding
 - Departmental Research Group Funding for PhD 2018 - £500
@@ -195,14 +205,17 @@ Audio Engineering Society International Conference on Immersive and Interactive 
 
 <!-- TODO: http://www.geraldfinzi.org/award-holders.html (ask them to add my name)-->
 
+<br>
 
 ### Audio releases
 Music albums linked to my doctoral research, work with theatre and game developers and experiments combining genres of electronica and traditional music can be found at [https://tedor.bandcamp.com/](https://tedor.bandcamp.com/).
 
+<br>
+
 ### Events photographer
 Most of my photography can be found at [https://www.flickr.com/photos/tedor/albums/](https://www.flickr.com/photos/tedor/albums/).
 
-<div class="page"/>
+<br>
 
 ## Continuing Professional Development
 Besides the mandatory PhD training, I completed the following courses: 
