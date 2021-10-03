@@ -2,6 +2,7 @@
 - keep what's necessary, don't have full CV
 - add images to social media and link them
 - embed audio-video players
+- link my other websites made with repos
 -->
 
 This is a simple home page example that provides
