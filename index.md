@@ -1,4 +1,8 @@
-Dear CS220 cohorts, 
+<!-- #todo
+- keep what's necessary, don't have full CV
+- add images to social media and link them
+- embed audio-video players
+-->
 
 This is a simple home page example that provides
 
