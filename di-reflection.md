@@ -15,7 +15,7 @@ To help identify and improve my own digital identities, I explored
 ### my past/present digitial identity/identities
 Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes: 
 
-![](/assets/img/vr-map-plain.svg)
+![V&R map plain](assets/img/vr-map-plain.svg)
 
 ### my future digitial identity/identities
 
