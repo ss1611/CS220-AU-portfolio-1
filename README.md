@@ -1,7 +1,8 @@
 <!-- #todo
-- refine di-reflection.md
-- refine submit.md and rubric.md
-- make screencast on submitting this digital-portfolio i.e. the pdf of submit.md
+- refine rubric.md
+- refine all files
+- add ideas from last year's examples
+- make screencast on submitting - start from making a GitHub repo
 -->
 
 # CS220 AU portfolio
@@ -38,6 +39,7 @@ Flexibilities:
 
 ## Log
 <!-- #todo remove content of template's log and add my own -->
+- 2021-10-03 di-reflection simplified. submit.md simplified. 
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine tuned
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
