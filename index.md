@@ -1,5 +1,3 @@
-# CS220 AU portfolio tempate
-
 Dear CS220 cohorts, 
 
 This page examples a simple home (or about) page that
