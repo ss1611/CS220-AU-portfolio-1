@@ -17,12 +17,15 @@ Using White et al.'s V&R map, I identified the following ways I engage with the 
 
 ![V&R map plain](assets/img/vr-map-plain.svg)
 
-### my future digitial identity/identities
+To analyse my data I used 
+- SWOT
+- ?
 
-To address 
+### my future digitial identity/identities
+After identifying my current use of digital identities on the Web, I now define the following goals to help my use of these identies. 
+
 - digital capability
 - online presence 
-- digital identity 
 - 
 - and self-awareness to identify areas for improvement.  
 - 
