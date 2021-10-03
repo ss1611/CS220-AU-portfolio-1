@@ -128,7 +128,7 @@ While lecturing at the ARU, I also served as a dissertation advisor on several o
 
 Besides teaching as a lecturer at the above universities, I run workshops on web design for the Department of Language and Linguistics in the University of Essex, an audio-video workshop for an organisation for people with disabilities as well as workshops focusing on the use of sound combined with technology at various locations.
 
-Additional information including links to module outlines and outcomes, e.g. student websites, audio-video showreels can be found at [https://khofstadter.info/#teaching](https://khofstadter.info/#teaching). 
+Additional information including links to module outlines and outcomes, e.g. student websites, audio-video showreels can be found at [https://khofstadter.com/#teaching](https://khofstadter.com/#teaching). 
 
 <br>
 
