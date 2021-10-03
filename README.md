@@ -22,7 +22,7 @@ How to create a GitHub account and amend this repository for your digital porfol
 This repository
 - uses [Markdown language](https://guides.github.com/features/mastering-markdown/) for project management e.g. logging and elementary webdesign
 - turns Markdown files (.md) into [GitHub Pages](https://pages.github.com/) (a free statice website)
-- provides a [self and peer assesment tool](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
+- provides a self and peer assesment tool (Hofstadter, 2019)
 
 <br>
 
@@ -41,3 +41,6 @@ Flexibilities:
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine tuned
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+
+## references
+- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
