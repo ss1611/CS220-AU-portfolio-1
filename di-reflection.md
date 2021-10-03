@@ -1,6 +1,6 @@
-## Reflection on my digital identity
+## A brief reflection on my digital identity
 
-This writing reflects on my understanding of
+This writing briefly reflects on my understanding of
 
 1. digital identities in general
 2. my own digital identities in the past/present
@@ -19,7 +19,7 @@ To help identify and improve my own digital identities, I explored
 ### My past/present digitial identity/identities
 Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes
 
-![V&R map plain](assets/img/vr-map-plain.svg)
+<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
 
 To analyse my data I used 
 - SWOT
@@ -52,30 +52,36 @@ By addressing these objectives my V&R map will look as follows:
 
 <br>
 
-##### To expore 
-- perhaps have the two maps next to each other so the reader can easily compare them
-- write about your digital capbility e.g. what aspect of technology you think you need more skills for
-- how you can improve your online presence e.g. by monitoring the time you spend on social media
-- how relevant is Prensky's digital natives and immigrants idea today e.g. can younger people use the Web more efficiently than older people? 
-- do I know people who are much older than me and can use the Web more efficiently?
-- what does it actually mean 'to use the Web more efficiently'?
-- what's the difference between White's and Prensky's idea regarding people engaging with technology e.g. the Web?
-- what's the main difference between White's visitor and resident modes?
-- reflect on how you use digital technology in different contexts - explore your own 'digital journey' by thinking about the different digital devices you have bought (or been given) over your lifetime
-- how can/should I (or shouldn't)  link my personal identities to my professional identites?
-- what implications do our resident identities have on our professional life?
-- how do we assess the credibility of information comming other people's (or institutions) resident identies e.g. does it matter who good their profile picture looks or how well their website is designed? 
-- how much fact checking should people do who visit my resident identities e.g. websites or social accounts and who much fact checking do I do when visiting others' resident identities?
-- is an information's creditibily in line with how high the information ranks using a search engine?
-- is an information's creditibily in line with the creditibility (or number of followers) of a mainstream or alternative broadcaster, its references and who it was reviewed by? Can the information be biast or could there be a conflict of interest? 
-- what does it mean to critically evaluate information i.e. what is critical thinking?
-- how do I develop my critical thinking regarding my engagment on the Web in my visitor and resident modes?
-
-<br>
-
 ### Summery
 This writing I reflected on my understanding of
 
 1. digital identities in general and highlighted this and that
 2. my own digital identities in the past/present and highlighted this and that
 3. my own digital identities in the future and highlighted this and that
+
+<!-- #todo maybe have the two above maps next to each other for each comparision-->
+
+<br>
+
+##### To expore 
+- do I know people who are much older than me and can use technology e.g. the Web more efficiently?
+- what does it actually mean 'to use the Web more efficiently'?
+- what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?
+- on the V&R map, what's the main difference between 'visitor' modes and 'resident' modes and what does the 'personal on institutional' dimension provide?
+- how have I been using digital technology in different contexts i.e. how has my 'digital journey' changed since my first device e.g. the one given to me by parents?
+- how can/should I (or shouldn't) link my personal identities to my professional identites?
+- what implications do my visitory identities have on my personal life?
+- what implications do my personal identities have on my professinal/institutional life?
+- what implications do my resident identities have on my personal life?
+- what implications do my resident identities have on my professinal/institutional life?
+- how do I assess the credibility of information comming other people's (or institutions) resident identies e.g. does it matter how good their profile picture looks or how well their website is designed? 
+- how much fact checking could people do when visiting my resident identities e.g. mywebsites or social accounts and who much fact checking do I need to do when referencing other's work?
+- is an information's creditibily in line with how high the information ranks using a search engine?
+- is an information's creditibily in line with the creditibility (or number of followers) of a mainstream or alternative broadcaster, its references and perhaps whom it was reviewed by? Can the information be biased or could there be a conflict of interest? 
+- what does it mean to critically evaluate information i.e. what is critical thinking?
+- how do I develop my critical thinking regarding my engagment on the Web in my visitor and resident modes?
+- what is my digital capability e.g. what aspect of technology am I confortable/unconfortable with?
+- how can I improve my online presence e.g. by monitoring the time I spend on social media vs. work when using my computing device?
+- how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of more reactive/emotional/bias state of mind before sharing or commenting on something online?
+
+<br>
