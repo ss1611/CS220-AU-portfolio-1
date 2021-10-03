@@ -1,4 +1,4 @@
-## reflection on my digital identity
+## Reflection on my digital identity
 
 This writing reflects on my understanding of
 
@@ -6,69 +6,56 @@ This writing reflects on my understanding of
 2. my own digital identities in the past/present
 3. my own digital identities in the future
 
-### digital identities
+<br>
+
+### Digital identities
 To help identify and improve my own digital identities, I explored 
 - White et al.'s Visitor and Resident (V&R) concept which 
   - says this and that 
   - and out of these things that they wrote, I found this and that interesting, and therefore researched this and that further and found this and that, etc. 
 
-### my past/present digitial identity/identities
+<br>
+
+### My past/present digitial identity/identities
 Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes
 
 ![V&R map plain](assets/img/vr-map-plain.svg)
 
 To analyse my data I used 
 - SWOT
-- ?
+- check what other methods you could use
 
-### my future digitial identity/identities
-After identifying my current use of digital identities on the Web, I now define the following goals to help my use of these identies. 
+Make sure you not only write about what you think needs imporving but also about what you think you are already doing well. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading you can list the things that need improving and then write about what ideas/methods you plan to use to improve what needs improving. 
 
-- digital capability
-- online presence 
-- 
-- and self-awareness to identify areas for improvement.  
-- 
-- 
-- | The student has a good understanding of their digital identity, online presence and capability, and has defined at least one goal for future growth.  | The student has demonstrated a comprehensive and critical understanding of their relationship with technology and has defined several goals for future growth.  | The student has devised a comprehensive plan of self-development and has fully embraced the growth mindset in relation to the use of technology.  |   |
+<br>
 
-# digital indentity reflection
+### My future digitial identity/identities
+After identifying and analysing my current use of digital identities on the Web, I set the goal to **improve their use** with the following objectives. 
 
-In this report I 
+<br>
 
+#### Objective 1 (example)
+The above V&R map and its analysis highlighted that ... 
 
+In order to address this weakness/threat I plan to 
+- do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
+- by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
 
+<br>
 
-## now
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-## future
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#### Objective 2 (example)
+...
 
-## APM
-### goal
-- some litrev
-### design
-- plan methods
-### develop
-### test
-- measure
-- ask for feedback
-### deploy
-- publish, disseminate, conclude
+By addressing these objectives my V&R map will look as follows: 
 
-## research
-### reserch question
-### research methodology
-### literature review
-### projects
-#### project 1
-##### APM
-#### project 2
-##### APM
-### overall conclusion and outlook
+![V&R map plain](assets/img/vr-map-plain.svg)
 
+<br>
 
-## questions to explore
+##### To expore 
+- perhaps have the two maps next to each other so the reader can easily compare them
+- write about your digital capbility e.g. what aspect of technology you think you need more skills for
+- how you can improve your online presence e.g. by monitoring the time you spend on social media
 - how relevant is Prensky's digital natives and immigrants idea today e.g. can younger people use the Web more efficiently than older people? 
 - do I know people who are much older than me and can use the Web more efficiently?
 - what does it actually mean 'to use the Web more efficiently'?
@@ -83,3 +70,12 @@ In this report I
 - is an information's creditibily in line with the creditibility (or number of followers) of a mainstream or alternative broadcaster, its references and who it was reviewed by? Can the information be biast or could there be a conflict of interest? 
 - what does it mean to critically evaluate information i.e. what is critical thinking?
 - how do I develop my critical thinking regarding my engagment on the Web in my visitor and resident modes?
+
+<br>
+
+### Summery
+This writing I reflected on my understanding of
+
+1. digital identities in general and highlighted this and that
+2. my own digital identities in the past/present and highlighted this and that
+3. my own digital identities in the future and highlighted this and that
