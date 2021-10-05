@@ -27,7 +27,6 @@ This repository
 
 <br>
 
-## Website and DI Reflection
 Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additional page. While both pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there a better phrase for this --> one of your chosen resident identities (institutional/professional or one linked to a specific project of yours - perhaps it could be a start on your major project?). The additional page, the di-reflection page, should reflect on your use of the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to help develop your digital identities in both, visitor and resident modes.
 
 Flexibilities:   
