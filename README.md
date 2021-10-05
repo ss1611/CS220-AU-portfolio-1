@@ -1,6 +1,10 @@
 <!-- #todo
-- update on Brave?
 - all files: logic/aesthetic/grammar/ref to other repo check
+  - perhaps outline the parts of the repository:
+    - README.md : task managmenet, log
+    - index.md : website
+    - di-reflection : reflection on DI
+    - submit.md : checklist + self and peer assessement
 - add ideas from last year's examples
 - make screencast on submitting - start from making a GitHub repo
 -->
