@@ -12,8 +12,8 @@ This GitHub repository is a template for the [CS220 AU module](https://github.co
 
 At the end of the module, you need to 
 1. complete the checklist in the `submit.md` file
-2. convert this `submit.md` file into a PDF format
-3. rename this PDF file with your student number e.g. `2002012.pdf`
+2. convert this `submit.md` file into a PDF file
+3. rename this PDF file to indicate the module code and your student number e.g. `CS220-AU-2002012.pdf`
 4. submit this PDF file on [FASER](https://faser.essex.ac.uk/)
 
 <!-- #todo make screencast and link video -->
@@ -28,7 +28,7 @@ This repository
 <br>
 
 ## Website
-Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additional page. While both pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there a better phrase for this --> one of your chosen resident identities (institutional/professional or one linked to a specific project of yours - perhaps it could be a start on your major project?). The additional page, the di-reflection page, should reflect on your use of the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to help develop your digital identities in both, visitor and resident modes. 
+Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additional page. While both pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there a better phrase for this --> one of your chosen resident identities (institutional/professional or one linked to a specific project of yours - perhaps it could be a start on your major project?). The additional page, the di-reflection page, should reflect on your use of the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to help develop your digital identities in both, visitor and resident modes. Remember, 
 
 Flexibilities:   
 1. you could have more than two pages on your website 
