@@ -15,7 +15,7 @@ GitHub repository URL: <!-- #todo add your repositories URL -->
 
 ## Checklist
 ### General
-- [ ] my GitHub username matches my student registration number
+- [ ]  my GitHub username matches my student registration number
 - [ ] my repository to submit is named 'CS220-AU-portfolio'
 ### Reflection
 - [ ] I amended the `di-reflection.md` file with my own reflection on my digital identities. I undestand that this reflection could alternatively be submitted in a PDF file on FASER if I wanted to keep my writing more private i.e. not puplically available in this repository online. (I deleted the 'di-reflection.md' file from this repository when submitting a PDF version of it on FASER to avoid confusion.)
