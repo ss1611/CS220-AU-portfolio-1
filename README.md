@@ -1,7 +1,6 @@
 <!-- #todo
 - update on Brave?
-- refine rubric.md
-- refine all files
+- all files: logic/aestetic/grammar/ref to other repo check
 - add ideas from last year's examples
 - make screencast on submitting - start from making a GitHub repo
 -->
@@ -40,6 +39,7 @@ Flexibilities:
 
 ## Log
 <!-- #todo remove content of template's log and add my own -->
+- 2021-10-05 submit.md refined (raw rubric sheet in excel file and coverted with https://www.convertcsv.com/csv-to-markdown.htm
 - 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine tuned
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
