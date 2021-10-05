@@ -1,4 +1,5 @@
 <!-- #todo
+- update on Brave?
 - refine rubric.md
 - refine all files
 - add ideas from last year's examples
