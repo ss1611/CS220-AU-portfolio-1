@@ -8,9 +8,9 @@
 # CS220 AU portfolio
 
 ## Overview
-This GitHub repository is a template for the [CS220 AU module](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, the digital portfolio.
+This GitHub repository is a template for the [CS220 AU module's](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
 
-At the end of the module, you need to 
+To submit your assignment, you need to
 1. complete the checklist in the `submit.md` file
 2. convert this `submit.md` file into a PDF file
 3. rename this PDF file to indicate the module code and your student number e.g. `CS220-AU-2002012.pdf`
@@ -28,12 +28,12 @@ This repository
 <br>
 
 ## Website
-Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additional page. While both pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there a better phrase for this --> one of your chosen resident identities (institutional/professional or one linked to a specific project of yours - perhaps it could be a start on your major project?). The additional page, the di-reflection page, should reflect on your use of the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to help develop your digital identities in both, visitor and resident modes. Remember, 
+Two .md files in this repository are turned into a [static website](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). The `index.md` file is turned into a home page and the `di-reflection.md` file is turned into an additional page. While both pages should demonstrate your aesthetic, technical and critical thinking skills, the home page should outline <!-- #todo is there a better phrase for this --> one of your chosen resident identities (institutional/professional or one linked to a specific project of yours - perhaps it could be a start on your major project?). The additional page, the di-reflection page, should reflect on your use of the [V&R map](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/digital-identities) to help develop your digital identities in both, visitor and resident modes.
 
 Flexibilities:   
-1. you could have more than two pages on your website 
-2. instead of GitHub Pages, you can use another content management system (CMS) e.g. WordPress to design your website
-3. instead of reflecting on your visitor and resident modes on a public website e.g. using this GitHub repository or a WordPress website, you can submit a PDF version of your reflection on FASER. To clarify, in this case, you will submit two PDF files on FASER: (1) the `submit.md` with a completed checklist and converted into PDF and (2) your di-reflection in PDF. This di-reflection file in PDF still needs to follow the template/guide provided in the `di-reflection.md` file. If you decide to work on your di-reflection privately, you could choose to do this in a private GitHub repository or even in your chosen text editor e.g. Word and then submit the PDF version via FASER. 
+1. you can have more than two pages on your website if needed
+2. your website can be be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages
+3. your reflection can be submitted as a PDF file instead a web page. To clarify, in this case, you will submit two PDF files on FASER: (1) the PDF version of the completed `submit.md` file as described above and (2) the PDF version of your `di-reflection.md` file. **You should do this** if you feel that your reflection contains information that you do not want to have on a public website. We will discuss this in class thouroughly.
 
 <br>
 
