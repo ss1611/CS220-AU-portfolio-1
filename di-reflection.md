@@ -1,4 +1,4 @@
-## Reflection on my digital identities
+## Reflection on digital identities
 
 This writing briefly reflects on my understanding of
 
