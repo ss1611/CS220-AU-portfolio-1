@@ -17,7 +17,7 @@ At the end of the module, you will need submit a link to your own repository thr
 ## Portfolio items
 In essence, your repository needs to contain the following:
 
-1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (log) and tasks to do (TODO) in the `README.md` file
+1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file
 2. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes in the `di-reflection.md` file
 3. **website** - a simple website supporting your institutional/professional identity or one of your projects using the `index.md` file and GitHub Pages function. You can add your DI reflection as additional page to your website. 
 4. **self- and peer-assessments** - marking rubrics to streamline your progress
