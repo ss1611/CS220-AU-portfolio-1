@@ -1,4 +1,4 @@
-# Self- and peer-assessement tool
+# Self- and peer-assessement
 
 ## Marking criteria
 
