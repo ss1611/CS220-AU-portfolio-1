@@ -1,4 +1,4 @@
-# Self and peer assessement tool
+# Self- and peer-assessement tool
 
 ## Marking criteria
 
@@ -46,7 +46,7 @@ The general marking criteria can be found in the asset folder of the module's [r
 
 
 
-## Self assessment
+## Self-assessment
 <!-- #todo fill in, perhaps update weekly -->
 To measure my own progress, I filled in the table below using the above marking rubric. 
 
@@ -66,12 +66,12 @@ To measure my own progress, I filled in the table below using the above marking 
 
 <br>
 
-## Peer assessment
+## Peer-assessment
 To help measure my progress, I asked two people in my group to reflect on my progress using the above marking rubric
 
 <br>
 
-### Peer assessment 1
+### Peer-assessment 1
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -89,7 +89,7 @@ Assessed by: <!-- add student reg nb -->
 
 <br>
 
-### Peer assessment 2
+### Peer-assessment 2
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
