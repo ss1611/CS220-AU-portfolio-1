@@ -45,6 +45,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+- amend index.md file, simplify, add images, etc. 
 - amend di-reflection content - check logic/grammar
 - add #todo in HTML comments for students in all files 
 - go throught this repository with students and clarify if needed
