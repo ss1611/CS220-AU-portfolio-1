@@ -48,10 +48,9 @@ The `index.md` is an examples for outlining your professional identity. The `di-
 <br>
 
 ## TODO
-- amend index.md file, simplify, add images, etc. 
 - amend di-reflection content - check logic/grammar
 - add #todo in HTML comments for students in all files 
-- go throught this repository with students and clarify if needed
+- go through this repository with students and clarify if needed
 - make screencast demonstrating the use of this repository
 
 <br>
