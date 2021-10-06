@@ -33,8 +33,11 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
+### Template files 
+The `index.md` is an examples for outlining your professional identity. The `di-reflection.md` is an example for reflecting on digital identities in general and on developing your own digital identities. Both use primarily Markdown language and some HTML language. You need to add your own information and experiment with their narrative, aesthetics, etc. I will demonstrate ideas in the relevant workshop. Consider this `README.md` as the template for your portfolio overview, change it as necessary.
+
+
 ## Log
-<!-- #todo remove content of template's log and add my own -->
 - 2021-10-06 README.md refined with clearer oveview. Change from submitting in PDF to submitting in .md (submit.md). 
 - 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammaly and ProWritingAid
 - 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
