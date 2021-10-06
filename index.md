@@ -5,32 +5,7 @@
 - link my other websites made with repos
 -->
 
-This is a simple home page example that provides
-
-- a brief introduction to my professional identity
-- links to my selected social platforms
-- a list of current projects
-- a list of education and work experience 
-
-You can use it as a template, amend it, change it completely, etc. or create your own from scratch. 
-
-My [home page](https://khofstadter.com/) links to a general CV instead of writing all the information out, which you might want to consider as well. You can choose as you wish, but be aware that when you submit a CV for a job, you should customise that CV for that specific job. Good practice is to have a general/full CV with all your accomplishments (and aspirations) and then edit this full CV for each job you apply for. Also, it's good to have a general/full CV with minimal formating for when you have to copy and past specific CV information to websites e.g. LinkedIn or online application forms. 
-
-For inspiration, please check the following links:
-
-- https://github.com/makersacademy/CV
-- https://github.com/elipapa/markdown-cv (more advanced as it uses CSS as well)
-- https://sive.rs/ (not on GitHub, but gives you a good idea for minimalism)
-- https://www.higheredjobs.com/Articles/articleDisplay.cfm?ID=2619
-- https://enhancv.com/blog/seth-godin-resume/
-
-We will discuss ideas for making CVs in the workshops.
-
-Thanks, k
-
-<br>
-
-# Krisztián Hofstädter
+## Krisztián Hofstädter
 **Creative technologist with teaching, technical and artistic skills**  
 
 Hello! My name is Krisztián Hofstädter, aka tEdör. 
@@ -46,7 +21,7 @@ Note: I wrote this short bio to go with a recent journal publication where I was
 - [LinkedIn](https://www.linkedin.com/in/tedor)
 - [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
 
-Note: only link social media that you are happy for people to visit i.e. if your website is about a professional service (even your blog on something very specific that a few people could learn somehing from), you should not link it to  your social media account which is primarily for your personal use. 
+Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
