@@ -34,7 +34,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ### Template files 
-The `index.md` is an examples for outlining your professional identity. The `di-reflection.md` is an example for reflecting on digital identities in general and on developing your own digital identities. Both use primarily Markdown language and some HTML language. You need to add your own information and experiment with their narrative, aesthetics, etc. I will demonstrate ideas in the relevant workshop. Consider this `README.md` as the template for your portfolio overview, change it as necessary.
+The `index.md` is an examples for outlining your professional identity. The `di-reflection.md` is an example for reflecting on digital identities in general and on developing your own digital identities. Both use primarily Markdown language and some HTML language. You need to add your own information to these files and experiment with their narratives, aesthetics, etc. I will demonstrate ideas in the relevant workshop. Consider this `README.md` as the template for your portfolio overview, change it as necessary.
 
 
 ## Log
