@@ -83,5 +83,6 @@ This writing I reflected on my understanding of
 - what is my digital capability e.g. what aspect of technology am I confortable/unconfortable with?
 - how can I improve my online presence e.g. by monitoring the time I spend on social media vs. work when using my computing device?
 - how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of more reactive/emotional/bias state of mind before sharing or commenting on something online?
+- what information about my developing digital identities am I confident sharing publicaly?
 
 <br>
