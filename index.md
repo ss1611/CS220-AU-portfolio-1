@@ -5,15 +5,15 @@
 - link my other websites made with repos
 -->
 
-## Krisztián Hofstädter
+## Genesis Pyo
 **Creative technologist with teaching, technical and artistic skills**  
 
-Hello! My name is Krisztián Hofstädter, aka tEdör. 
+Hello! My name is Genesis Pyo, aka PyoG. 
 
 I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio
 Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
 
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite very oftern before they consider it final. So should you. Experiment and ask for feedback. 
+Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite very oftern before they consider it final. So should you. Experiment and ask for feedback. Yes, it's not my real name above.
 
 <br>
 
