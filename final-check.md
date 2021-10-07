@@ -33,3 +33,10 @@ In the `assessement.md` file I
 - [ ] filled in the peer-assessment tables for which two students in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for two people in my CS220 group
 
+<!-- #todo : 
+- delete all unnecessary comments in this file 
+- rename both files to submit on FASER so that they indicate my student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.md` 
+- submit on FASER
+- relax
+-->
+
