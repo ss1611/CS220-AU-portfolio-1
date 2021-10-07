@@ -53,6 +53,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 - check all files, minimise
+- provide clarification on Chicago style referencing
 - add #todo in HTML comments for students in all files 
 - go through this repository with students and clarify if needed
 - make screencast demonstrating the use of this repository
