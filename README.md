@@ -1,8 +1,8 @@
 # CS220 AU portfolio
 ## Overview
-This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
+This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, the digital portfolio.
 
-In essence, it demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
+It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
 - clear project management
 - writing articles
 - web-design with [GitHub Pages](https://pages.github.com/)
@@ -10,32 +10,33 @@ In essence, it demonstrates the use of [Markdown language](https://guides.github
 
 <br>
 
-At the end of the module, you will need submit a link to your own repository through FASER. 
-
-<br>
-
 ## Portfolio items
-In essence, your repository needs to contain the following:
+Your portfolio needs to contain the following:
 
-1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file
-2. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes in the `di-reflection.md` file
-3. **website** - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. (You can add your DI reflection as an additional page to your website.) 
-4. **self- and peer-assessments** - marking rubrics to streamline your progress
+1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file that you are reading now as a template - change it as necessary.
+2. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes (White, 2013). You can write this reflection in your preferred word edit e.g. Word, Google Docs, Open Office, but you must submitted it as a PDF file on FASER. However, if you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
+3. **website** - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is an example for outlining your professional identity - change it as necessary.
+4. **self- and peer-assessments** - marking rubrics in the `assessment.md` file to streamline your progress. Before your submission, you will have to use this file to evaluate your work and two other students' work.  
 
-When you finished these items, you will need to add your student number and your portfolio's URL in the `submit.md` file, complete a checklist in this file and then submit it on FASER.
+When you finished these items, you will need to add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and submit it (and the PDF version of your DI reflection) on FASER. 
 
-How to use this GitHub repository as a template for your submission, including how to submit your `submit.md` file, is demonstrated in the workshops. 
+In essence, you need to submit two files on FASER:
+
+1. DI-reflection.pdf
+2. final-check.md
+
+But, before you submit, please rename both files to contain your student number e.g. like this:
+
+1. 0610279-DI-reflection.pdf
+2. 0610279-final-check.md
+
+How to use this GitHub repository as a template for your submission, including how to submit your files is demonstrated in the workshops. 
 
 ### Flexibilities 
 1. you can have more than two pages on your website if needed
 2. your website can be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages (just make sure you provide a link to your website in your `README.md` file)
-3. your DI reflection can be submitted as a PDF file instead being an .md file in your repository. **You should do this** if you feel that your reflection contains information that you do not want to have on a public website. We will discuss this in class.
 
 <br>
-
-### Template files 
-The `index.md` is an examples for outlining your professional identity. The `di-reflection.md` is an example for reflecting on digital identities in general and on developing your own digital identities. Both use primarily Markdown language and some HTML language. You need to add your own information to these files and experiment with their narratives, aesthetics, etc. I will demonstrate ideas in the relevant workshop. Consider this `README.md` as the template for your portfolio overview, change it as necessary.
-
 
 ## Log
 - 2021-10-06 README.md refined with clearer oveview. Change from submitting in PDF to submitting in .md (submit.md). 
@@ -56,4 +57,5 @@ The `index.md` is an examples for outlining your professional identity. The `di-
 <br>
 
 ## References
+- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
