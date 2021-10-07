@@ -24,12 +24,12 @@ When you finished these items, you will need to add your student number and your
 
 In essence, you need to submit two files on FASER:
 
-1. DI-reflection.pdf
+1. di-reflection.pdf
 2. final-check.md
 
 But, before you submit, please rename both files to contain your student number e.g. like this:
 
-1. 0610279-DI-reflection.pdf
+1. 0610279-di-reflection.pdf
 2. 0610279-final-check.md
 
 How to use this GitHub repository as a template for your submission, including how to submit your files is demonstrated in the workshops. 
