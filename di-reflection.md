@@ -1,43 +1,57 @@
+Note: You can use the outline below as your template, amend it or change it completely. But make sure you use the right referencing style: https://www.chicagomanualofstyle.org/tools_citationguide.html.
+
 ## Reflection on digital identities
 
 This writing briefly reflects on my understanding of
 
-1. digital identities in general
-2. my own digital identities in the past/present
-3. my own digital identities in the future
+- digital identities in general
+- my own digital identities in the past/present
+- my own digital identities in the future
 
 <br>
 
 ### Digital identities
 To help identify and improve my own digital identities, I explored 
-- White et al.'s Visitor and Resident (V&R) concept which 
-  - says this and that 
-  - and out of these things that they wrote, I found this and that interesting, and therefore researched this and that further and found this and that, etc. 
+- [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
+  - says this and that as well as that
+  - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
+
+Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
 
 <br>
 
 ### My past/present digitial identity/identities
-Using White et al.'s V&R map, I identified the following ways I engage with the Web in my visitor and resident modes
+Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
 
 <br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
 
-To analyse my data I used 
-- SWOT
-- check what other methods you could use
+To clarify, in 
 
-Make sure you not only write about what you think needs imporving but also about what you think you are already doing well. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading you can list the things that need improving and then write about what ideas/methods you plan to use to improve what needs improving. 
+- my visiting modes the main activity is ...
+- my resident modes the main activity is ...
+- the difference between my personal and insitutinal modes is ...
+- etc. 
 
 <br>
 
 ### My future digitial identity/identities
-After identifying and analysing my current use of digital identities on the Web, I set the goal to **improve their use** with the following objectives. 
+To help develop my digital identies I have used
+- revised my current use of digital identities (thought about it critically)
+- discussed it with my cohort and friends
+- found this and that in journal papers/books/internet which helped understand where and how I could improve 
+- used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) that helped understsand my next steps
+- etc. 
+
+Note: Make sure you not only write about what you think needs imporving but also about what you think you are already doing well. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
+
+After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
 
 <br>
 
 #### Objective 1 (example)
-The above V&R map and its analysis highlighted that ... 
+The above V&R map and its analysis highlighted ...
 
-In order to address this weakness/threat I plan to 
+In order to address this (weakness/threat) I plan to 
 - do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
 - by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
 
@@ -53,17 +67,15 @@ By addressing these objectives my V&R map will look as follows:
 <br>
 
 ### Summery
-This writing I reflected on my understanding of
+In this writing reflected on my understanding of
 
 1. digital identities in general and highlighted this and that
 2. my own digital identities in the past/present and highlighted this and that
 3. my own digital identities in the future and highlighted this and that
 
-<!-- #todo maybe have the two above maps next to each other for each comparision-->
-
 <br>
 
-##### questions you could expore 
+### Questions you should/could expore 
 - do I know people who are much older than me and can use technology e.g. the Web more efficiently?
 - what does it actually mean 'to use the Web more efficiently'?
 - what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?
@@ -86,3 +98,6 @@ This writing I reflected on my understanding of
 - what information about my developing digital identities am I confident sharing publicaly?
 
 <br>
+
+### Thoughst
+- maybe have the two above maps next to each other for the reader to easily compare (as well) -->
