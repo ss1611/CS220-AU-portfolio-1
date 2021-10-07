@@ -47,7 +47,7 @@ The general marking criteria can be found in the asset folder of the module's [r
 
 
 ## Self-assessment
-<!-- #todo fill in, perhaps update weekly -->
+<!-- #todo : rearrange the marks as needed  -->
 To measure my own progress, I filled in the table below using the above marking rubric. 
 
 <br>
@@ -67,11 +67,12 @@ To measure my own progress, I filled in the table below using the above marking 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked two people in my group to reflect on my progress using the above marking rubric
+To help measure my progress, I asked two students in my group for feedback, to help reflect on my progress using the above marking rubric.
 
 <br>
 
 ### Peer-assessment 1
+<!-- #todo : rearrange the marks as needed  -->
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -84,12 +85,13 @@ To help measure my progress, I asked two people in my group to reflect on my pro
 | 3.2 |     |     |  o  |     |     |
 | 4.1 |     |     |     |  o  |     |
 
-Assessed by: <!-- add student reg nb -->
+Feedback given by: <!-- add student nb -->
 
 
 <br>
 
 ### Peer-assessment 2
+<!-- #todo : rearrange the marks as needed  -->
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -102,6 +104,6 @@ Assessed by: <!-- add student reg nb -->
 | 3.2 |     |     |  o  |     |     |
 | 4.1 |     |     |     |  o  |     |
 
-Assessed by: <!-- add student reg nb -->
+Feedback given by: <!-- add student nb -->
 
 <br>
