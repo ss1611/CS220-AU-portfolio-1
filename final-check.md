@@ -6,8 +6,6 @@ Coursework title: Digitial Portfolio
 Marker: Krisztian Hofstadter  
 GitHub repository URL:
 
-<br>
-
 ## Checklist
 <!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
 
@@ -36,8 +34,9 @@ In the `assessement.md` file I
 
 <!-- #todo : 
 - delete all unnecessary comments in this file 
-- rename both files to submit on FASER so that they indicate my student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.md` 
-- submit on FASER
+- dowload this .md file to your computer and rename the extension from .md to .txt (FASER does not accept .md files)
+- rename both files to submit on FASER so that they indicate my student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.txt` 
+- submit these two files on FASER
 - relax
 -->
 
