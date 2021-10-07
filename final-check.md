@@ -16,14 +16,15 @@ I made sure that
 - [x] my GitHub username matches my student registration number
 - [ ] my repository to submit is named 'CS220-AU-portfolio'.
 
-### Reflection
-In the `di-reflection.md` file I
-- [ ] added my own reflection on my digital identities. I understand that this reflection could alternatively be submitted in a PDF file on FASER if I wanted to keep my writing more private i.e. not publically  available in this repository. (I deleted the 'di-reflection.md' file from this repository when submitting a PDF version of it on FASER to avoid confusion.)
-
 ### Website
 I used the `index.md` file 
 - [ ] to support one of my own professional/institutional identities (or projects) and used the GitHub Pages function to turn this file into a website. I understand that as an alternative to GitHub Pages, I could have used another content management system e.g. WordPress to create my website and that I could have added additional pages if essential.
 - [ ] I provided a URL to my website in the repository's `README.md` file
+
+### DI Reflection
+- [ ] I wrote my reflection on digital identities focusing on developing my own digital identities using the information in the `di-reflection.md` file as a guide 
+- [ ] I converted my file into a PDF and renamed it to reflect my student number e.g. '0610279-di-reflection.PDF' 
+- [ ] I understand that this reflection could also be added to my website using the `di-reflection.md` file if I feel that its content is safe for public dissemination.
 
 ### Self- and peer-assessment
 In the `assessement.md` file I
@@ -32,4 +33,3 @@ In the `assessement.md` file I
 - [ ] filled in the peer-assessment tables for which two students in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for two people in my CS220 group
 
-<!-- #todo : delete unnecessary comments above submit the completed `submit.md` file on FASER -->
