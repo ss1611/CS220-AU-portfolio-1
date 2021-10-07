@@ -3,7 +3,7 @@
 This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
-- clear project management
+- project management
 - writing articles
 - web-design with [GitHub Pages](https://pages.github.com/)
 - self- and peer-assessment
