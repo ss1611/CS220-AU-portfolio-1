@@ -8,6 +8,8 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - web-design with [GitHub Pages](https://pages.github.com/)
 - self- and peer-assessment
 
+The URL of the website using this repository is [https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). It is the GitHub Pages version of the `index.md` file. 
+
 <br>
 
 ## Portfolio items
