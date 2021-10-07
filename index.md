@@ -1,9 +1,10 @@
 <!-- #todo
-- keep what's necessary, don't have full CV
 - add images to social media and link them
 - embed audio-video players
 - link my other websites made with repos
 -->
+
+The information below can be used as a template for your own home page. 
 
 ## Genesis Pyo
 **Creative technologist with teaching, technical and artistic skills**  
@@ -25,7 +26,13 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 <br>
 
-## acedmic pages/associations/clubs
+## contact
+- k[dot]hofstadter[at]essex[dot]co[dot]uk
+- kris[at]khofstadter[dot]com
+
+<br>
+
+## acedemic pages/associations/clubs
 - [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
 - [StoryLab Team Page](https://storylabresearch.com/team/)
 
@@ -40,7 +47,7 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 <br>
 
-## EDUCATION
+## educations
 
 | date | degree | institute |
 --- | --- | ---
@@ -51,15 +58,15 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 <br>
 
-## WORK EXPERIENCE
-### Research Assistant Positions
+## work experience
+### research assistant positions
 #### StoryLab Research Institute
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
 Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
 
-#### Enhancing Audio Description Project
+#### Enhancing Audio Description project
 01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
 04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
 
@@ -67,35 +74,39 @@ My key responsibilities in this role included organising events, engagement with
 
 <br>
 
-### Associate Lecturer Positions
+### associate lecturing positions
 
-#### Sonic Art (ARU)
+#### Sonic art (ARU)
 01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
 
-#### Music for the Moving Image (ARU)
+#### Music for the moving image (ARU)
 09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
 
 <br>
 
-## Other Relevant Experience
-### Music Technical Officer at ARU
+## other relevant experience
+### music technical officer at ARU
 03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
 
-### Sole Trader at Tedör Tea
+### sole trader at Tedör Tea
 2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
 
-## OUTPUTS
-### Peer-reviewed Publications
+## outputs
+### peer-reviewed dublications
 - Lopez, M., Kearney, G. and Hofstädter, K. 2020. Seeing films through sound: Sound design, spatial audio, and accessibility for visually impaired audiences, *British Journal of Visual Impairment*, DOI: 10.1177/0264619620935935
 
-### Presentations/Demonstration 
+### presentations/demonstration 
 - Hofstadter, K. 2020 ARU Talking Science (online presentation), ARU, Cambridge [https://bcmi.khofstadter.info/aru-talking-science-series-2020/](https://bcmi.khofstadter.info/aru-talking-science-series-2020/)
 
 - Hofstadter, K. 2019. Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythmic Entrainment
 Audio Engineering Society International Conference on Immersive and Interactive Audio, York. [https://bcmi.khofstadter.info/ aes-york-conference-demo-2019/](https://bcmi.khofstadter.info/aes-york-conference-demo-2019/)
 
-### Recent Performances
+### recent performances
 - Hofstadter, K. 2019. NeuroMeditation with Music (presentation and a brain-computer music interfacing performance) at 2019 Festival of Ideas, ARU, Cambridge. [https://bcmi.khofstadter.info/festival-of-ideas-2019-talk-performance/](https://bcmi.khofstadter.info/festival-of-ideas-2019-talk-performance/)
 - Ryan, D. et al 2019. Aphorisms (live sound design and engineering). Performed at ARU, Music Department. [https://bcmi.khofstadter.info/aphorisms/](https://bcmi.khofstadter.info/aphorisms/)
+
+<br>
+
+My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
