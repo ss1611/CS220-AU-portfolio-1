@@ -13,7 +13,7 @@ GitHub repository URL:
 
 ### General
 I made sure that
-- [x] my GitHub username matches my student registration number
+- [x] my GitHub username matches my student number
 - [ ] my repository to submit is named 'CS220-AU-portfolio'
 
 ### Website
@@ -31,7 +31,7 @@ In the `assessement.md` file I
 - [ ] familiarised myself with the marking rubric
 - [ ] filled in the self-assessment table
 - [ ] filled in the peer-assessment tables for which two students in my CS220 group provided feedback for
-- [ ] familiarised myself with the marking rubric and provided feedback for two people in my CS220 group
+- [ ] familiarised myself with the marking rubric and provided feedback for two students in my CS220 group
 
 <!-- #todo : 
 - delete all unnecessary comments in this file 
