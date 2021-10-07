@@ -1,4 +1,4 @@
-Note: You can use the outline below as your template, amend it or change it completely. But make sure you use the right referencing style: https://www.chicagomanualofstyle.org/tools_citationguide.html.
+Note: You can use the outline below as your template, amend it or change it completely. Just make sure you use the [Chicago sytle referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
 
 ## Reflection on digital identities
 
