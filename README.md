@@ -9,11 +9,11 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - self- and peer-assessment
 - final checklist 
 
-The URL of the website, using the `index.md` file in this repository, is [https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). It is a very simple home page that you will need to amend with your information.
+The URL of the website, using the `index.md` file in this repository, is [https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). It is a very simple home page that you will need to amend with your own information.
 
 <br>
 
-## CS220 AU portfolio items
+## Portfolio items
 Your portfolio needs to contain the following:
 
 1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
