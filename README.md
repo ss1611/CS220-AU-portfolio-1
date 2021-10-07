@@ -15,10 +15,10 @@ The URL of the website using this repository is [https://krisztian-hofstadter-te
 ## CS220 AU portfolio items
 Your portfolio needs to contain the following:
 
-1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file that you are reading now as a template - change it as necessary.
+1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, that you are reading now, as a template - change it as necessary.
 2. **website** - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is an example for outlining your professional identity - change it as necessary.
-3. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor e.g. Word, Google Docs, Open Office, but you must submitted it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
-4. **self- and peer-assessments** - marking rubrics in the `assessment.md` file to streamline your progress. Before your submission, you will have to use this file to evaluate your work and two other students' work.  
+3. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor e.g. Word, Google Docs, Open Office, but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
+4. **self- and peer-assessments** - marking rubrics in the `assessment.md` file to streamline your progress. Before your submission, you will have to use this file to evaluate your work and two other students' work. Try to use it at least a couple of times before you submit your work i.e. assess your portfolio with the marking rubric more than once. 
 
 When you finished these items, you will need to add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and submit it (and the PDF version of your DI reflection) on FASER. 
 
@@ -41,7 +41,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. submit.md change to final-check.md. All files changed to reflect these changes. 
+- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md files is changed to final-check.md. All files changed to reflect these changes. 
 - 2021-10-06 README.md refined with clearer oveview. Change from submitting in PDF to submitting in .md (submit.md). 
 - 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammaly and ProWritingAid
 - 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
