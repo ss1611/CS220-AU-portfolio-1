@@ -1,6 +1,6 @@
 # CS220 AU portfolio
 ## Overview
-This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, the digital portfolio.
+This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
 - clear project management
@@ -8,19 +8,19 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - web-design with [GitHub Pages](https://pages.github.com/)
 - self- and peer-assessment
 
-The URL of the website using this repository is [https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). It is the GitHub Pages version of the `index.md` file in this repository. It is a very simple home page that you can amend with your own information.
+The URL of the website based on the `index.md` file in this repository is [https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/). It is a very simple home page that you can amend with your own information.
 
 <br>
 
 ## CS220 AU portfolio items
 Your portfolio needs to contain the following:
 
-1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, that you are reading now, as a template - change it as necessary.
+1. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
 2. **website** - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is an example for outlining your professional identity - change it as necessary.
-3. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor e.g. Word, Google Docs, Open Office, but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
-4. **self- and peer-assessments** - marking rubrics in the `assessment.md` file to streamline your progress. Before your submission, you will have to use this file to evaluate your work and two other students' work. Try to use it at least a couple of times before you submit your work i.e. assess your portfolio with the marking rubric more than once. 
+3. **DI reflection** - a short written work reflecting on developing your digital identies including visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
+4. **self- and peer-assessments** - marking rubrics in the `assessment.md` file to streamline your progress. Before your submission, you will have to use this file to evaluate your work and give feedback on two of your classmates' work.
 
-When you finished these items, you will need to add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and submit it (and the PDF version of your DI reflection) on FASER. 
+When you finished these items, you will need to add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
 
 In essence, you need to submit two files on FASER:
 
