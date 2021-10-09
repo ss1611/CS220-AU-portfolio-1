@@ -33,6 +33,11 @@ But, before you submit, please rename both files to contain your student number 
 1. 0610279-di-reflection.pdf
 2. 0610279-final-check.md
 
+<br> 
+
+![](assets/img/portfolio-graph.png)
+
+
 ### Flexibilities 
 1. you can have more than two pages on your website if needed
 2. your website can be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages (just make sure you provide a link to your website in your `README.md` file)
