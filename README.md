@@ -60,6 +60,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+- remove one peer assessment
 - check all files, minimise
 - add #todo in HTML comments for students in all files 
 - go through this repository with students and clarify if needed
