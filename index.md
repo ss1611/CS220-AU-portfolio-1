@@ -39,6 +39,7 @@ Note: only link social media that you are happy for people to visit i.e. if your
 <br>
 
 ## now
+- I just wrote a template for my students' [di-reflection](di-reflection.md)
 - working as a post-grad research asssistant on [EAD](http://enhancingaudiodescription.com/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctorol thesis on [BCMI](https://bcmi.khofstadter.com/)
@@ -93,19 +94,17 @@ My key responsibilities in this role included organising events, engagement with
 
 <br>
 
-## outputs
-### peer-reviewed dublications
-- Lopez, M., Kearney, G. and Hofstädter, K. 2020. Seeing films through sound: Sound design, spatial audio, and accessibility for visually impaired audiences, *British Journal of Visual Impairment*, DOI: 10.1177/0264619620935935
+Here is an example on how to embad an image from an external website:
 
-### presentations/demonstration 
-- Hofstadter, K. 2020 ARU Talking Science (online presentation), ARU, Cambridge [https://bcmi.khofstadter.info/aru-talking-science-series-2020/](https://bcmi.khofstadter.info/aru-talking-science-series-2020/)
+![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
 
-- Hofstadter, K. 2019. Demonstration of Brain-Computer Music Interfacing Soundscape - Generative Rhythmic Entrainment
-Audio Engineering Society International Conference on Immersive and Interactive Audio, York. [https://bcmi.khofstadter.info/ aes-york-conference-demo-2019/](https://bcmi.khofstadter.info/aes-york-conference-demo-2019/)
+<br>
 
-### recent performances
-- Hofstadter, K. 2019. NeuroMeditation with Music (presentation and a brain-computer music interfacing performance) at 2019 Festival of Ideas, ARU, Cambridge. [https://bcmi.khofstadter.info/festival-of-ideas-2019-talk-performance/](https://bcmi.khofstadter.info/festival-of-ideas-2019-talk-performance/)
-- Ryan, D. et al 2019. Aphorisms (live sound design and engineering). Performed at ARU, Music Department. [https://bcmi.khofstadter.info/aphorisms/](https://bcmi.khofstadter.info/aphorisms/)
+And here is an example for embadding an audio player:
+
+<br>
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
 
 <br>
 
