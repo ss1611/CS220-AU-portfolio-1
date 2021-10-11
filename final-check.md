@@ -29,7 +29,7 @@ I used the `index.md` file
 In the `assessement.md` file I
 - [ ] familiarised myself with the marking rubric
 - [ ] filled in the self-assessment table
-- [ ] filled in the peer-assessment tables for which two students in my CS220 group provided feedback for
+- [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for two students in my CS220 group
 
 <!-- #todo : 
