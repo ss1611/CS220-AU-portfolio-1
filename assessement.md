@@ -67,11 +67,11 @@ To measure my own progress, I filled in the table below using the above marking 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked two students in my group for feedback, to help reflect on my progress using the above marking rubric.
+To help measure my progress, I asked one student in my group for feedback, to help reflect on my progress using the above marking rubric.
 
 <br>
 
-### Peer-assessment 1
+### Peer-assessment
 <!-- #todo : rearrange the marks as needed  -->
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
@@ -87,23 +87,5 @@ To help measure my progress, I asked two students in my group for feedback, to h
 
 Feedback given by: <!-- add student nb -->
 
-
-<br>
-
-### Peer-assessment 2
-<!-- #todo : rearrange the marks as needed  -->
-
-|   | 40- | 40+ | 50+ | 60+ | 70+ | 
-|---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
-| 1.2 |     |     |     |  o  |     |
-| 1.3 |     |  o  |     |     |     |
-| 2.1 |     |     |  o  |     |     |
-| 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
-| 3.2 |     |     |  o  |     |     |
-| 4.1 |     |     |     |  o  |     |
-
-Feedback given by: <!-- add student nb -->
 
 <br>
