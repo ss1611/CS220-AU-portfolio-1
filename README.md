@@ -17,7 +17,7 @@ The URL of the website, using the `index.md` file in this repository, is [https:
 Your portfolio needs to contain the following:
 
 1. **website** (40% of your overall mark) - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is a basic example for outlining your professional identity - change it as necessary.
-2. **DI reflection** (40% of your overall mark) - a short written work reflecting on developing your digital identies including visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
+2. **DI reflection** (40% of your overall mark) - a short written work reflecting on developing your digital identities including visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
 3. **self- and peer-assessments** (10% of your overall mark) - the CS220 AU marking rubric in the `assessment.md` file to streamline your progress. Before your submission, you will have to use this file to evaluate your work and give feedback on one of your classmates' work.
 4. **portfolio overview** (10% of your overall mark)- a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
 
@@ -49,9 +49,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021-10-11 one peer assessmeny instead of two neede.
+- 2021-10-11 one peer assessment instead of two needed.
 - 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md files is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer oveview. Change from submitting in PDF to submitting in .md (submit.md). 
+- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
 - 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammaly and ProWritingAid
 - 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
@@ -61,12 +61,20 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+## by week 2
 - check all files, minimise
-- find website examples for home page
-- beautify index.md
+## by week 3
 - add #todo in HTML comments for students in all files 
-- go through this repository with students and clarify if needed
 - make screencast demonstrating the use of this repository
+### index.md
+- link good minimal examples
+- beautify index.md
+    - add social media icons for hyperlinks
+## by week 7
+- make screencast demonstrating the submission of this repository
+
+### in class
+- go through this repository with students and clarify if needed
 
 <br>
 

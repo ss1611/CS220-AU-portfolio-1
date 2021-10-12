@@ -2,7 +2,7 @@
 
 Student number:    
 Module code: CS220 AU  
-Coursework title: Digitial Portfolio  
+Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
 GitHub repository URL:
 
@@ -34,8 +34,8 @@ In the `assessement.md` file I
 
 <!-- #todo : 
 - delete all unnecessary comments in this file 
-- dowload this .md file to your computer and rename the extension from .md to .txt (FASER does not accept .md files)
-- rename both files to submit on FASER so that they indicate my student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.txt` 
+- download this .md file to your computer and rename the extension from .md to .txt (FASER does not accept .md files)
+- rename both files to submit on FASER so that they show my student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.txt` 
 - submit these two files on FASER
 - relax
 -->

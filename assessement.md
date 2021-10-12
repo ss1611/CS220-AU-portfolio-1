@@ -1,11 +1,11 @@
-# Self- and peer-assessement
+# Self- and peer-assessment
 
 ## Marking criteria
 
 ### General
 |.    |   |        |                                                                                                                  |
 |-----|---------|--------------|------------------------------------------------------------------------------------------------------------------------|
-|40-  |Fail     |Unsatisfactory|Only some parts of the work were addressed and in general the work appears to be rushed and demonstrates a lack of care.|
+|40-  |Fail     |Unsatisfactory|Only some parts of the work were addressed and in general, the work appears to be rushed and demonstrates a lack of care.|
 |40+  |Third    |Satisfactory  | All parts of the work were addressed, however, there appears to be a lack of attention to detail.                      |
 |50+  |Lower 2nd|Good          |All parts of the work were addressed to a good standard demonstrating attention to detail.                              |
 |60+  |Upper 2nd|Very good     |All parts of the work were addressed to a very good standard demonstrating good attention to detail.                    |
@@ -32,7 +32,7 @@ The general marking criteria can be found in the asset folder of the module's [r
 |2. WEBSITE 40%|         |              |                                                                                                                        |   |   |
 |2.1 Knowledge and understanding: reference to literature/methodology addressing the technical, aesthetic and legal aspects of good web-design practices e.g. professionals highlighting the advantages and disadvantages of different website generating systems (e.g. GitHub Pages vs. WordPress), the effective use of colour combination and implications linked to different versions of licensing artwork under the Creative Commons (CC).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
-|2.2 Practical: level of logic (intelligence) and aesthetics (imagination) applied to your references to demonstrate an awareness of audience characteristics and responses as well as to communicate meaning e.g. by the right choice for a website generating system for the task, by efficient use of Markdown language to streamline productivity, by choosing or producing effective audio-visual or graphic materials and by correct use of CC material.|         |              |                                                                                                                        |   |   |
+|2.2 Practical: level of logic (intelligence) and aesthetics (imagination) applied to your references to demonstrate an awareness of audience characteristics and responses as well as to communicate meaning e.g. by the right choice for a website generating system for the task, by efficient use of Markdown language to streamline productivity, by choosing or producing effective audio-visual or graphic materials and by the correct use of CC material.|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |3. EFFORT 10%|         |              |                                                                                                                        |   |   |
@@ -47,7 +47,6 @@ The general marking criteria can be found in the asset folder of the module's [r
 
 
 ## Self-assessment
-<!-- #todo : rearrange the marks as needed  -->
 To measure my own progress, I filled in the table below using the above marking rubric. 
 
 <br>
@@ -67,12 +66,11 @@ To measure my own progress, I filled in the table below using the above marking 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked one student in my group for feedback, to help reflect on my progress using the above marking rubric.
+To help measure my progress, I asked one student in my group for feedback to help reflect on my progress using the above marking rubric.
 
 <br>
 
 ### Peer-assessment
-<!-- #todo : rearrange the marks as needed  -->
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
