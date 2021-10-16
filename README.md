@@ -49,6 +49,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2021-10-16 testing fork from kris-dummy account
 - 2021-10-11 one peer assessment instead of two needed.
 - 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md files is changed to final-check.md. All files changed to reflect these changes. 
 - 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
