@@ -105,6 +105,6 @@ Here an example to embed a video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br> 
+<br><br> 
 
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
