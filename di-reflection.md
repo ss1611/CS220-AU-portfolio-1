@@ -1,4 +1,6 @@
-Note: You can use the outline below as your template, amend it, or change it completely. Just make sure you use the [Chicago style referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
+Notes: 
+- you can use the outline below as your template, amend it, or change it completely. Just make sure you use the [Chicago style referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
+- you should work on your drafts in your private repository. As discussed, you can add this written work to your public website as an additional page if you'd like, but makes sure you also submit a PDF version on FASER. 
 
 ## Reflection on digital identities
 
@@ -35,14 +37,14 @@ To clarify, in
 <br>
 
 ### My future digital identity/identities
-To help develop my digital identities I have used
+To help develop my digital identities I have
 - revised my current use of digital identities (thought about it critically)
-- discussed it with my cohort and friends
+- discussed it with my cohort/friends/parents
 - found this and that in journal papers/books/internet which helped me understand where and how I could improve 
-- used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) that helped me understand my next steps
+- used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
 - etc. 
 
-Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
+Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
 
 After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
 
@@ -89,12 +91,12 @@ This writing reflected (or in this writing I reflected) on my understanding of
 - how do I assess the credibility of information of other people (or institutions) e.g. does it matter how good their profile picture looks or how well their website is designed? 
 - how much fact-checking could people do when visiting my resident identities e.g. my websites or social accounts and who much fact-checking do I need to do when referencing others' work?
 - is a piece of information's creditably in line with how high the information ranks using a search engine?
-- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps whom it was reviewed by? Can this information be biased or could there be a conflict of interest? 
+- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps who it was reviewed by? Can this information be biased or could there be a conflict of interest? 
 - what does it mean to critically evaluate information i.e. what is critical thinking?
 - how do I develop my critical thinking regarding my engagement on the Web in my visitor and resident modes?
 - what is my digital capability e.g. what aspect of technology am I comfortable/uncomfortable with?
 - how can I improve my online presence e.g. by monitoring the time I spend on social media vs. work when using my computing device?
-- how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of a more reactive/emotional/bias state of mind before sharing or commenting on something online?
+- how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of a more reactive/emotional/biased state of mind before sharing or commenting on something online?
 - what information about my developing digital identities am I confident sharing publicly?
 
 <br>
