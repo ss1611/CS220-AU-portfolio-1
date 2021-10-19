@@ -87,9 +87,9 @@ This writing reflected (or in this writing I reflected) on my understanding of
 - what implications do my resident identities have on my personal life?
 - what implications do my resident identities have on my professional/institutional life?
 - how do I assess the credibility of information of other people (or institutions) e.g. does it matter how good their profile picture looks or how well their website is designed? 
-- how much fact-checking could people do when visiting my resident identities e.g. my websites or social accounts and who much fact-checking do I need to do when referencing other's work?
+- how much fact-checking could people do when visiting my resident identities e.g. my websites or social accounts and who much fact-checking do I need to do when referencing others' work?
 - is a piece of information's creditably in line with how high the information ranks using a search engine?
-- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps whom it was reviewed by? Can this information be bias or could there be a conflict of interest? 
+- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps whom it was reviewed by? Can this information be biased or could there be a conflict of interest? 
 - what does it mean to critically evaluate information i.e. what is critical thinking?
 - how do I develop my critical thinking regarding my engagement on the Web in my visitor and resident modes?
 - what is my digital capability e.g. what aspect of technology am I comfortable/uncomfortable with?
