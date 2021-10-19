@@ -49,6 +49,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2021-10-19 minor grammar and logic changes. 
 - 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
 - 2021-10-11 one peer assessment instead of two needed.
 - 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
@@ -62,19 +63,13 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-## by week 2
-- check all files, minimise
-## by week 3
-- add #todo in HTML comments for students in all files 
-- make screencast demonstrating the use of this repository
-### index.md
+### week 4 - websites
+#### index.md
 - link good minimal examples
 - beautify index.md
     - add social media icons for hyperlinks
 ## by week 7
 - make screencast demonstrating the submission of this repository
-
-### in class
 - go through this repository with students and clarify if needed
 
 <br>
