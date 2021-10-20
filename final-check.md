@@ -10,7 +10,7 @@ GitHub repository URL: <!-- #todo : add the URL of your repository -->
 ### General
 I made sure that
 - [x] my GitHub username matches my student number
-- [ ] my repository to submit is named 'CS220-AU-portfolio'
+- [x] my repository to submit is named 'CS220-AU-portfolio'
 
 ### Website
 I used the `index.md` file 
