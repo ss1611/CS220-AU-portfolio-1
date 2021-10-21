@@ -40,7 +40,7 @@ But, before you submit, please rename both files to contain your student number 
 <br>
 
 ## Log
-21/10/21: Set up GitHub private and public repository. Also started on a vague essay plan in the private 'Notes' repository and transfered it to Word for further development.
+**21/10/21**: Set up GitHub private and public repository. Also started on a vague essay plan in the private 'Notes' repository and transfered it to Word for further development.
 <br>
 
 ## TODO
