@@ -62,18 +62,6 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO
-### week 4 - websites
-#### index.md
-- link good minimal examples
-- beautify index.md
-    - add social media icons for hyperlinks
-## by week 7
-- make screencast demonstrating the submission of this repository
-- go through this repository with students and clarify if needed
-
-<br>
-
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
