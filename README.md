@@ -49,7 +49,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021-10-23 demonstrating VSC on computer.
+- 2021-10-23 demonstrating VSC on computer. testing on another computer as well.
 - 2021-10-19 minor grammar and logic changes. 
 - 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
 - 2021-10-11 one peer assessment instead of two needed.
