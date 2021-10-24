@@ -41,6 +41,7 @@ But, before you submit, please rename both files to contain your student number 
 
 ## Log
 **21/10/21**: Set up GitHub private and public repository. Also started on a vague essay plan in the private 'Notes' repository and transfered it to Word for further development.
+
 **24/10/21**: Completed the first drafts of my past, present and future V+R maps, providing a visual element to help me write my digital identity reflection.
 <br>
 
