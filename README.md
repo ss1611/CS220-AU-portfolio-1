@@ -44,7 +44,7 @@ But, before you submit, please rename both files to contain your student number 
 **24/10/21**: Completed the first drafts of my past, present and future V+R maps, providing a visual element to help me write my digital identity reflection.
 <br>
 
-## TODO
+## To do list
 - ~~Make past, present and future V+R maps to provide a framework for the essay.~~
 - Practice referencing in Chicago style in regards to videos/articles on generations, V+R continuum and Prensky's model from 2001. 
 <br>
