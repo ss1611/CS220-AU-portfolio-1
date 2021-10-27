@@ -25,14 +25,16 @@ Note: The module outline has a page on [digital identities](https://github.com/k
 ### My past/present digital identity/identities
 Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
 
-<br><br>![V&R map plain](assets/img/V&R map.png)<br><br>
+<br><br>![V&R map plain](assets/img/Cj.png)<br><br>
 
 To clarify, in 
 
-- my visiting mode, the primary activities are ...
-- my resident mode, the primary activities are ...
-- the difference between my personal and institutional modes is ...
-- etc. 
+- my visiting mode, the primary activities range from Youtube, Tik-Tok or even dropbox. In visitor mode my primary goals when using the web is mainly for finding information or entertainment. Here i do not leave an online presence as after I watch a specific video or read a certain blog I leave.
+
+- In my private resident mode, the primary activities are using several social media platforms such as Instagram, snapchat or Whatsapp where i communicate with family and friends, or even post pictures onto my feed for people to see. I have a clear online presence for everyone to see. My professional resident activities range from looking on Linked-in or Indeed where i look for several jobs or apply attaching my CV's and cover letters whenever i apply for a new job. Similarly I continuously go on Ebay as I am a seller on there and i communicate with buyers who are interested in buying products from me. Finally, Microsoft office is another important platform where i can communicate with my lecturers and staff if i have any questions or issues with University etc.
+
+-  The difference between my personal and institutional modes is that i keep more of a professional outlook on myslef and how i portray myself to other people whom i may not know personally but know more professionally. There is a clear distinction between both modes as private resident modes usually portray my personality as an individual where i am less restrictive with myself and am more active whereas my institutional modes only show parts of my personality which are necessary.
+
 
 <br>
 
