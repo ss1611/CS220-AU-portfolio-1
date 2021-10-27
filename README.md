@@ -65,7 +65,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## TODO
 ### By week 4 - websites
 #### Familiarity 
-- Update to do lista and log
+- Update to do list and log
 - Start on essay and other coursework
 - Get better with Github
 ## by week 5
