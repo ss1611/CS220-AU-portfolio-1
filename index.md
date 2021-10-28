@@ -14,8 +14,8 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+- ls20264[at]essex[dot]co[dot]uk
+- lucasschodel[at]gmail[dot]com
 
 <br>
 
@@ -39,10 +39,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+| ongoing | **BA** (Hons) - Psychosocial and Psychoanalytic Studies | UoE, Department of Psychosocial and Psychoanalytic Studies |
 
 <br>
 
