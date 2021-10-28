@@ -1,13 +1,7 @@
-The information below can be used as a template for your own home page. 
+# **Sam Davies**
+**Undergraduate Sociology student at the University of Essex.**
 
-## Krisztian Hofstadter
-**Creative technologist with teaching, technical and artistic skills**  
-
-Hello! My name is Krisztian Hofstadter, aka tEdör. 
-
-I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
-
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
+Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at Essex with a particular interest in sociological theory, education, and social inequality and the steps required to reduce it. Currently, I work in a general village maintenance role in Alresford (a small, rural community in Essex) and have a passion for preserving a sustainable physical environment and biodiverse ecosystems. Outside of my professional endeavours, I'm also an avid gamer, footballer, cook and fitness enthusiast, who is excited to undergo self-improvement and contribute towards unearthing social injustices and providing a voice for oppressed groups within society.
 
 <br>
 
