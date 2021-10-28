@@ -14,7 +14,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 <br>
 
 ## contact
-- ls20264[at]essex[dot]co[dot]uk
+- ls20264[at]essex[dot]ac[dot]uk
 - lucasschodel[at]gmail[dot]com
 
 <br>
