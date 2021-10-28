@@ -59,6 +59,10 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+<br>
+
+## Todo List
+Finish essay by doing references(chicago)
 
 <br>
 
