@@ -53,6 +53,7 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Practice referencing in Chicago style in regards to videos/articles on generations, V+R continuum and Prensky's model from 2001; book appointment with librarian for liason.~~ 
 - Receive peer/teacher feedback on the essay draft for improvements.
 - Start to make digital copies of V + R maps to add to website in the future.
+- Edit index.md file so that it is my information displayed.
 <br>
 
 ## References
