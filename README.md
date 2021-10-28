@@ -63,6 +63,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Todo List
 Finish essay by doing references(chicago)
+and My future digital identity section
+look at possible questions to write about
 
 <br>
 
