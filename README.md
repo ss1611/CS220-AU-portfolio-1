@@ -50,8 +50,8 @@ But, before you submit, please rename both files to contain your student number 
 ## To do list
 - ~~Make past, present and future V+R maps to provide a framework for the essay.~~
 - ~~Complete a first draft of the essay (750+ words)~~
-- Practice referencing in Chicago style in regards to videos/articles on generations, V+R continuum and Prensky's model from 2001; book appointment with librarian for liason. 
-- Receive peer/teacher feeddback on the essay draft for improvements.
+- ~~Practice referencing in Chicago style in regards to videos/articles on generations, V+R continuum and Prensky's model from 2001; book appointment with librarian for liason.~~ 
+- Receive peer/teacher feedback on the essay draft for improvements.
 <br>
 
 ## References
