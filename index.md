@@ -1,5 +1,3 @@
-The information below can be used as a template for your own home page. 
-
 ## Lucas Schoedel
 **Creative technologist with teaching, technical and artistic skills**  
 
