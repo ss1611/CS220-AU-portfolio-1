@@ -45,6 +45,8 @@ But, before you submit, please rename both files to contain your student number 
 **24/10/21**: Completed the first drafts of my past, present and future V+R maps, providing a visual element to help me write my digital identity reflection.
 
 **26/10/21**: Using my V+R maps, I completed the first draft of my reflective essay. I also had a 1 - to - 1 Zoom meeting with an academic libararian in order to practice Chicago referencing.
+
+**31/10/21**: Embedded V+R maps into my essay draft. I also spent time working on the customisation of my index.md file.
 <br>
 
 ## To do list
@@ -54,8 +56,5 @@ But, before you submit, please rename both files to contain your student number 
 - Receive peer/teacher feedback on the essay draft for improvements.
 - Start to make digital copies of V + R maps to add to website in the future.
 - Edit index.md file so that it is my information displayed.
+- Learn how to add images and hyperlinks to index.md file.
 <br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
