@@ -47,6 +47,8 @@ But, before you submit, please rename both files to contain your student number 
 **26/10/21**: Using my V+R maps, I completed the first draft of my reflective essay. I also had a 1 - to - 1 Zoom meeting with an academic libararian in order to practice Chicago referencing.
 
 **31/10/21**: Embedded V+R maps into my essay draft. I also spent time working on the customisation of my index.md file.
+
+**03/11/21**: Finished organising the bibliography for my digital identity reflection essay.
 <br>
 
 ## To do list
