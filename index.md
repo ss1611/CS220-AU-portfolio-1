@@ -20,13 +20,13 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 <br>
 
 ## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
+- [Essex Moodle Page](https://moodle.essex.ac.uk/user/profile.php?id=164180)
 - [StoryLab Team Page](https://storylabresearch.com/team/)
 
 <br>
 
 ## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
+- I just updated my website [Website](2001057.github.io/cs220-au-portfolio/)
 - working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
@@ -46,8 +46,11 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 ## work experience
 Volunteering as a Language ambassaddor for Bexhill College, work included helping GCSE German students with their exams.
 
-### research assistant positions
-#### StoryLab Research Institute
+### Academic research interests
+- Lacanian Psychoanalysis
+- Ideology and how it impacts political discourse
+- 
+#### Essays written
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
