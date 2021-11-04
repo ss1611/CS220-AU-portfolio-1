@@ -49,6 +49,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 ### Academic research interests
 - Lacanian Psychoanalysis ([Notes](http://storylabresearch.com))
 - Ideology and how it relates to political discourse
+- Protestant theology and Psychoanalysis
 - Unconscious motives underlying National Socialist propaganda
 
 #### Essays written
