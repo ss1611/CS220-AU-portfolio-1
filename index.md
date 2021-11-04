@@ -89,7 +89,7 @@ My key responsibilities in this role included organising events, engagement with
 
 Here is an example on how to embed an image from an external website:
 
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
+![res](https://3.bp.blogspot.com/-1FNoZfnwoaE/UtrZ1l-OtAI/AAAAAAAAAd0/S7qHe4trZbI/s1600/Sigmund+Freud.jpg)
 
 <br>
 
