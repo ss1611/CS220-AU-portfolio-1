@@ -79,7 +79,7 @@ My key responsibilities in this role included organising events, engagement with
 ### Pressupositional apologetics
 03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
 
-### Marxism and Socialist countries
+### Marxism and Soviet history
 
 
 ### Counter enlightenment philosophy
