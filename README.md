@@ -59,4 +59,5 @@ But, before you submit, please rename both files to contain your student number 
 - Start to make digital copies of V + R maps to add to website in the future.
 - Edit index.md file so that it is my information displayed.
 - Learn how to add images and hyperlinks to index.md file.
+- Start to make a draft regarding the format of the Sociology website.
 <br>
