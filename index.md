@@ -5,10 +5,6 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 
 <br>
 
-## social media links
-
-
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
@@ -42,6 +38,11 @@ University email - sd21290@essex.ac.uk
 
 <br>
 
+# Year 11 Citizenship project: inspiring a sociological imagination.
+
+In the final year of secondary school, part of my Citizenship course required me to raise awareness on a prominent form of social injustice. During 2017 - two years prior to the completion of my project - the number of rough sleepers in the South of England had risen by 194% on 2010's levels, illustrating a need for action regarding homelessness in the UK. Thus, my Citizenship project was directed at alerting people to the damaging effects of homelessness and asking them, through purchasing cakes, to contribute towards funding the work of the Colchester Night Shelter.
+
+After peer discussion, I decided upon a charity bake sale in order to raise money for the Colchester Night Shelter, teaming up with my peers to inform the members of my school on the importance of reducing the rapidly increasing homelessness rate, and providing charities with the means to assist rough sleepers.
 ## work experience
 ### research assistant positions
 #### StoryLab Research Institute
