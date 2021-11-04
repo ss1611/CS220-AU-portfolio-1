@@ -26,7 +26,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 <br>
 
 ## now
-- I just updated my website [Website](2001057.github.io/cs220-au-portfolio/)
+- I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a Linkdin account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
