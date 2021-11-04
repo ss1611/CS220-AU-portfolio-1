@@ -2,7 +2,7 @@ Student number: 2001057
 Module code: CS220 AU  
 Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
-GitHub repository URL: <!-- #todo : add the URL of your repository -->  
+GitHub repository URL:https://github.com/2001057/CS220-AU-portfolio
 
 ## Checklist
 <!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
@@ -10,7 +10,7 @@ GitHub repository URL: <!-- #todo : add the URL of your repository -->
 ### General
 I made sure that
 - [x] my GitHub username matches my student number
-- [ ] my repository to submit is named 'CS220-AU-portfolio'
+- [x] my repository to submit is named 'CS220-AU-portfolio'
 
 ### Website
 I used the `index.md` file 
