@@ -1,7 +1,7 @@
 # **Sam Davies**
 **Undergraduate Sociology student at the University of Essex.**
 
-Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at Essex with a particular interest in sociological theory, education, and social inequality and the steps required to reduce it. Currently, I work in a general village maintenance role in Alresford (a small, rural community in Essex) and have a passion for preserving a sustainable physical environment and biodiverse ecosystems. Outside of my professional endeavours, I'm also an avid gamer, footballer, cook and fitness enthusiast, who is excited to undergo self-improvement and contribute towards unearthing social injustices and providing a voice for oppressed groups within society.
+Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the University of Essex with a particular interest in sociological theory, education, and social inequality and the steps required to reduce it. Currently, I work in a general village maintenance role in my home town Alresford and have a passion for preserving a sustainable physical environment and biodiverse ecosystems. Outside of my professional endeavours, I'm also an avid gamer, footballer, cook and fitness enthusiast, who is excited to undergo self-improvement and contribute towards unearthing social injustices and providing a voice for oppressed groups within society.
 
 <br>
 
