@@ -3,12 +3,12 @@
 
 Hello! My name is Lucas Schoedel, or just Lucas. 
 
-I am a Student. Besides being interested in philosophy, religion and politics, I have also been studying psychoanalysis at the University of Essex, Colchester. I'm from Germany although I have lived in the UK since 2013. 
+I am a Student. Besides being interested in philosophy, religion and politics, I have also been studying psychoanalysis at the University of Essex, Colchester. I am from Germany although I have lived in the UK since 2013. 
 
 <br>
 
 ## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
+- [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - [Github](https://github.com/2001057)
 
 <br>
@@ -44,6 +44,8 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 <br>
 
 ## work experience
+Volunteering as a Language ambassaddor for Bexhill College, work included helping GCSE German students with their exams.
+
 ### research assistant positions
 #### StoryLab Research Institute
 
