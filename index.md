@@ -3,7 +3,7 @@
 
 Hello! My name is Lucas Schoedel, or just Lucas. 
 
-I am a Student. Besides being interested in philosophy, religion and politics, I have also been studying psychoanalysis at the University of Essex, Colchester. I am from Germany although I have lived in the UK since 2013. 
+I am a Student. Besides being interested in philosophy, religion and politics, I am currently studying psychoanalysis at the University of Essex, Colchester. I am from Germany although I have lived in the UK since 2013. 
 
 <br>
 
