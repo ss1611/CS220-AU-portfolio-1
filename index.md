@@ -27,7 +27,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 
 ## now
 - I just updated my website [Website](2001057.github.io/cs220-au-portfolio/)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
+- created a Linkdin account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
 - working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
@@ -47,9 +47,10 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 Volunteering as a Language ambassaddor for Bexhill College, work included helping GCSE German students with their exams.
 
 ### Academic research interests
-- Lacanian Psychoanalysis
-- Ideology and how it impacts political discourse
-- 
+- Lacanian Psychoanalysis ([Notes](http://storylabresearch.com))
+- Ideology and how it relates to political discourse
+- Unconscious motives underlying National Socialist propaganda
+
 #### Essays written
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
@@ -74,11 +75,14 @@ My key responsibilities in this role included organising events, engagement with
 
 <br>
 
-## other relevant experience
-### music technical officer at ARU
+## other interests
+### Pressupositional apologetics
 03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
 
-### sole trader at Tedör Tea
+### Marxism and Socialist countries
+
+
+### Counter enlightenment philosophy
 2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
