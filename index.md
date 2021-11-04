@@ -32,7 +32,7 @@ University email - sd21290@essex.ac.uk
 
 <br>
 
-## educations
+## Education
 
 | Date | Qualification | Institute |
 --- | --- | ---
