@@ -12,21 +12,9 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 University email - sd21290@essex.ac.uk
 
 
-<br>
-
-## acedemic pages/associations/clubs
 
 <br>
 
-## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
-
-<br>
 
 ## Education
 
@@ -43,9 +31,7 @@ University email - sd21290@essex.ac.uk
 In the final year of secondary school, part of my Citizenship course required me to raise awareness on a prominent form of social injustice. During 2017 - two years prior to the completion of my project - the number of rough sleepers in the South of England had risen by 194% on 2010's levels, illustrating a need for action regarding homelessness in the UK. Thus, my Citizenship project was directed at alerting people to the damaging effects of homelessness and asking them, through purchasing cakes, to contribute towards funding the work of the Colchester Night Shelter.
 
 After peer discussion, I decided upon a charity bake sale in order to raise money for the Colchester Night Shelter, teaming up with my peers to inform the members of my school on the importance of reducing the rapidly increasing homelessness rate, and providing charities with the means to assist rough sleepers.
-## work experience
-### research assistant positions
-#### StoryLab Research Institute
+
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
