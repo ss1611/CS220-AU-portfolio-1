@@ -33,9 +33,7 @@ In the final year of secondary school, part of my Citizenship course required me
 After peer discussion, I decided upon a charity bake sale in order to raise money for the Colchester Night Shelter, teaming up with my peers to inform the members of my school on the importance of reducing the rapidly increasing homelessness rate, and providing charities with the means to assist rough sleepers.
 
 
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
 
 #### Enhancing Audio Description project
 01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
