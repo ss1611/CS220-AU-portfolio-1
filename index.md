@@ -30,23 +30,15 @@ University email - sd21290@essex.ac.uk
 
 In the final year of secondary school, part of my Citizenship course required me to raise awareness on a prominent form of social injustice. During 2017 - two years prior to the completion of my project - the number of rough sleepers in the South of England had risen by 194% on 2010's levels, illustrating a need for action regarding homelessness in the UK. Thus, my Citizenship project was directed at alerting people to the damaging effects of homelessness and asking them, through purchasing cakes, to contribute towards funding the work of the Colchester Night Shelter.
 
-After peer discussion, I decided upon a charity bake sale in order to raise money for the Colchester Night Shelter, teaming up with my peers to inform the members of my school on the importance of reducing the rapidly increasing homelessness rate, and providing charities with the means to assist rough sleepers
+After peer discussion, I decided upon a charity bake sale in order to raise money for the Colchester Night Shelter, teaming up with my peers to inform the members of my school on the importance of reducing the rapidly increasing homelessness rate, and providing charities with the means to assist rough sleepers.
+
+At the end of the bake sale, over £74 was raised for the Colchester Night Shelter!
 
 ![](assets/img/Cake%20image%20for%20website.jpg)
 
+From this point, my interest in social inequalities was primed, hence I desired to explore them further by taking A level Sociology at the Colchester Sixth Form, in hopes of gaining insight into the ways in which power relations within society are unequally balanced.
 
 
-
-<br>
-
-
-
-## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
-
-### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
 
