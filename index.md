@@ -32,7 +32,7 @@ In the final year of secondary school, part of my Citizenship course required me
 
 After peer discussion, I decided upon a charity bake sale in order to raise money for the Colchester Night Shelter, teaming up with my peers to inform the members of my school on the importance of reducing the rapidly increasing homelessness rate, and providing charities with the means to assist rough sleepers
 
-(assets/img/Cake%20image%20for%20website.jpg)
+![](assets/img/Cake%20image%20for%20website.jpg)
 
 
 
