@@ -40,7 +40,9 @@ If interested, explore the [Colchester Night Shelter](https://colchesternightshe
 
 From this point, my interest in social inequalities was primed, hence I desired to explore them further by taking A level Sociology at the Colchester Sixth Form, in hopes of gaining insight into the ways in which power relations within society are unequally balanced.
 
+# My Sociology sixth form experience: further insight into social inequality.
 
+At sixth form, Sociology placed significant emphasis on unearthing the social inequlalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
 
 <br>
 
@@ -55,7 +57,3 @@ And here is an example for embedding an audio player:
 Here an example to embed a video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br> 
-
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
