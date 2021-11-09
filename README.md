@@ -39,6 +39,8 @@ But, before you submit, please rename both files to contain your student number 
 **31/10/21**: Embedded V+R maps into my essay draft. I also spent time working on the customisation of my index.md file.
 
 **03/11/21**: Finished organising the bibliography for my digital identity reflection essay.
+
+**09/11/21**: Learned how to embed images to a GitHub repository; started subsequently developing my index.md file further.
 <br>
 
 ## To do list
@@ -48,6 +50,7 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Receive peer/teacher feedback on the essay draft for improvements.~~
 - Start to make digital copies of V + R maps to add to website in the future.
 - ~~Edit index.md file so that it is my information displayed.~~
-- Learn how to add images and hyperlinks to index.md file.
+- ~~Learn how to add images and hyperlinks to index.md file.~~
 - Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.
+- Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.
 <br>
