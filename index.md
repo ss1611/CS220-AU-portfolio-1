@@ -44,6 +44,8 @@ From this point, my interest in social inequalities was primed, hence I desired 
 
 At sixth form, Sociology placed significant emphasis on unearthing the social inequlalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
 
+!
+
 <br>
 
 And here is an example for embedding an audio player:
