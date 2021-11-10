@@ -47,7 +47,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 Volunteering as a Language ambassaddor for Bexhill College, work included helping GCSE German students with their exams.
 
 ### Academic research interests
-- Lacanian Psychoanalysis ([Notes](https://docs.google.com/document/d/1DjCmikF8ukd6MinKJHRoptCWqYqgcbWcOqSxcgInLM4/edit))
+- Lacanian Psychoanalysis ([Notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Lacan.pdf))
 - Ideology and how it relates to political discourse
 - Protestant theology and Psychoanalysis
 - Unconscious motives underlying National Socialist propaganda
