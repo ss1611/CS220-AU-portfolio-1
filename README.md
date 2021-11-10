@@ -25,8 +25,6 @@ But, before you submit, please rename both files to contain your student number 
 
 <br> 
 
-![](assets/img/portfolio-graph.png)
-
 
 ### Flexibilities 
 1. you can have more than two pages on your website if needed
@@ -39,17 +37,17 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
- 2021-10-13 Attended class
- 2021-10-20 Created own github account within two repositories
- 2021-10-27 Attended class 
- 2021-10-27 Learned the VSC deeply
+ 1.2021-10-13 Attended class
+ 2.2021-10-20 Created own github account within two repositories
+ 3.2021-10-27 Attended class 
+ 4.2021-10-27 Learned the VSC deeply
 
 <br>
 
 ## TODO
-try to modifiy and beautify the index in the clean way
-add a personal introduction and social media 
-create a linkedin account 
+1.try to modifiy and beautify the index in the clean way
+2.add a personal introduction and social media 
+3.create a linkedin account 
 ## by week 7
 - make screencast demonstrating the submission of this repository
 - go through this repository with students and clarify if needed
