@@ -30,7 +30,7 @@ Hello! My name is Lei Lyu and I got a english name called Owen.I like listening 
 | date | degree | institute |
 --- | --- | ---
 |ongoing|**UG** Communication and digital culture |University of Essex|
-| 2020 | **ALevel** in Mathematics Further Mathematics and Chinese <br> in Higher Education | YuHua Tai high school,China|
+| 2020 | **ALevel** in Mathematics,Further Mathematics and Chinese <br> in Higher Education | YuHua Tai High school,China|
 
 <br>
 
