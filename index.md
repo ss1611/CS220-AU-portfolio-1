@@ -53,7 +53,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 - Unconscious motives underlying National Socialist propaganda
 
 #### Essays written
-[Importance of the unconscious in everyday life](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+[Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Unconscious%20Essay_2001057.pdf)
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
 Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
