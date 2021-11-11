@@ -72,7 +72,7 @@ My key responsibilities in this role included organising events, engagement with
 
 03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
 
-### Marxism and Soviet history [notes](http://tedortea.com)
+### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
 
 
 ### World War 2 history
