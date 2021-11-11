@@ -35,7 +35,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 
 <br>
 
-## educations
+## education
 
 | date | degree | institute |
 --- | --- | ---
