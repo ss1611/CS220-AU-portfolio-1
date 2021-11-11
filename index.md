@@ -59,6 +59,8 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 
 [Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
 
+[How Freud understands the unconscious](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
+
 Besides writing essays for University, I have also been involved in online discussion groups, blogging and debates sourrounding various thoughts and beliefs, to ensure that beliefs held reflect reality.
 
 #### Enhancing Audio Description project
