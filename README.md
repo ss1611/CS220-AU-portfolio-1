@@ -40,7 +40,9 @@ But, before you submit, please rename both files to contain your student number 
 
 **03/11/21**: Finished organising the bibliography for my digital identity reflection essay.
 
-**09/11/21**: Learned how to embed images to a GitHub repository; started subsequently developing my index.md file further.
+**09/11/21**: Learned how to embed images and hyperlinks to a GitHub repository; started subsequently developing my index.md file further.
+
+**10/11/21**: Finished the first of 3 segments of the Sociology website (year 11) and got half way through the college section.
 <br>
 
 ## To do list
@@ -51,6 +53,7 @@ But, before you submit, please rename both files to contain your student number 
 - Start to make digital copies of V + R maps to add to website in the future.
 - ~~Edit index.md file so that it is my information displayed.~~
 - ~~Learn how to add images and hyperlinks to index.md file.~~
-- Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.
+- ~~Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.~~
 - Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.
+- Insert the SC106 essay to illuminate my contemporary interst in inequalities.
 <br>
