@@ -77,7 +77,7 @@ My key responsibilities in this role included organising events, engagement with
 Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism. Pressupositionalism is simply the way that faith has to be pressuposed before one can begin to use reason, argued based on potential flaws in ones senses, requiring a trancedent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty. 
 
 ### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
-Being aware that at one point half of the worlds population lived under marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union.
+Being aware that at one point half of the worlds population lived under marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union. Specific interests go into theoretical discussions on whether capitalism is inherently exploitative and whether self proclaimed marxist governments were preferable to capitalist alternatives.
 
 ### World War 2 history
 My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst only having power for 12 years. Especially interesting are the last years of the war where Germany was using propaganda to keep their population unaware of the imminent collapse.
