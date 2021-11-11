@@ -68,16 +68,15 @@ My key responsibilities in this role included organising events, engagement with
 <br>
 
 ## other interests
-### Pressupositional apologetics [notes](http://tedortea.com)
+### Pressupositional apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
 
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
+Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism.
 
 ### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
-
+Being aware that at one point half of the worlds population lived under marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union.
 
 ### World War 2 history
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
-
+My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst only having power for 12 years.
 <br>
 
 Sigmund Freud, founder of psychoanalysis.
