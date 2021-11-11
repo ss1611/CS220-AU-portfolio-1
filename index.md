@@ -47,4 +47,6 @@ As Kimberlé Crenshaw in her 1989 essay 'Demarginalizing the Intersection of Rac
 > 'This focus on the most privileged group members marginalizes
 those who are multiply-burdened and obscures claims that cannot
 be understood as resulting from discrete sources of discrimination.' (140)
+
+Overall, my sixth form experience illuminated to me the extent to which inequlity is not an experience unique to the United Kingdom, nor an experience that impacts individuals uniformly in society. In fact, inequality is often covert in society - the individuals that have to endure it are often marginalised and silenced, maintaining society's unjust hierarchies of power.
 <br>
