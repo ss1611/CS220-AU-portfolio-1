@@ -63,7 +63,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 
 [Carl Jung's understanding of society](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA209_2001057.pdf)
 
-Besides writing essays for University, I have also been involved in online discussion groups, blogging and debates sourrounding various thoughts and beliefs, to ensure that beliefs held reflect reality.
+Besides writing essays for University, I have also been involved in online discussion groups, psychoanalysis society, blogging and debates sourrounding various thoughts and beliefs, to ensure that beliefs held reflect reality.
 
 #### Enhancing Audio Description project
 01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
