@@ -74,7 +74,7 @@ My key responsibilities in this role included organising events, engagement with
 ## other interests
 ### Pressupositional apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
 
-Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism. 
+Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism. Pressupositionalism is simply the way that faith has to be pressuposed before one can begin to use reason, argued based on potential flaws in ones senses, requiring a trancedent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty. 
 
 ### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
 Being aware that at one point half of the worlds population lived under marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union.
