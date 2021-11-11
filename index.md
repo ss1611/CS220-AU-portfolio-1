@@ -59,7 +59,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 
 [Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
 
-[How Freud understands the unconscious](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
+[How Freud understands the unconscious](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA208_2001057%20Freud.pdf)
 
 Besides writing essays for University, I have also been involved in online discussion groups, blogging and debates sourrounding various thoughts and beliefs, to ensure that beliefs held reflect reality.
 
@@ -74,13 +74,13 @@ My key responsibilities in this role included organising events, engagement with
 ## other interests
 ### Pressupositional apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
 
-Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism.
+Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism. 
 
 ### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
 Being aware that at one point half of the worlds population lived under marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union.
 
 ### World War 2 history
-My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst only having power for 12 years.
+My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst only having power for 12 years. Especially interesting are the last years of the war where Germany was using propaganda to keep their population unaware of the imminent collapse.
 <br>
 
 Sigmund Freud, founder of psychoanalysis.
