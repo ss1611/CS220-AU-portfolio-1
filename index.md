@@ -27,7 +27,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 
 ## now
 - I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
-- created a Linkdin account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
+- created a LinkedIn account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
 - working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
@@ -54,7 +54,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 
 #### Essays written
 [Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Unconscious%20Essay_2001057.pdf)
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
+[Judith Butler and gender performativity](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Unconscious%20Essay_2001057.pdf)
 
 Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
 
