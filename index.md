@@ -59,7 +59,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 
 [Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
 
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
+Besides writing essays for University, I have also been involved in online discussion groups, blogging and debates sourrounding various thoughts and beliefs, to ensure that beliefs held reflect reality.
 
 #### Enhancing Audio Description project
 01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
