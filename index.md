@@ -32,7 +32,7 @@ Note: only link social media that you are happy for people to visit i.e. if your
 <br>
 
 ## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
+- I just wrote a template for my students' [di-reflection](project.md)
 - working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
