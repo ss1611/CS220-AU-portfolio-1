@@ -55,7 +55,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 #### Essays written
 [Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Unconscious%20Essay_2001057.pdf)
 [Judith Butler and gender performativity](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA134_2001057.pdf)
-[Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA134_2001057.pdf)
+[Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
 
 Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
 
@@ -67,21 +67,12 @@ My key responsibilities in this role included organising events, engagement with
 
 <br>
 
-### associate lecturing positions
-
-#### Sonic art (ARU)
-01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
-
-#### Music for the moving image (ARU)
-09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
-
-<br>
-
 ## other interests
-### Pressupositional apologetics
+### Pressupositional apologetics [notes](http://tedortea.com)
+
 03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
 
-### Marxism and Soviet history
+### Marxism and Soviet history [notes](http://tedortea.com)
 
 
 ### World War 2 history
