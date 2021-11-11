@@ -42,4 +42,9 @@ At sixth form, Sociology placed significant emphasis on unearthing the social in
 
 As the image above displays, the inequalities associated with social institutions are broad, encompassing multiple, intersecting facets of social characteristics, such as ethnicity, social class and gender, illustrating how social divisions in contemporary society are complex; the experience of social inequality cannot seemingly be generalised as oppression is an indivisualistic experience.
 
+As Kimberlé Crenshaw in her 1989 essay 'Demarginalizing the Intersection of Race and Sex' states:
+
+> 'This focus on the most privileged group members marginalizes
+those who are multiply-burdened and obscures claims that cannot
+be understood as resulting from discrete sources of discrimination.' (140)
 <br>
