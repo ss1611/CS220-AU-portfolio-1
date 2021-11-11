@@ -54,6 +54,6 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Edit index.md file so that it is my information displayed.~~
 - ~~Learn how to add images and hyperlinks to index.md file.~~
 - ~~Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.~~
-- Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.
-- Insert the SC106 essay to illuminate my contemporary interst in inequalities.
+- ~~Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.~~
+- Insert the SC106 essay to illuminate my contemporary interest in inequalities.
 <br>
