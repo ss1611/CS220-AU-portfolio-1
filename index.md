@@ -5,14 +5,10 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 
 <br>
 
-
-<br>
-
 ## Contact details
 University email - sd21290@essex.ac.uk
 
 <br>
-
 
 ## Education
 
@@ -43,5 +39,7 @@ From this point, my interest in social inequalities was primed, hence I desired 
 At sixth form, Sociology placed significant emphasis on unearthing the social inequlalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
 
 ![](assets/img/Inequalities%20mindmap.jpg)
+
+As the image above displays, the inequalities associated with social institutions are broad, encompassing multiple, intersecting facets of social characteristics, such as ethnicity, social class and gender, illustrating how social divisions in contemporary society are complex; the experience of social inequality cannot seemingly be generalised as oppression is an indivisualistic experience.
 
 <br>
