@@ -83,7 +83,7 @@ My key responsibilities in this role included organising events, engagement with
 ### Marxism and Soviet history
 
 
-### Counter enlightenment philosophy
+### World War 2 history
 2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
