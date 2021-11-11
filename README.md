@@ -43,6 +43,8 @@ But, before you submit, please rename both files to contain your student number 
 **09/11/21**: Learned how to embed images and hyperlinks to a GitHub repository; started subsequently developing my index.md file further.
 
 **10/11/21**: Finished the first of 3 segments of the Sociology website (year 11) and got half way through the college section.
+
+**11/11/21**: Finshed the second of 3 segments of the Sociology website (college experience).
 <br>
 
 ## To do list
@@ -55,5 +57,5 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Learn how to add images and hyperlinks to index.md file.~~
 - ~~Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.~~
 - ~~Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.~~
-- Insert the SC106 essay to illuminate my contemporary interest in inequalities.
+- Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
 <br>
