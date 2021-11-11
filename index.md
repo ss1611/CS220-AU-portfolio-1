@@ -11,8 +11,6 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 ## Contact details
 University email - sd21290@essex.ac.uk
 
-
-
 <br>
 
 
@@ -47,15 +45,3 @@ At sixth form, Sociology placed significant emphasis on unearthing the social in
 ![](assets/img/Inequalities%20mindmap.jpg)
 
 <br>
-
-And here is an example for embedding an audio player:
-
-<br>
-
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
-
-<br>
-
-Here an example to embed a video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
