@@ -68,7 +68,7 @@ By addressing these objectives my V&R map will look as follows:
 
 <br>
 
-### Summery
+### Summary
 This writing reflected (or in this writing I reflected) on my understanding of
 
 1. digital identities in general and highlighted this and that
@@ -77,7 +77,7 @@ This writing reflected (or in this writing I reflected) on my understanding of
 
 <br>
 
-### Questions you should/could export 
+### Questions you should/could explore 
 - do I know people who are much older than me and can use technology efficiently e.g. the Web more efficiently?
 - what does it actually mean "to use the Web more efficiently"?
 - what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?

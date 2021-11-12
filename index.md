@@ -25,14 +25,14 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 <br>
 
-## acedemic pages/associations/clubs
+## academic pages/associations/clubs
 - [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
 - [StoryLab Team Page](https://storylabresearch.com/team/)
 
 <br>
 
 ## now
-- I just wrote a template for my students' [essay](movie-emotion-essay.md)
+- I just wrote a template for my students' [essay](di-reflection.md)
 - working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
