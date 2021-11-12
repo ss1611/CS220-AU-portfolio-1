@@ -36,7 +36,7 @@ From this point, my interest in social inequalities was primed, hence I desired 
 
 # My Sociology sixth form experience: further insight into social inequality.
 
-At sixth form, Sociology placed significant emphasis on unearthing the social inequlalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
+At sixth form, Sociology placed significant emphasis on unearthing the social inequalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
 
 ![](assets/img/Inequalities%20mindmap.jpg)
 
