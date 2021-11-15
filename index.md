@@ -51,4 +51,13 @@ be understood as resulting from discrete sources of discrimination.' (140)
 Overall, my sixth form experience illuminated to me the extent to which inequlity is not an experience unique to the United Kingdom, nor an experience that impacts individuals uniformly in society. In fact, inequality is often covert in society - the individuals that have to endure it are often marginalised and silenced, maintaining society's unjust hierarchies of power.
 
 Yet, this covertness is the reason inequlity persists, which has driven me towards studying Sociology at university, in hopes that I can not only gain a better insight into how inequalities operate and where they reside, but also unearth and expose these inequalities, potentially producing work in the future that drives positive social change, leading to small steps towards a less segregated and hierarchichal society.
+
 <br>
+
+# Current Sociological project: the ideologically manipulative role of the media.
+
+Upon achieving an A* at A Level Sociology, which was the subject I most thoroughly enjoyed, I decided to study it further. The inequalities that A Level Sociology highlighted to me steered me towards studying how inequalities are perpetuated today. Thus, in my SC106 'Media, Culture and Society' class, when I was given the chance to study and write about the ideological role of the media, I took the opportunity.
+
+My essay aims to explore how the media - debatably the most contemporary and relevant institution that has penetrated into our social realms in digital society - shapes our perceptions of normality through stereotyping and underrepresentation. Through ideology that is ultimately controlled and moulded by the ruling-class elite within society, our perceptions of race, gender, age and ethnicity are manipulated in an attempt to uphold the existing (disgustingly unequal!) social order.
+
+Therefore, after reading my essay, I hope that you - the viewer, who, like me, has the potential to reveal and challenge injustice - will be more alert to the fact that what we consume everyday - the content of the mass media - is politically distorted, but can also be used as a catalyst to initiate positive social change. 
