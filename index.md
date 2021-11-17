@@ -1,28 +1,23 @@
 The information below can be used as a template for your own home page. 
 
-## Krisztian Hofstadter
-**Creative technologist with teaching, technical and artistic skills**  
+## Emma Hailes
+**Liberal Arts First Year Student**  
 
-Hello! My name is Krisztian Hofstadter, aka tEdör. 
+Hello! My name is Emma Hailes. 
 
-I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
-
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
+I am a first year Liberal Arts student in Essex. I am half Japanese and half British. I lived in England for a year when I was 10, but I spent most of my life in Japan. I decided to go to UK university to improve my English and to have a new life that will benefit me in the future, having so much more opportunities. I studied a foundation course online at Essex. I enjoyed meeting new people and it was definately a good experience to have classes with people from different countries.
 
 <br>
 
 ## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
+- [LinkedIn] https://www.linkedin.com/in/emma-hailes-b20011002/
 
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
+
 
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
-
+Email address horse1002@i.softbank.jp
 <br>
 
 ## acedemic pages/associations/clubs
@@ -45,16 +40,13 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+| ongoing | **BA**  in Liberal Arts | University of Essex
+| 2021 | **Foundation course** Liberal Arts | University of Essex International College
+| 2020 | **High School Diploma** English Department | Kasumigaoka highschool 
 
 <br>
 
-## work experience
-### research assistant positions
-#### StoryLab Research Institute
+
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
