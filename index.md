@@ -11,16 +11,16 @@ I am a new student at the University of Essex studying a Psychology degree for 3
 <br>
 
 ## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
+- [LinkedIn](https://www.linkedin.com/in/christian-baruela-619273220/)
+- [Instagram](https://www.instagram.com/thereelcjay/)
 
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
+
 
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+- [Personal Email] Cjbaruela18@gmail.com 
+- [UoE Email] cb21745@essex.ac.uk
 
 <br>
 
