@@ -51,12 +51,13 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 - 11/11/21 - I started on the website with a first draft ish by filling out some of the credentials, for example the introduction but i might change it up and make more of an article type website.
 - 13/11/21 - Started my essay on word, however the introduction is too long therefore i may have to cut it down and do a new draft. Sitting on around 400 words at the moment.
+- 18/11/21 - Completed part of my essay and sent to Krisztian waiting feedback at the moment.
 
 <br>
 
 ## TODO
 
-### By week 8 - websites
+### By week 8 
 - Complete draft of essay.
 - Get some feedback on my essay.
 - Add references at the end of essay.
