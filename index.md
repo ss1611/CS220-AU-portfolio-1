@@ -50,7 +50,7 @@ be understood as resulting from discrete sources of discrimination.' (140)
 
 Overall, my sixth form experience illuminated to me the extent to which inequlity is not an experience unique to the United Kingdom, nor an experience that impacts individuals uniformly in society. In fact, inequality is often covert in society - the individuals that have to endure it are often marginalised and silenced, maintaining society's unjust hierarchies of power.
 
-Yet, this covertness is the reason inequlity persists, which has driven me towards studying Sociology at university, in hopes that I can not only gain a better insight into how inequalities operate and where they reside, but also unearth and expose these inequalities, potentially producing work in the future that drives positive social change, leading to small steps towards a less segregated and hierarchichal society.
+Yet, this covertness is the reason inequality persists, which has driven me towards studying Sociology at university, in hopes that I can not only gain a better insight into how inequalities operate and where they reside, but also unearth and expose these inequalities, potentially producing work in the future that drives positive social change, leading to small steps towards a less segregated and hierarchichal society.
 
 <br>
 
