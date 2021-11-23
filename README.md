@@ -60,5 +60,6 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.~~
 - ~~Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.~~
 - ~~Create an overview of the third segment of my website: the current project (SC106 essay on media ideologies and ineqaulity reinforcement).~~
+- Email SC106 tutor to see if I can directly insert essay into website.
 - Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
 <br>
