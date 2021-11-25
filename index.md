@@ -55,7 +55,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 #### Essays written
 [Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Unconscious%20Essay_2001057.pdf)
 
-[Judith Butler and gender performativity](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA134_2001057.pdf)
+[Judith Butler conception of gender performativity](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA134_2001057.pdf)
 
 [Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
 
@@ -63,7 +63,7 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 
 [Carl Jung's understanding of society](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA209_2001057.pdf)
 
-Besides writing essays for University, I have also been involved in online discussion groups, psychoanalysis society, blogging and debates sourrounding various thoughts and beliefs, to ensure that beliefs held reflect reality.
+Besides writing essays for University, I have also been involved in online discussion groups, the psychoanalysis society and debates sourrounding various thoughts and beliefs.
 
 #### Enhancing Audio Description project
 01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
@@ -74,15 +74,15 @@ My key responsibilities in this role included organising events, engagement with
 <br>
 
 ## other interests
-### Pressupositional apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
+### Apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
 
-Apologetics relates to defending ones worldview, there are different types of apologetics most notabely evidentialism and pressupositionalism. Pressupositionalism is simply the way that faith has to be pressuposed before one can begin to use reason, argued based on potential flaws in ones senses, requiring a trancedent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty. 
+Apologetics relates to defending ones worldview, most commonly used in the context of religious discussions. There are different types of apologetics most notabely evidentialism and pressupositionalism. I'm more interested in Pressupositionalism which is simply the view that faith has to be pressuposed before one can begin to use reason, argued based on potential flaws in ones senses, requiring a trancedent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty. 
 
 ### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
-Being aware that at one point half of the worlds population lived under marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union. Specific interests go into theoretical discussions on whether capitalism is inherently exploitative and whether self proclaimed marxist governments were preferable to capitalist alternatives.
+Being aware that at one point half of the worlds population lived under Marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union. Specific interests go into theoretical discussions on whether capitalism is inherently exploitative and whether self proclaimed marxist governments were preferable to capitalist alternatives.
 
 ### World War 2 history
-My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst only having power for 12 years. Especially interesting are the last years of the war where Germany was using propaganda to keep their population unaware of the imminent collapse.
+My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst being in power for 12 years. Especially interesting are the last years of the war where Germany was using propaganda to keep their population unaware of the imminent collapse.
 <br>
 
 Sigmund Freud, founder of psychoanalysis.
