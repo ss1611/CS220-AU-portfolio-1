@@ -28,10 +28,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 ## now
 - I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a LinkedIn account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+- working on a group project for [PA223-5-AU] (https://www1.essex.ac.uk/modules/Default.aspx?coursecode=PA223&level=5&period=AT&campus=CZ&year=21) at the University of Essex
 
 <br>
 
@@ -64,12 +61,6 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 [Carl Jung's understanding of society](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA209_2001057.pdf)
 
 Besides writing essays for University, I have also been involved in online discussion groups, the psychoanalysis society and debates sourrounding various thoughts and beliefs.
-
-#### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
-
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
 
 <br>
 
