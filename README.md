@@ -47,6 +47,10 @@ But, before you submit, please rename both files to contain your student number 
 **11/11/21**: Finshed the second of 3 segments of the Sociology website (college experience).
 
 **15/11/21**: Created an overview to introduce my media ideology essay (current project).
+
+**20/11/21**: Refined my website and learned how to insert quotes in markdown language, making the design of segment 2 look much smoother.
+
+**26/11/21**: Was permitted to embed SC106 essay onto website.
 <br>
 
 ## To do list
@@ -60,6 +64,8 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.~~
 - ~~Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.~~
 - ~~Create an overview of the third segment of my website: the current project (SC106 essay on media ideologies and ineqaulity reinforcement).~~
-- Email SC106 tutor to see if I can directly insert essay into website.
+- ~~Email SC106 tutor to see if I can directly insert essay into website.~~
 - Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
+- Begin constructing a portfolio overview - email Krisztian for details/clarification.
+- Find a peer for feedback.
 <br>
