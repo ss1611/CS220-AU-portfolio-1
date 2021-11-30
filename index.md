@@ -3,6 +3,7 @@
 </head>
 
 <body>
+  
 The information below can be used as a template for your own home page. 
   
 ## Krisztian Hofstadter
@@ -113,4 +114,5 @@ Here an example to embed a video:
 <br><br> 
 
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+  
 </body>
