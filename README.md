@@ -53,20 +53,20 @@ How to use this GitHub repository as a template for your submission, including h
 - 13/11/21 - Started my essay on word, however the introduction is too long therefore i may have to cut it down and do a new draft. Sitting on around 400 words at the moment.
 - 18/11/21 - Completed part of my essay and sent to Krisztian waiting feedback at the moment.
 - 25/11/21 - Received feedback from Krisztian about my essay.
-- 30/11/21 - Completed feedback on essay and have made significant progress.
+- 30/11/21 - Completed feedback on essay with first V&R map.
 <br>
 
 ## TODO
 
-### By week 8 
+### By week 9
 - Complete draft of essay.
 - Get some feedback on my essay.
 - Add references at the end of essay.
 - Complete one page of the website.
 
-## by week 9
+## by week 10
 - Nearly complete website.
-- Complete draft of essay, get more feedback.
+- Complete next draft of essay, get more feedback.
 - Add images, videos to website.
 
 <br>
@@ -74,3 +74,5 @@ How to use this GitHub repository as a template for your submission, including h
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
+- Prensky, M., 001. Digital Natives, Digital Immigrants. https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf
+- BBC Learn and Revise, n.d. Millennials, baby boomers or Gen Z Which one are you and what does it mean? https://www.bbc.co.uk/bitesize/articles/zf8j92p
