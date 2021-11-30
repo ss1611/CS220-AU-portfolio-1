@@ -53,7 +53,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 13/11/21 - Started my essay on word, however the introduction is too long therefore i may have to cut it down and do a new draft. Sitting on around 400 words at the moment.
 - 18/11/21 - Completed part of my essay and sent to Krisztian waiting feedback at the moment.
 - 25/11/21 - Received feedback from Krisztian about my essay.
-- 30/11/21 - Completed feedback on essay with first V&R map.
+- 30/11/21 - Completed feedback on essay with first V&R map (713 words).
 <br>
 
 ## TODO
