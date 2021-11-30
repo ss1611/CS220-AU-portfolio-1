@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: default
 ---
 
 The information below can be used as a template for your own home page. 
