@@ -14,7 +14,7 @@ The URL of the website, using the `index.md` file can be found in the sidebar of
 <br>
 
 ## Portfolio items
-The portfolio you submit needs to contain the following:
+The portfolio I am submitting must contain the following:
 
 1. **website** (40% of your overall mark) - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is a basic example for outlining your professional identity - change it as necessary.
 2. **di reflection** (40% of your overall mark) - a short written work (essay) reflecting on developing your digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
