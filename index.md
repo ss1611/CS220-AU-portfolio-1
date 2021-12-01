@@ -28,7 +28,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 ## now
 - I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a LinkedIn account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
-- working on a group project for [PA223-5-AU] (https://www1.essex.ac.uk/modules/Default.aspx?coursecode=PA223&level=5&period=AT&campus=CZ&year=21) at the University of Essex
+- working on a group project for [PA223-5-AU] (https://www1.essex.ac.uk/modules/Default.aspx?coursecode=PA223&level=5&period=AT&campus=CZ&year=21/) at the University of Essex
 
 <br>
 
@@ -66,14 +66,13 @@ Besides writing essays for University, I have also been involved in online discu
 
 ## other interests
 ### Apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
-
-Apologetics relates to defending ones worldview, most commonly used in the context of religious discussions. There are different types of apologetics most notabely evidentialism and pressupositionalism. I'm more interested in Pressupositionalism which is simply the view that faith has to be pressuposed before one can begin to use reason, argued based on potential flaws in ones senses, requiring a trancedent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty. 
+Apologetics relates to defending one's world-view, most commonly used in the context of religious discussions. There are different types of apologetics, most notably evidentialism and pressupositionalism. I'm more interested in Pressupositionalism which is simply the view that faith has to be presupposed before one can begin to use reason, argued based on potential flaws in one's senses, requiring a transcendent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty.
 
 ### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
-Being aware that at one point half of the worlds population lived under Marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union. Specific interests go into theoretical discussions on whether capitalism is inherently exploitative and whether self proclaimed marxist governments were preferable to capitalist alternatives.
+Being aware that, at one point, half of the world's population lived under Marxist inspired governments led me to want to find out more about the theory behind communism and the practise in the case of the Soviet Union. Specific interests go into theoretical discussions on whether capitalism is inherently exploitative and whether self-proclaimed Marxist governments were preferable to capitalist alternatives.
 
 ### World War 2 history
-My fasciniation with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst being in power for 12 years. Especially interesting are the last years of the war where Germany was using propaganda to keep their population unaware of the imminent collapse.
+My fascination with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst being in power for 12 years. Especially interesting are the last years of the war, where Germany was using propaganda to keep their population unaware of the imminent collapse.
 <br>
 
 Sigmund Freud, founder of psychoanalysis.
