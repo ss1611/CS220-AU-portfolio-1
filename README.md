@@ -54,6 +54,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 18/11/21 - Completed part of my essay and sent to Krisztian waiting feedback at the moment.
 - 25/11/21 - Received feedback from Krisztian about my essay.
 - 30/11/21 - Completed feedback on essay with first V&R map (713 words).
+- 30/11/21 - Made some changes to "article" website.
 <br>
 
 ## TODO
@@ -65,10 +66,9 @@ How to use this GitHub repository as a template for your submission, including h
 - Complete one page of the website.
 
 ## by week 10
-- Nearly complete website.
-- Complete next draft of essay, get more feedback.
+- Complete essay, get more feedback and possibly finish.
 - Add images, videos to website.
-
+- Nearly complete website.
 <br>
 
 ## References
