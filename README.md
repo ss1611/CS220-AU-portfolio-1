@@ -67,8 +67,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## by week 10
 - Complete essay, get more feedback and possibly finish.
-- Add images, videos to website.
-- Nearly complete website.
+- Nearly complete website (obtain feedback).
 <br>
 
 ## References
