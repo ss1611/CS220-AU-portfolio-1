@@ -6,7 +6,7 @@ The information below can be used as a template for your own home page.
 Hello! My name is Christian Baruela. 
 
 I am a new student at the University of Essex studying a Psychology degree for 3 years. I am originally from London just finishing my A levels where i studied IT, Psychology and Spanish. In my free time, i like to immerse myself in anything musically, whether that is playing instruments, music production or even just listening to music. I have also recently gotten into being a more sustainable individual promoting sustainability in my everyday life.
-I have also made a website on sustainability (Sus.md)
+I have also made a website on sustainability [Sus] (Sus.md)
 
 
 <br>
