@@ -67,6 +67,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## by week 10
 - Complete essay, get more feedback and possibly finish.
+- Add references to essay (Chicago Style Referencing).
 - Nearly complete website (obtain feedback).
 <br>
 
