@@ -81,11 +81,11 @@ Sigmund Freud, founder of psychoanalysis.
 
 <br>
 
-And here is an example for embedding an audio player:
+Interesting podcast episode by Psychoanalysts
 
 <br>
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://soundcloud.com/whytheory/psychoanalysis-and-capitalism" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
 
 <br>
 
