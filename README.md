@@ -18,9 +18,7 @@
 - try to modifiy and beautify the index in the clean way
 -  make a short video to create a brief statement about my github
 - create a linkedin account 
-## by week 7
-- make screencast demonstrating the submission of this repository
-- go through this repository with students and clarify if needed
+
 
 <br>
 
