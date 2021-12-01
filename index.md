@@ -81,11 +81,11 @@ Sigmund Freud, founder of psychoanalysis.
 
 <br>
 
-Interesting podcast episode by Psychoanalysts
+Interesting podcast episode by working Psychoanalysts
 
 <br>
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://soundcloud.com/whytheory/psychoanalysis-and-capitalism" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://soundcloud.com/whytheory/psychoanalysis-and-capitalism" seamless><a href="https://soundcloud.com/whytheory/psychoanalysis-and-capitalism">Why Theory | Todd McGowan | Ryan Engley</a></iframe>
 
 <br>
 
