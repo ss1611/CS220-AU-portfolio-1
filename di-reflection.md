@@ -1,81 +1,23 @@
-Quick notes:
-- you can use the outline below as your template, amend it, or change it completely. Just make sure you use the [Chicago style referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
-- you should work on your drafts in your private repository. As discussed, you can add this written work to your public website as an additional page if you'd like, but makes sure you also submit a PDF version on FASER. 
+With the introduction of the Web, many people have created their own digital identities leaving a presence of themselves and their work for other people to discover. The internet can be and has been used as a place to promote yourself as an individual with certain skills which can be tailored to specific industries and can get you paid (freelancing). Digital identities are the presences we leave or “footprints” which enable other people to see what we have done, or the things we are doing or even create a community for people of a certain society to talk, discuss or even create.
 
-## Reflection on digital identities
+Digital identities are ideas solidified through the introduction of the web and how technology is integrated in our everyday lives. Prensky (2001) discusses his ideas on digital identities by distinguishing two key factors being: digital natives and digital immigrants. The terms natives and immigrants are used to help identify the difference between generation z and previous generations e.g Generation X and Baby boomers (BBC learn and Revise) and how people born into technology are known to essentially be “natives” with technology being integrated in their everyday lives as if it were a language. Whereas older generations had to learn how to utilise this and adapt essentially making them immigrants. White (2013) on the other hand discusses an alternate version of Prensky’s “digital natives and digital immigrants” through Visitor and Resident modes and how everyone uses the web differently, some leaving online presences and others using the web as a tool to find what they are looking for. White also suggests using a V&R map to help us visualise each platform we use on the web and categorise them to visitor/ resident and personal/professional. The V&R map helps us discuss the difference between visitor and resident modes as well as the distinction between private and professional presences online.
 
-This writing briefly reflects on my understanding of
+White’s V&R concept is beneficial as the dimensions between visitor/resident and personal/professional essentially helps us divide our presences into four between our professional or private lives which may be accessed by employers, work colleagues or family members and friends. With the visitor/ resident dimension which discuss the way we use the web and certain platforms in our daily lives. The main disadvantage of the web and the internet is privacy. It is very easy to access information about anyone and anything but these dimensions act as a boundary helping us acknowledge and understand which platforms, we want to keep personal or professional. By understanding this I have been able to create my own V&R map explaining each platform I use and how I plan to improve my digital identity in the upcoming future.
 
-- digital identities in general
-- my digital identities in the past/present
-- my digital identities in the future
-
-<br>
-
-### Digital identities
-To help identify and improve my digital identities, I explored 
-- [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
-  - discusses a clear distinction of visitors and residents on the web as well as the difference bewteen private and professional presences online and how they differ from one another.
-  - From understanding this i have been able to create my own V&R map explaining each platform I use and what i have used with each of their signifiance and also discuss my future digital identity and how I have been able to criticise myself and improve.
-
-Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
-
-<br>
-
-### My past/present digital identity/identities
-Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
+Figure 1:
 
 <br><br>![V&R map plain](assets/img/Cjay.png)<br><br>
 
-To clarify, in 
+The V&R map above shows how I have identified how I engage with the web in my visitor/ resident mode as well as which platforms I use for professional or personal reasons (see figure 1).
 
-- my visiting mode, the primary activities range from Youtube, Tik-Tok or even dropbox. In visitor mode my primary goals when using the web is mainly for finding information or entertainment. Here i do not leave an online presence as after I watch a specific video or read a certain blog I leave.
+My current V&R map shows the different platforms I use daily and how my online presence revolves around the personal/resident bracket using different social media such as Instagram, WhatsApp, and Snapchat. My personal visitor mode is mainly brave browser which I use frequently to find information for my university course or just generally. Currently, my professional resident and visitor quadrant is quite empty in terms of professional identities however I have a few platforms which I use for university and some others for other professional portfolios for example LinkedIn.
 
-- In my private resident mode, the primary activities are using several social media platforms such as Instagram, snapchat or Whatsapp where i communicate with family and friends, or even post pictures onto my feed for people to see. I have a clear online presence for everyone to see. My professional resident activities range from looking on Linked-in or Indeed where i look for several jobs or apply attaching my CV's and cover letters whenever i apply for a new job. Similarly I continuously go on Ebay as I am a seller on there and i communicate with buyers who are interested in buying products from me. Finally, Microsoft office is another important platform where i can communicate with my lecturers and staff if i have any questions or issues with University etc.
-
--  The difference between my personal and institutional modes is that i keep more of a professional outlook on myslef and how i portray myself to other people whom i may not know personally but know more professionally. There is a clear distinction between both modes as private resident modes usually portray my personality as an individual where i am less restrictive with myself and am more active whereas my institutional modes only show parts of my personality which are necessary.
+My digital identity has changed significantly since using technology when I was younger. The main use of the web and technology in the past was solely for entertainment purposes, for example movies, games, YouTube videos etc. However, since then I have made several online presences which have enabled me to talk and communicate with friends, family, and even online friends where we have been able to discuss certain topics of interests etc. I have also been able to use the web more efficiently more recently by using it as a source to find relevant information, find advice, tutorials etc. Applications such as LinkedIn have helped me start creating my professional identity and presence online through my institution. My goals for the future will be to expand my digital identity professionally and add more to the professional/resident quadrant.
 
 
-<br>
 
-### My future digital identity/identities
-To help develop my digital identities I have
-- revised my current use of digital identities (thought about it critically)
-- discussed it with my cohort/friends/parents
-- found this and that in journal papers/books/internet which helped me understand where and how I could improve 
-- used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
-- etc. 
 
-Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
 
-After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
-
-<br>
-
-#### Objective 1 (example)
-The above V&R map and its analysis highlighted ...
-
-To address this (objective/weakness/threat, ...) I plan to 
-- do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
-- by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
-
-<br>
-
-#### Objective 2 (example)
-...
-
-By addressing these objectives my V&R map will look as follows: 
-
-![V&R map plain](assets/img/vr-map-plain.svg)
-
-<br>
-
-### Summery
-This writing reflected (or in this writing I reflected) on my understanding of
-
-1. digital identities in general and highlighted this and that
-2. my digital identities in the past/present and highlighted this and that
-3. my digital identities in the future and highlighted this and that
 
 <br>
 
