@@ -55,10 +55,16 @@ How to use this GitHub repository as a template for your submission, including h
 - 25/11/21 - Received feedback from Krisztian about my essay.
 - 28/11/21 - Made some progress with website on "Notion".
 - 30/11/21 - Completed feedback on essay with first V&R map (713 words).
+- 01/12/21 - Presented progress so far to the class.
 
 <br>
 
 ## TODO
+
+### Now 01/12/21
+- Look for at least 2 more references for the website.
+- Make more progress on notion with website planning.
+- Carry on with working on essay.
 
 ### By week 9
 - Complete first full draft of essay, obtain feedback.
