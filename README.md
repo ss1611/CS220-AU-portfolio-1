@@ -63,7 +63,7 @@ How to use this GitHub repository as a template for your submission, including h
 ### By week 9
 - Complete first full draft of essay, obtain feedback.
 - Make progress on website with markdown language.
-- Complete one page of the website.
+- Complete one page of the website (add pictures/ videos)
 
 ## by week 10
 - Complete essay, get more feedback and possibly finish.
