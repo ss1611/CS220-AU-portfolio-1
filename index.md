@@ -18,8 +18,6 @@ Hello! My name is Lei Lyu and I got a english name called Owen.I like listening 
 
 ## acedemic pages/associations/clubs
 - [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
-
 <br>
 
 
@@ -35,5 +33,5 @@ Hello! My name is Lei Lyu and I got a english name called Owen.I like listening 
 <br>
 
 ## work experience
-### A bilibili uploader and a cyperspace writer 
+### A Bilibili uploader and a cyperspace writer 
 In July 2020, I began to upload my firt video about film on the platform and until now I upload over 187 videos within films, animations games and some vlogs Meanwhile, I tried to seek a part-time job such as a waiter in a restaurant. In addition, I did some online part-time jobs for over a year. In July 2021, I started to upload my own light novels and so far I wrote over two hundred thousand words. Generally, those work experiences help me a lot.
