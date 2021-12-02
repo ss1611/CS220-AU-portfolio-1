@@ -20,8 +20,11 @@ University email - sd21290@essex.ac.uk
 
 <br>
 
-## Blog
-- 2021 Nov 11 - [Year 11 Citizenship project: inspiring a sociological imagination](2021-11-10-year-eleven-project.md)
+## Blog: my sociological journey.
+- 10/11/2021 - [Year 11 Citizenship project: inspiring a sociological imagination](2021-11-10-year-eleven-project.md)
+- 11/11/2021 - [My Sociology sixth form experience: further insight into social inequality]
+- 26/11/2021 - [Current Sociological project: the ideologically manipulative role of the media]
+- 02/12/2021 - [My sociological future: the development of my sociological imagination]
 
 <br>
 
@@ -52,3 +55,9 @@ Upon achieving an A* at A Level Sociology, which was the subject I most thorough
 My essay aims to explore how the media - debatably the most contemporary and relevant institution that has penetrated into our social realms in digital society - shapes our perceptions of normality through stereotyping and underrepresentation. Through ideology that is ultimately controlled and moulded by the ruling-class elite within society, our perceptions of race, gender, age and ethnicity are manipulated in an attempt to uphold the existing (disgustingly unequal!) social order.
 
 Therefore, after reading my essay, I hope that you - the viewer, who, like me, has the potential to reveal and challenge injustice - will be more alert to the fact that what we consume everyday - the content of the mass media - is politically distorted, but can also be used as a catalyst to initiate positive social change. 
+
+
+
+<br>
+
+# My sociological future: the development of my sociological imagination.
