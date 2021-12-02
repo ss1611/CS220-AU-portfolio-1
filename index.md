@@ -27,7 +27,7 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 ## now
 - I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a LinkedIn account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
-- working on a group project for [PA223-5-AU] (https://www1.essex.ac.uk/modules/Default.aspx?coursecode=PA223&level=5&period=AU&campus=CO&year=21) at the University of Essex
+- working on a group project for [PA223-5-AU](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=PA223&level=5&period=AU&campus=CO&year=21/) at the University of Essex
 
 <br>
 
