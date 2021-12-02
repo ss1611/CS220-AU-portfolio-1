@@ -21,7 +21,6 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 
 ## acedemic pages/associations/clubs
 - [Essex Moodle Page](https://moodle.essex.ac.uk/user/profile.php?id=164180)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
 
 <br>
 
