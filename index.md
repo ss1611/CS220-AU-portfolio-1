@@ -22,7 +22,7 @@ University email - sd21290@essex.ac.uk
 
 ## Blog: my sociological journey.
 - 10/11/2021 - [Year 11 Citizenship project: inspiring a sociological imagination](2021-11-10-year-eleven-project.md)
-- 11/11/2021 - [My Sociology sixth form experience: further insight into social inequality](2021-11-10-sociology-at-sixth-form.md)
+- 11/11/2021 - [My Sociology sixth form experience: further insight into social inequality](2021-11-11-sociology-at-sixth-form.md)
 - 26/11/2021 - [Current Sociological project: the ideologically manipulative role of the media]
 - 02/12/2021 - [My sociological future: the development of my sociological imagination]
 
