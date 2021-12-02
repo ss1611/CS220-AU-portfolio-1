@@ -49,6 +49,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2021-11-24 Talked to a tutor about my website and essay. It helped a lot.
 - 2021-10-19 minor grammar and logic changes. 
 - 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
 - 2021-10-11 one peer assessment instead of two needed.
@@ -71,7 +72,9 @@ How to use this GitHub repository as a template for your submission, including h
 ## by week 7
 - make screencast demonstrating the submission of this repository
 - go through this repository with students and clarify if needed
-
+## by week 11
+- start my essay draft
+- finish attachig my work about human emotions
 <br>
 
 ## References
