@@ -68,4 +68,5 @@ But, before you submit, please rename both files to contain your student number 
 - Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
 - Begin constructing a portfolio overview - email Krisztian for details/clarification.
 - Find a peer for feedback.
+- Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.
 <br>
