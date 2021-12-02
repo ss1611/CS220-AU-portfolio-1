@@ -51,7 +51,7 @@ But, before you submit, please rename both files to contain your student number 
 
 **26/11/21**: Was permitted to embed SC106 essay onto website.
 
-**02/12/21**: started converting website segments/blog posts to hyperlinks for easier reading. Also completed the future blog post to add more content to the website.
+**02/12/21**: Started converting website segments/blog posts to hyperlinks for easier reading. Also completed the future blog post to add more content to the website.
 
 <br>
 
@@ -72,5 +72,6 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Find a peer for feedback.~~
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
 - Turn segments on website homepage into hyperlinks for easier reading.
-- 
+- Find higher quality images for blog posts incorporating visual elements.
+
 <br>
