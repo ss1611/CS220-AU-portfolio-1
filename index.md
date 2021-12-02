@@ -17,7 +17,7 @@ I am a first year Liberal Arts student in Essex. I am half Japanese and half Bri
 <br>
 
 ## contact
-Email address horse1002@i.softbank.jp
+Email address eh20891@essex.ac.uk
 <br>
 
 ## acedemic pages/associations/clubs
