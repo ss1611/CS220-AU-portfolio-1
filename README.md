@@ -1,6 +1,5 @@
 # CS220 AU portfolio
 
-
 <br>
 
 ## Portfolio items
@@ -51,6 +50,9 @@ But, before you submit, please rename both files to contain your student number 
 **20/11/21**: Refined my website and learned how to insert quotes in markdown language, making the design of segment 2 look much smoother.
 
 **26/11/21**: Was permitted to embed SC106 essay onto website.
+
+**02/12/21**: started converting website segments/blog posts to hyperlinks for easier reading.
+
 <br>
 
 ## To do list
@@ -67,7 +69,8 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Email SC106 tutor to see if I can directly insert essay into website.~~
 - Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
 - Begin constructing a portfolio overview - email Krisztian for details/clarification.
-- Find a peer for feedback.
+- ~~Find a peer for feedback.~~
 - Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.
-- Turn my segments on website homepage into hyperlinks for easier reading.
+- Turn segments on website homepage into hyperlinks for easier reading.
+- 
 <br>
