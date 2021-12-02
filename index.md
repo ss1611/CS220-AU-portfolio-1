@@ -76,7 +76,7 @@ My fascination with WW2 relates more so to the history of Germany and how one ma
 
 Sigmund Freud, founder of psychoanalysis.
 
-![res](https://i.ibb.co/F6Sds6b/Sigmund-Freud.jpg)
+![res](https://i.ibb.co/r2J6DLv/Sigmund-Freud1.jpg)
 
 <br>
 
