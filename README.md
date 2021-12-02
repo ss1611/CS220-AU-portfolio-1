@@ -44,7 +44,7 @@ But, before you submit, please rename both files to contain your student number 
 
 **10/11/21**: Finished the first of 3 segments of the Sociology website (year 11) and got half way through the college section.
 
-**11/11/21**: Finshed the second of 3 segments of the Sociology website (college experience).
+**11/11/21**: Finished the second of 3 segments of the Sociology website (college experience).
 
 **15/11/21**: Created an overview to introduce my media ideology essay (current project).
 
@@ -69,4 +69,5 @@ But, before you submit, please rename both files to contain your student number 
 - Begin constructing a portfolio overview - email Krisztian for details/clarification.
 - Find a peer for feedback.
 - Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.
+- Turn my segments on website homepage into hyperlinks for easier reading.
 <br>
