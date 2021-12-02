@@ -68,7 +68,25 @@ Sociology, in summary, is like a key to jobs that are highly social, require goo
 
 ## ****2. Which sociological topics will I explore further?**** 
 
+Part of being a sociology student at university is the sociological research project that is conducted in the third year.
 
+Many students fear this dissertation, due to the pain of referencing hundreds of credible sources, rereading pages of highly formal, original research, and the hundreds of hours spent gathering data and analysing findings.
+
+Although I share this anxiety, I believe the third year dissertation is an opportunity for me to explore sociological topics that interest me.
+
+But what are those topics? Where is my interest in sociology heightened?
+
+To assess this, I thought back to my sociological past, and also consulted my present sociological projects. The common theme running throughout these periods, and my website in general, is a desire to tackle social inequality. 
+
+I simply find it devastating that such blatant inequlities exist today, and that women, ethnic minority groups, the elderly, disabled individuals, members of the LGBTQA+ community, and so many more persist to be oppressed and denied basic rights and opportunities in society. From year 11 to today, I have constantly shown interest in raising awareness on social injustice, so this is the direction my research will take.
+
+But you may be thinking, which strand of inequality? Indeed, writing a dissertation on inequality would ultimately take me centuries to complete, so I will have to consider which part of inequality most appeals to me. And the answer to that question, is gender.
+
+At sixth form, a significant module I studied was on families and households, examining the processes and inequalities embedded in the very place we come to see as a safe haven - [home](https://www.youtube.com/watch?v=UpgZ5PCuf8A).
+
+In particular, women have unequal experiences in comparison with men in the domestic sphere, as reinforced by women being faced with the burden of emotional labour, domestic chores and paid employment (Duncombe and Marsden, 1995), which men tend not to be, and women also taking the brunt of domestic violence [(Gilchrist, 2013)](https://books.google.co.uk/books?hl=en&lr=&id=ym7BUe4MDK8C&oi=fnd&pg=PA159&dq=domestic+abuse+women+UK&ots=ATcE6yr55w&sig=7mKX6sB91SACQR1Un5gkDCOmI5g&redir_esc=y#v=onepage&q=domestic%20abuse%20women%20UK&f=false).
+
+Thus, I can see my future sociological research and interests steering towards gender inequalities in society, as I beleive that women are still hugely subordinate to men in society, and consequently deserve to have their struggles illuminated as a means of driving positive social change.
 
 <br>
 
