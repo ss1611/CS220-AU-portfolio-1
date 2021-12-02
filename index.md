@@ -91,3 +91,27 @@ Thus, I can see my future sociological research and interests steering towards g
 <br>
 
 ## ****3. Why is sociology an important subject moving into the future?****
+
+So far, I've discussed what sociology may enable me to do in the future, and which elements of sociology I believe I will study further. This leaves me with one more significant question to answer regarding the future of my sociological career: what is the purpose of studying sociology in the future? Why should I pursue a career related to the broad field of sociology?
+
+When I first started studying sociology at university, this was something I questioned: I had a passion for a subject, but little idea of how relevant it may be in the future. 
+
+Maths, science, and engineering, for example, are all conduits that power modern design and industry, and will always be crucial towards progressing technology and standard of living in society. Sociology, however, is more fluid: every finding can be debated and every researcher has differing interests, causing the subject to lack consensus, so how can sociology be of any use to tackling problems in the future?
+
+I believe the answer lies in sociology's unique power to reveal perspectives and flaws in society that other subjects are unable to do. As stated by C. Wright Mills:
+
+> ‘It is social and historical reality that men want to know, and often they do not find contemporary literature an adequate means for knowing it’ (2000 [1959]:17).
+
+And it is sociology that reveals the structures that control our lives, shedding light on the factors that cause individuals to feel a sense of subjugation. It provides insight into the very forces that hamper women from breaking the 'glass ceiling' in the sphere of work; illuminates the historical factors that prevent ethnic minority groups from succeeding within the ethnocentric education system; accentuates the degree of oppression that children face in societies across the globe; and so much more!
+
+Thus, as societies begin to rapidly expand as urbanisation rapidly enhances, and capitalism evolves as the dominant economic system, we need a means of comprehending these radical changes, and the myriad effects they will have on individuals: it is sociology that provides this illumination and allows us to challenge inequalities.
+
+Sociology is the voice that society needs to reveal stories of injustice and power social progress. Without sociology, society will only become more unequal, so it is up to us - the sociologists of today - to speak up and foster equality.
+
+## ****Conclusion****
+
+This blog is a bit of a prediction.
+
+I've retraced my steps taken as a sociologist in order to assess where I may go with sociology in the future, exploring future topics, career paths, and the need for sociology in the future. I've outlined the prominence of social inequality today, justifying the need for individuals in society to develop their sociological imaginations and challenge what they see and experience.
+
+I hope you've enjoyed this short blog, and are inspired to change the world as you know it; it is up to individuals, like you and me, to use sociology as a framework of practices, perspectives and ideas to shape the future in a positive manner!
