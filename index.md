@@ -70,12 +70,11 @@ My key responsibilities in this role included organising events, engagement with
 
 <br>
 
-## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
-
+## My research
+### How human emotion change through watching sad films and how these changes may affect life
+I studied a foundation course in 2020, and this was my research topic. I was looking at university website and found that there are studies about films and human relatioships. I am interested in this topic, so I decided to reserch more about it, mainly focusing on human emotions.I was curious as to why people like sad movies despite the fact that they make people cry. I was interseted in knowing what makes it enjoyable, as well as how humans deal with negative and happy emotions. As a result, I wanted to concentrate on sad films and how that affect people's life. 
 ### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
+tworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
 
