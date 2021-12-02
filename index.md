@@ -28,26 +28,6 @@ University email - sd21290@essex.ac.uk
 
 <br>
 
-# My Sociology sixth form experience: further insight into social inequality.
-
-At sixth form, Sociology placed significant emphasis on unearthing the social inequalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
-
-![](assets/img/Inequalities%20mindmap.jpg)
-
-As the image above displays, the inequalities associated with social institutions are broad, encompassing multiple, intersecting facets of social characteristics, such as ethnicity, social class and gender, illustrating how social divisions in contemporary society are complex; the experience of social inequality cannot seemingly be generalised as oppression is an indivisualistic experience.
-
-As Kimberlé Crenshaw in her 1989 essay 'Demarginalizing the Intersection of Race and Sex' states:
-
-> 'This focus on the most privileged group members marginalizes
-those who are multiply-burdened and obscures claims that cannot
-be understood as resulting from discrete sources of discrimination.' (140)
-
-Overall, my sixth form experience illuminated to me the extent to which inequlity is not an experience unique to the United Kingdom, nor an experience that impacts individuals uniformly in society. In fact, inequality is often covert in society - the individuals that have to endure it are often marginalised and silenced, maintaining society's unjust hierarchies of power.
-
-Yet, this covertness is the reason inequality persists, which has driven me towards studying Sociology at university, in hopes that I can not only gain a better insight into how inequalities operate and where they reside, but also unearth and expose these inequalities, potentially producing work in the future that drives positive social change, leading to small steps towards a less segregated and hierarchichal society.
-
-<br>
-
 # Current Sociological project: the ideologically manipulative role of the media.
 
 Upon achieving an A* at A Level Sociology, which was the subject I most thoroughly enjoyed, I decided to study it further, justifying my current status as a University of Essex student. The inequalities that A Level Sociology highlighted to me steered me towards studying how inequalities are perpetuated today. Thus, in my [SC106 'Media, Culture and Society' module](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=SC106), when I was given the chance to study and write about the ideological role of the media, I took the opportunity.
@@ -61,3 +41,35 @@ Therefore, after reading my essay, I hope that you - the viewer, who, like me, h
 <br>
 
 # My sociological future: the development of my sociological imagination.
+
+As my previous blogs demonstrate, I have been developing a sociological imagination for a while now!
+
+Currently, I'm in my first year of university, and am exploring how the media perpetuates social inequalities in society. This is only a stepping stone in my sociological career, and I was thinking of dedicating this blog post to the discussion of where I may go with Sociology.
+
+Thus, this blog post is going to be split into 3 key questions that relate to my future, and is dedicated to reflecting on my past in order to make predictions.
+
+## ****1. What doors will the subject open for me?**** 
+
+Sociology, for me, has honed some of the foundational skills that employers desire. 
+
+In the summer of 2021, when I was being interviewed for an environmental conservation job for my local council, I was asked about what I could bring to the council that others couldn't. 
+
+A ****daunting**** question!
+
+I pasued, thinking to the skills I've harnessed throughout years of education. Suddenly, my mind raced to the concept of 'verstehen' - empathetic understanding - which sociology emphasises as being a pivotal research skill. Bingo: sociology has taught me to look through the eyes of others, and subsequently opened my eyes to the privileges I have theat others don't. Hence, I told the interviewers that as a result of my sociological imagination, which largely focuses on verstehen, I am able to defuse hostile situations efficiently by looking through the eyes of others, and acknowledging the sources of their frustrations.
+
+This key skill, in my opinion, is what got me that job. So, in regards to the future, as my sense of empathy strengthens, I believe that I will be able to conduct highly personalised, deep, and sensitive social research, which will hopefully explore the perspectives and viewpoints of the social groups who are suppressed within society, and need a platform off which they can project their stories.
+
+If I choose not to go down the route of social research in the long term, I believe that verstehen, alongside an assortment of other skills that sociology has taught me, such as time management, critical thinking and evaluation, the ability to debate, formal essay writing, and many more, will permit me to teach others and inspire future generations of sociologists!
+
+Sociology, in summary, is like a key to jobs that are highly social, require good interactional skills, and are underpinned by verstehen.
+
+<br>
+
+## ****2. Which sociological topics will I explore further?**** 
+
+
+
+<br>
+
+## ****3. Why is sociology an important subject moving into the future?****
