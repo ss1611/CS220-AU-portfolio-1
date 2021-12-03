@@ -43,31 +43,31 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 Volunteering as a Language ambassaddor for Bexhill College, work included helping GCSE German students with their exams.
 
 ### Academic research interests
-- Lacanian Psychoanalysis ([Notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Lacan.pdf))
+- Lacanian Psychoanalysis ([Notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Lacan.pdf))
 - Ideology and how it relates to political discourse
 - Protestant theology and Psychoanalysis
 - Unconscious motives underlying National Socialist propaganda
 
 #### Essays written
-[Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Unconscious%20Essay_2001057.pdf)
+[Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Unconscious%20Essay_2001057.pdf)
 
-[Judith Butler conception of gender performativity](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA134_2001057.pdf)
+[Judith Butler conception of gender performativity](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/PA134_2001057.pdf)
 
-[Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Media%20influence%20on%20aggression.pdf)
+[Media influence on aggression](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Media%20influence%20on%20aggression.pdf)
 
-[How Freud understands the unconscious](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA208_2001057%20Freud.pdf)
+[How Freud understands the unconscious](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/PA208_2001057%20Freud.pdf)
 
-[Carl Jung's understanding of society](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/PA209_2001057.pdf)
+[Carl Jung's understanding of society](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/PA209_2001057.pdf)
 
 Besides writing essays for University, I have also been involved in online discussion groups, the psychoanalysis society and debates sourrounding various thoughts and beliefs.
 
 <br>
 
 ## other interests
-### Apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Pressupositionalism.pdf)
-Apologetics relates to defending one's world-view, most commonly used in the context of religious discussions. There are different types of apologetics, most notably evidentialism and pressupositionalism. I'm more interested in Pressupositionalism which is simply the view that faith has to be presupposed before one can begin to use reason, argued based on potential flaws in one's senses, requiring a transcendent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires certainty.
+### Apologetics [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Pressupositionalism.pdf)
+Apologetics relates to defending one's world-view, most commonly used in the context of religious discussions. There are different types of apologetics, most notably evidentialism and pressupositionalism. I'm more interested in Pressupositionalism which is simply the view that faith has to be presupposed before one can begin to use reason, argued based on potential flaws in one's senses, requiring a transcendent being that can ground reasoning. This relates to epistemological debates on whether knowledge requires any certainty.
 
-### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/img/Marxism.pdf)
+### Marxism and Soviet history [notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Marxism.pdf)
 Being aware that, at one point, half of the world's population lived under Marxist inspired governments led me to want to find out more about the theory behind communism and the practical attempt in the case of the Soviet Union. Specific interests go into theoretical discussions on whether capitalism is inherently exploitative and whether self-proclaimed Marxist governments were preferable to capitalist alternatives.
 
 ### World War 2 history
@@ -88,8 +88,8 @@ Interesting podcast episode by working Psychoanalysts
 
 <br>
 
-Here an example to embed a video:
+Interesting WW2 story channel by a British historian
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br> 
