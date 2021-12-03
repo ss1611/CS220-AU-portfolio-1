@@ -80,15 +80,15 @@ Sigmund Freud, founder of psychoanalysis.
 
 <br>
 
-Interesting podcast episode by working Psychoanalysts
+Interesting podcast episode by the Freud museum.
 
 <br>
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://soundcloud.com/whytheory/psychoanalysis-and-capitalism" seamless><a href="https://soundcloud.com/whytheory/psychoanalysis-and-capitalism">Why Theory | Todd McGowan | Ryan Engley</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/" seamless><a href="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/">Freud in Focus: Episode 4 | Jamie Ruers | Bryony Davie </a></iframe>
 
 <br>
 
-Interesting WW2 story channel by a British historian
+Interesting WW2 story channel by a British historian.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
