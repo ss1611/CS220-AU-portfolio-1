@@ -53,6 +53,8 @@ But, before you submit, please rename both files to contain your student number 
 
 **02/12/21**: Started converting website segments/blog posts to hyperlinks for easier reading. Also completed the future blog post to add more content to the website.
 
+**05/12/21**: Learned how to resize and centre images in GitHub readme.md files; edited the photo (quality/size and centrality) in the first blog post hyperlink.
+
 <br>
 
 ## To do list
@@ -72,6 +74,6 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Find a peer for feedback.~~
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
 - Turn segments on website homepage into hyperlinks for easier reading.
-- Find higher quality images for blog posts incorporating visual elements.
+- ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
 
 <br>
