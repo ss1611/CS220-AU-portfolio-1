@@ -9,7 +9,7 @@ At the end of the bake sale, over £74 was raised for the Colchester Night Shelt
 <p align="center">
 <img src="https://github.com/2103461/CS220-AU-portfolio/blob/main/assets/img/Updated%20cake%20image.jpg" width="450" height="400" />
 
-https://github.com/2103461/CS220-AU-portfolio/blob/main/assets/img/Updated%20cake%20image.jpg
+<br>
 
 If interested, explore the [Colchester Night Shelter](https://colchesternightshelter.org.uk) website for futher information on homelessness in the Colchester vicinity.
 
