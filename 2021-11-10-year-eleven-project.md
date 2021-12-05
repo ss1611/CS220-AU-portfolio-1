@@ -6,7 +6,7 @@ After peer discussion, I decided upon a charity bake sale in order to raise mone
 
 At the end of the bake sale, over £74 was raised for the Colchester Night Shelter!
 
-![](assets/img/Cake%20image%20for%20website.jpg)
+![](assets/img/Updated%20cake%20image.jpg)
 
 If interested, explore the [Colchester Night Shelter](https://colchesternightshelter.org.uk) website for futher information on homelessness in the Colchester vicinity.
 
