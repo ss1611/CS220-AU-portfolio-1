@@ -75,5 +75,5 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
 - Turn segments on website homepage into hyperlinks for easier reading.
 - ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
-
+- Expand 'education' section and hyperlink it for easier reading.
 <br>
