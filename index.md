@@ -12,7 +12,7 @@ University email - sd21290@essex.ac.uk
 
 ## CV/Education
 
-For an overview ofmy CV, follow this [hyperlink].
+For an overview of my CV, follow this [hyperlink](assets/img/Sam%20Davies%20CV.docx).
 
 | Date | Qualification | Institute |
 --- | --- | ---
