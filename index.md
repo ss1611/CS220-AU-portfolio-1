@@ -112,7 +112,9 @@ Here an example to embed a video:
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
 
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/" seamless><a href="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/">Freud in Focus: Episode 4 | Jamie Ruers | Bryony Davie </a></iframe>
+<p><iframe style="border: 0; width: 350px; height: 470px;" src="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/" seamless><a href="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/">Freud in Focus: Episode 4 | Jamie Ruers | Bryony Davie </a></iframe></p>
+
+<div><iframe style="border: 0; width: 350px; height: 470px;" src="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/" seamless><a href="https://thefreudmuseum.podbean.com/e/freud-in-focus-episode-4/">Freud in Focus: Episode 4 | Jamie Ruers | Bryony Davie </a></iframe></div>
 
 <br>
 
