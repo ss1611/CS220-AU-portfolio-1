@@ -42,7 +42,7 @@ But you may be thinking, which strand of inequality? Indeed, writing a dissertat
 
 At sixth form, a significant module I studied was on families and households, examining the processes and inequalities embedded in the very place we come to see as a safe haven - [home](https://www.youtube.com/watch?v=UpgZ5PCuf8A).
 
-In particular, women have unequal experiences in comparison with men in the domestic sphere, as reinforced by women being faced with the burden of emotional labour, domestic chores and paid employment (Duncombe and Marsden, 1995), which men tend not to be, and women also taking the brunt of domestic violence [(Gilchrist, 2013)](https://books.google.co.uk/books?hl=en&lr=&id=ym7BUe4MDK8C&oi=fnd&pg=PA159&dq=domestic+abuse+women+UK&ots=ATcE6yr55w&sig=7mKX6sB91SACQR1Un5gkDCOmI5g&redir_esc=y#v=onepage&q=domestic%20abuse%20women%20UK&f=false).
+In particular, women have unequal experiences in comparison with men in the domestic sphere, as reinforced by women being faced with the burden of emotional labour, domestic chores and paid employment [(Duncombe and Marsden, 1995)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-954X.1995.tb02482.x), which men tend not to be, and women also taking the brunt of domestic violence [(Gilchrist, 2013)](https://books.google.co.uk/books?hl=en&lr=&id=ym7BUe4MDK8C&oi=fnd&pg=PA159&dq=domestic+abuse+women+UK&ots=ATcE6yr55w&sig=7mKX6sB91SACQR1Un5gkDCOmI5g&redir_esc=y#v=onepage&q=domestic%20abuse%20women%20UK&f=false).
 
 Thus, I can see my future sociological research and interests steering towards gender inequalities in society, as I beleive that women are still hugely subordinate to men in society, and consequently deserve to have their struggles illuminated as a means of driving positive social change.
 
