@@ -88,8 +88,8 @@ Interesting podcast episode by the Freud museum.
 
 <br>
 
-Interesting WW2 story channel by a British historian.
+Informative WW2 story channel by a British historian.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?v=Lo3vzQ9NGL0&list=PLjVnMGhQyOzOBj_X68oz9QK5IZQN0u63m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br> 
