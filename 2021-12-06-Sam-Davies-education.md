@@ -1,6 +1,6 @@
 ## CV/Education
 
-**For an overview of my CV, please follow this [hyperlink]**(assets/img/Sam%20Davies%20CV.docx).
+For an overview of my CV, please follow this [hyperlink](assets/img/Sam%20Davies%20CV.docx).
 
 <br>
 
