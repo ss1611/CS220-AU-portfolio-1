@@ -105,6 +105,8 @@ Here an example to embed a video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br><br> 
 
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
@@ -117,3 +119,5 @@ My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.
 Interesting WW2 story channel by a British historian.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
