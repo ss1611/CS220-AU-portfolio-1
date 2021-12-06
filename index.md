@@ -118,6 +118,6 @@ My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.
 
 Interesting WW2 story channel by a British historian.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
