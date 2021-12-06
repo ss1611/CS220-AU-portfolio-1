@@ -14,8 +14,8 @@ University email - sd21290@essex.ac.uk
 
 | Date | Qualification | Institute |
 --- | --- | ---
-|2014 - 2019|GCSE average of 7.5; BTEC Sport - level 2 distinction*; WJEC Media - level 2 distinction|Colne Community School|
-|2019 - 2021|A* A* A* in A level Sociology, English Language and Literature, and Geography|Colchester Sixth Form College|
+|2014 - 2019|GCSE English Language - 9; English Literature - 9; GCSE Mathematics - 6; GCSE Combined Science - 7/6; GCSE Citizenship - 9; GCSE Geography - 7; GCSE French - 7; BTEC Sport - level 2 Distinction*; WJEC Media - level 2 Merit|Colne Community School|
+|2019 - 2021|A level Sociology - A*; A level English Language and Literature - A*; A level Geography - A*|Colchester Sixth Form College|
 |Currently pursuing |BA Sociology degree|University of Essex|
 
 <br>
