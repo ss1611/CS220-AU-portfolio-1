@@ -88,6 +88,12 @@ Interesting podcast episode by the Freud museum.
 
 <br>
 
+Embed POD player with another code: 
+
+<iframe title="Freud Museum London: Psychoanalysis Podcasts" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fb92s-5485a-pbblog-playlist&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=315" allowfullscreen=""></iframe>
+
+<br><br>
+
 Interesting WW2 story channel by a British historian.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lo3vzQ9NGL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
