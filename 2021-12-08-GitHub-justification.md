@@ -6,4 +6,5 @@ Although WCMSs, such as Wix and Wordpress, make it easier for individuals to cre
 
 ***References***
 
+Hofstadter, K. (no date)
 Mischook, S. (2018) _Should you use static site generators over wordpress?_. 27 May. Available at: https://www.youtube.com/watch?v=_NZJW7IoGR4&t=374s (Accessed 8 December 2021).
