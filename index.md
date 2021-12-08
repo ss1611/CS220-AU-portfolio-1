@@ -7,6 +7,11 @@ I am a Student. Besides being interested in philosophy, religion and politics, I
 
 <br>
 
+Sigmund Freud, founder of psychoanalysis.
+
+![res](https://i.ibb.co/r2J6DLv/Sigmund-Freud1.jpg)
+
+<br>
 ## social media links
 - [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - [Github](https://github.com/2001057)
@@ -48,6 +53,16 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 - Protestant theology and Psychoanalysis
 - Unconscious motives underlying National Socialist propaganda
 
+
+Interesting podcast episode by the Freud museum.
+
+<br>
+
+<iframe title="Freud Museum London: Psychoanalysis Podcasts" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fb92s-5485a-pbblog-playlist&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=315" allowfullscreen=""></iframe>
+
+<br>
+
+
 #### Essays written
 [Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Unconscious%20Essay_2001057.pdf)
 
@@ -72,21 +87,6 @@ Being aware that, at one point, half of the world's population lived under Marxi
 
 ### World War 2 history
 My fascination with WW2 relates more so to the history of Germany and how one man was able to cause immense disruption to the world whilst being in power for 12 years. Especially interesting are the last years of the war, where Germany was using propaganda to keep their population unaware of the imminent collapse.
-<br>
-
-Sigmund Freud, founder of psychoanalysis.
-
-![res](https://i.ibb.co/r2J6DLv/Sigmund-Freud1.jpg)
-
-<br>
-
-Interesting podcast episode by the Freud museum.
-
-<br>
-
-<iframe title="Freud Museum London: Psychoanalysis Podcasts" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fb92s-5485a-pbblog-playlist&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=315" allowfullscreen=""></iframe>
-
-<br>
 
 Informative WW2 story channel by a British historian.
 
