@@ -55,6 +55,8 @@ But, before you submit, please rename both files to contain your student number 
 
 **05/12/21**: Learned how to resize and centre images in GitHub readme.md files; edited the photo (quality/size and centrality) in the first blog post hyperlink.
 
+**06/12/12**: expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
+
 <br>
 
 ## To do list
@@ -75,5 +77,5 @@ But, before you submit, please rename both files to contain your student number 
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
 - Turn segments on website homepage into hyperlinks for easier reading.
 - ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
-- Expand 'education' section and hyperlink it for easier reading.
+- ~~Expand 'education' section and hyperlink it for easier reading.~~
 <br>
