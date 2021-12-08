@@ -2,49 +2,7 @@ Within the development of website via internet, there is a plenty of people have
 
 <br>
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
-
-
-<br>
-
-### My future digital identity/identities
-To help develop my digital identities I have
-- revised my current use of digital identities (thought about it critically)
-- discussed it with my cohort/friends/parents
-- found this and that in journal papers/books/internet which helped me understand where and how I could improve 
-- used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
-- etc. 
-
-Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
-
-After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
-
-<br>
-
-#### Objective 1 (example)
-The above V&R map and its analysis highlighted ...
-
-To address this (objective/weakness/threat, ...) I plan to 
-- do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
-- by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
-
-<br>
-
-#### Objective 2 (example)
-...
-
-By addressing these objectives my V&R map will look as follows: 
-
-![V&R map plain](assets/img/vr-map-plain.svg)
-
-<br>
-
-### Summery
-This writing reflected (or in this writing I reflected) on my understanding of
-
-1. digital identities in general and highlighted this and that
-2. my digital identities in the past/present and highlighted this and that
-3. my digital identities in the future and highlighted this and that
+<br><br>https://github.com/2008771/CS220-AU-portfolio/blob/main/IMG_20211208_154154.jpg
 
 <br>
 
