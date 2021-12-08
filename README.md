@@ -13,6 +13,7 @@
 - 7.2021-11-10 Add a personal inteduction to index
 - 8.2021-11-17 Attended class and learn about innovation centre
 - 9.2021-12-01 Attended class, progress with github protfolio, V&R map creating
+- 10.2021-12-03 Create a Linkedin account
 
 <br>
 
