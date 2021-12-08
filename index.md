@@ -9,3 +9,11 @@ I am an International student originally born and raised in Cyprus which is a sm
 ## now
 -  1st year of Psychology Undergraduate Degree
 -  Online fashion marketing course
+
+# qualifications and experiences
+- Finished English High School
+- Attended Medimun 
+- Attended EYP 
+- Won the competition F1 in Schools / nationals
+- charity during covid-19 volunteering
+- Design and Technology club member
