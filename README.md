@@ -32,7 +32,7 @@ But, before you submit, please rename both files to contain your student number 
 
 This portfolio comprises my website (a personal account of my professional identity and journey as a sociologist); a reflective essay based on White's (2013) model of digital identities; a self and peer asessment file that examines the overall success of my website in relation to pre-determined criteria; and this README.md file, which highlights the steps taken in developing the portfolio. This overview will systematically outline the different components in the portfolio and justify decisions made during the process of website design in particular.
 
-The first component of this portfolio is the [website]()
+The first component of this portfolio is the [website](https://2103461.github.io/CS220-AU-portfolio/), which entails the details of my professional identity, referring to the institutional practices and related to my sense of self (White, 2014). The core of the website focuses specifically on 'my sociological journey': a series of blog posts interwoven with images and hyperlinks that discusses my passion for the subject, how I developed my sociological skills, and where I may go with sociology in the future. All images used were taken by myself, thus avoiding issues of copyright (further justification is outlined in this [hyperlink]()).
 
 <br> 
 
