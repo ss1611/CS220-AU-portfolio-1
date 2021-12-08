@@ -1,4 +1,4 @@
-# Current Sociological project: the ideologically manipulative role of the media.
+# Current sociological project: the ideologically manipulative role of the media.
 
 Upon achieving an A* at A Level Sociology, which was the subject I most thoroughly enjoyed, I decided to study it further, justifying my current status as a University of Essex student. The inequalities that A Level Sociology highlighted to me steered me towards studying how inequalities are perpetuated today. Thus, in my [SC106 'Media, Culture and Society' module](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=SC106), when I was given the chance to study and write about the ideological role of the media, I took the opportunity.
 
