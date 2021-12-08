@@ -6,7 +6,7 @@ Hello! My name is Lei Lyu and I got a english name called Owen.I like listening 
 
 ## social media links
 - [Bilibili] https://space.bilibili.com/387526484
-- [YouTube] https://www.youtube.com/
+
 
 
 <br>
