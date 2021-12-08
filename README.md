@@ -1,6 +1,7 @@
 # CS220 AU portfolio
-## Overview
+##  Portofolio Overview
 Maria Demetriou-Digital Portofolio
+My portoflio will include:
 
 ## Log
 
