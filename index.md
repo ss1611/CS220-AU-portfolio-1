@@ -6,7 +6,6 @@ Hello! My name is Lucas Schoedel, or just Lucas.
 I am a Student. Besides being interested in philosophy, religion and politics, I am currently studying psychoanalysis at the University of Essex, Colchester. I am from Germany although I have lived in the UK since 2013. 
 
 <br>
-
 Sigmund Freud, founder of psychoanalysis.
 
 ![res](https://i.ibb.co/r2J6DLv/Sigmund-Freud1.jpg)
@@ -27,14 +26,12 @@ Sigmund Freud, founder of psychoanalysis.
 
 ## acedemic pages/associations/clubs
 - [Essex Moodle Page](https://moodle.essex.ac.uk/user/profile.php?id=164180)
-
 <br>
 
 ## now
 - I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a LinkedIn account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - working on a group project for [PA223-5-AU](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=PA223&level=5&period=AU&campus=CO&year=21/) at the University of Essex
-
 <br>
 
 ## education
@@ -54,7 +51,6 @@ Volunteering as a Language ambassaddor for Bexhill College, work included helpin
 - Protestant theology and Psychoanalysis
 - Unconscious motives underlying National Socialist propaganda
 
-
 Interesting podcast episode by the Freud museum.
 
 <br>
@@ -62,7 +58,6 @@ Interesting podcast episode by the Freud museum.
 <iframe title="Freud Museum London: Psychoanalysis Podcasts" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fb92s-5485a-pbblog-playlist&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=315" allowfullscreen=""></iframe>
 
 <br>
-
 
 #### Essays written
 [Importance of the unconscious in everyday life](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/document/Unconscious%20Essay_2001057.pdf)
