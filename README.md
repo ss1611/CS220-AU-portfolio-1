@@ -32,6 +32,7 @@ But, before you submit, please rename both files to contain your student number 
 
 This portfolio comprises my website (a personal account of my professional identity and journey as a sociologist); a reflective essay based on White's (2013) model of digital identities; a self and peer asessment file that examines the overall success of my website in relation to pre-determined criteria; and this README.md file, which highlights the steps taken in developing the portfolio. This overview will systematically outline the different components in the portfolio and justify decisions made during the process of website design in particular.
 
+The first component of this portfolio is the [website]()
 
 <br> 
 
