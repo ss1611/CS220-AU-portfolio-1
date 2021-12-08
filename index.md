@@ -26,6 +26,7 @@ Sigmund Freud, founder of psychoanalysis.
 ## acedemic pages/associations/clubs
 - [Essex Moodle Page](https://moodle.essex.ac.uk/user/profile.php?id=164180)
 <br>
+
 ## now
 - I just updated my [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a LinkedIn account [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
