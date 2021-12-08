@@ -1,38 +1,9 @@
-Quick notes:
-- you can use the outline below as your template, amend it, or change it completely. Just make sure you use the [Chicago style referencing](https://www1.essex.ac.uk/students/study-resources/tdc/documents/referencing-chicago.pdf). 
-- you should work on your drafts in your private repository. As discussed, you can add this written work to your public website as an additional page if you'd like, but makes sure you also submit a PDF version on FASER. 
-
-## Reflection on digital identities
-
-This writing briefly reflects on my understanding of
-
-- digital identities in general
-- my digital identities in the past/present
-- my digital identities in the future
+Within the development of website via internet, there is a plenty of people have decided to be  cypercitizens through creating accounts on different social media platforms such as Facebook.As result of it, people get to konw and communicate with different people from different parts of world instead of face-to-face way. Therefore, those people get their own digital identites.As to digital indentity, it is a concept in cyberspace. It refers to the description of a group of individuals or things (sometimes referred to as subject or entity)Data, or all the information about a person available on the Internetsum. It is a type of network used by individuals, organizations or electronic devices.An online identity, or network identity. These individuals, organizations or telecom Sub-devices may have more than one number through different online communities identity. These digital identities are composed of some characteristics or digital attributes.Thus, digital identity provides us with a virtual social circle so that those people can be found by their "footprints".
 
 <br>
-
-### Digital identities
-To help identify and improve my digital identities, I explored 
-- [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
-  - says this and that as well as that
-  - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
-
-Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
-
-<br>
-
-### My past/present digital identity/identities
-Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
 
 <br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
 
-To clarify, in 
-
-- my visiting mode, the primary activities are ...
-- my resident mode, the primary activities are ...
-- the difference between my personal and institutional modes is ...
-- etc. 
 
 <br>
 
