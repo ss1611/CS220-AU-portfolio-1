@@ -12,17 +12,12 @@
 - 6.2021-11-03 Attended class 
 - 7.2021-11-10 Add a personal inteduction to index
 - 8.2021-11-17 Attended class and learn about innovation centre
+- 9.2021-12-01 Attended class, progress with github protfolio, V&R map creating
 
 <br>
 
 ## TODO
-- try to modifiy and beautify the index in the clean way
 -  make a short video to create a brief statement about my github
-- create a linkedin account 
-
+- V&R map modification, work with following essay
 
 <br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
