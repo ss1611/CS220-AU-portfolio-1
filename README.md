@@ -63,7 +63,9 @@ The first component of this portfolio is the [website](https://2103461.github.io
 
 **05/12/21**: Learned how to resize and centre images in GitHub readme.md files; edited the photo (quality/size and centrality) in the first blog post hyperlink.
 
-**06/12/12**: expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
+**06/12/21**: expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
+
+**08/12/21**: started potfolio overview.
 
 <br>
 
@@ -80,10 +82,12 @@ The first component of this portfolio is the [website](https://2103461.github.io
 - ~~Create an overview of the third segment of my website: the current project (SC106 essay on media ideologies and ineqaulity reinforcement).~~
 - ~~Email SC106 tutor to see if I can directly insert essay into website.~~
 - Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
-- Begin constructing a portfolio overview - email Krisztian for details/clarification.
+- ~~Begin constructing a portfolio overview - email Krisztian for details/clarification.~~
 - ~~Find a peer for feedback.~~
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
 - Turn segments on website homepage into hyperlinks for easier reading.
 - ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
 - ~~Expand 'education' section and hyperlink it for easier reading.~~
+- Complete portfolio overview.
+- Complete peer/self-assessment.
 <br>
