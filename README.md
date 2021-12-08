@@ -85,7 +85,7 @@ The first component of this portfolio is the [website](https://2103461.github.io
 - ~~Begin constructing a portfolio overview - email Krisztian for details/clarification.~~
 - ~~Find a peer for feedback.~~
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
-- Turn segments on website homepage into hyperlinks for easier reading.
+- ~~Turn segments on website homepage into hyperlinks for easier reading.~~
 - ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
 - ~~Expand 'education' section and hyperlink it for easier reading.~~
 - Complete portfolio overview.
