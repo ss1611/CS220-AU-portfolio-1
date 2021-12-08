@@ -2,7 +2,7 @@ The information below can be used as a template for your own home page.
 
 ## Lei Lyu
 - Communication and Digital culture student at the University of Essex.
-Hello! My name is Lei Lyu and I got a english name called Owen.I like listening to music and playing basketball. Moreover,I love animation and game and light novels. At the samm time, I am also a uploader and a cyberspace writer and I upload my creations such as videos about games on the platform called Bilibili(similar with Youtuber).To be honest, it can be one of my part-time jobs. I was born in China and now I am a college student in the University of Essex.
+-Hello! My name is Lei Lyu and I got a english name called Owen.I like listening to music and playing basketball. Moreover,I love animation and game and light novels. At the samm time, I am also a uploader and a cyberspace writer and I upload my creations such as videos about games on the platform called Bilibili(similar with Youtuber).To be honest, it can be one of my part-time jobs. I was born in China and now I am a college student in the University of Essex.
 
 ## social media links
 - [Bilibili] https://space.bilibili.com/387526484
