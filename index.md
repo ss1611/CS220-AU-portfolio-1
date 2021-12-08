@@ -12,6 +12,7 @@ Sigmund Freud, founder of psychoanalysis.
 ![res](https://i.ibb.co/r2J6DLv/Sigmund-Freud1.jpg)
 
 <br>
+
 ## social media links
 - [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/)
 - [Github](https://github.com/2001057)
@@ -92,4 +93,4 @@ Informative WW2 story channel by a British historian.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed?v=Lo3vzQ9NGL0&list=PLjVnMGhQyOzOBj_X68oz9QK5IZQN0u63m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br> 
+<br>
