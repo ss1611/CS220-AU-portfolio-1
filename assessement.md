@@ -1,4 +1,4 @@
-# Self- and peer-assessment
+# Self and peer-assessment
 
 ## Marking criteria
 
