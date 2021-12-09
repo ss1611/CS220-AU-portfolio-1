@@ -51,11 +51,12 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-11-04 started editing index.md
 - 2021-10-30 First essay draft sent
 - 2021-10-21 digital identity essay started
-- 2021-10-14 'CS220-AU-portfolio' forked. readme.md refined
+- 2021-10-14 'CS220-AU-portfolio' forked. readme.md refined.
 - 2021-10-07 repo created. readme.md added and next steps in the todo heading defined
 <br>
 
 ## Todo List
-- 2021-10-14 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
+- 2021-10-21 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
+- 
 
 <br>
