@@ -16,10 +16,10 @@ The URL of the website, using the `index.md` file can be found in the sidebar of
 ## Portfolio items
 The portfolio items I will submit contains the following:
 
-1. **website** - a simple website that supports my institutional/professional identity, also similar to a blog format highlighting non instituional interests. There is also a cv like element to it, showing my education, work experience and essay written.
-2. **di reflection** - a short written work (essay) where I reflect on developing my digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
-3. **self-and peer-assessment** - the CS220 AU marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
-4. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
+1. **website** - a simple website that supports my institutional/professional identity, also similar to a blog format highlighting non instituional interests. There is also a cv like element to it, showing my education, work experience and essay's written.
+2. **di reflection** - a short written work (essay) where I reflect on developing my digital identities including both, visitor and resident modes (White, 2013). I wrote my reflection in Word, however I submitted it as a PDF file on FASER. 
+3. **self-and peer-assessment** - Using the CS220 AU marking rubric in the `assessment.md` file my peer and I helped to streamline my progress. Evaluating my work and giving feedback my peers' work.
+4. **portfolio overview** - This is the portfolio overview, where I outline my completed tasks (Log) and tasks to do (TODO) in the `README.md` file.
 
 I have added my student number and portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
 
