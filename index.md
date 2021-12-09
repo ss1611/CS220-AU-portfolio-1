@@ -10,7 +10,7 @@ I am a first year Liberal Arts student in Essex. I am half Japanese and half Bri
 <br>
 
 ## social media links
-- [LinkedIn] https://www.linkedin.com/in/emma-hailes-b20011002/
+- [LinkedIn](https://www.linkedin.com/in/emma-hailes-b20011002/)
 
 
 
