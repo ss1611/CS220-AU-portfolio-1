@@ -61,3 +61,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-10-24 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
 
 <br>
+
+## References
+- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
+- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
