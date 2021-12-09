@@ -1,6 +1,6 @@
 # CS220 AU portfolio
 ## Overview
-This is a overview for my portfolio which centres around myself, both academically and interests outside of university.
+This is a overview for my portfolio which centres around myself and my interests, both academically and outside of university.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
 - a personal website
@@ -16,8 +16,8 @@ The URL of the website, using the `index.md` file can be found in the sidebar of
 ## Portfolio items
 The portfolio items I will submit contains the following:
 
-1. **website** - a simple website that supports my institutional/professional identity, also similar to a blog format highlighting non instituional interests. using the `index.md` file and the GitHub Pages function. The current `index.md` file is a basic example for outlining your professional identity - change it as necessary.
-2. **di reflection** - a short written work (essay) reflecting on developing my digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
+1. **website** - a simple website that supports my institutional/professional identity, also similar to a blog format highlighting non instituional interests. There is also a cv like element to it, showing my education, work experience and essay written.
+2. **di reflection** - a short written work (essay) where I reflect on developing my digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
 3. **self-and peer-assessment** - the CS220 AU marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
 4. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
 
