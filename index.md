@@ -1,5 +1,4 @@
-
-The information below can be used as a template for your own home page. 
+ 
 
 ## Emma Hailes
 **Liberal Arts First Year Student**  
@@ -19,6 +18,7 @@ I am a first year Liberal Arts student in Essex. I am half Japanese and half Bri
 
 ## contact
 Email address eh20891@essex.ac.uk
+
 <br>
 
 
@@ -46,6 +46,8 @@ Here is my work.
 
 
 <br><br> 
+
+## CV
 
 My full CV can be found here [CV 2021.pdf](https://github.com/2102860/CS220-AU-portfolio/files/7682667/CV.2021.pdf)
 
