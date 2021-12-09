@@ -22,17 +22,6 @@ Email address eh20891@essex.ac.uk
 <br>
 
 
-<br>
-
-## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
-
-<br>
 
 ## educations
 
