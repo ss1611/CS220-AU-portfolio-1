@@ -3,21 +3,21 @@
 This is a overview for my portfolio which centres around myself, both academically and interests outside of university.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
-- project management
+- a personal website
 - writing articles
 - web-design with [GitHub Pages](https://pages.github.com/)
 - self-and peer-assessment
 - final checklist 
 
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
+The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a home page that contains my website.
 
 <br>
 
 ## Portfolio items
 The portfolio items I will submit contains the following:
 
-1. **website** (40% of your overall mark) - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is a basic example for outlining your professional identity - change it as necessary.
-2. **di reflection** (40% of your overall mark) - a short written work (essay) reflecting on developing your digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
+1. **website** (40% of your overall mark) - a simple website that supports my institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is a basic example for outlining your professional identity - change it as necessary.
+2. **di reflection** (40% of your overall mark) - a short written work (essay) reflecting on developing my digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
 3. **self-and peer-assessment** (10% of your overall mark) - the CS220 AU marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
 4. **portfolio overview** (10% of your overall mark) - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
 
@@ -28,10 +28,10 @@ In essence, you need to submit two files on FASER:
 1. di-reflection.pdf
 2. final-check.md
 
-But, before you submit, please rename both files to contain your student number e.g. like this:
+I have submitted my files, like this:
 
-1. 0610279-di-reflection.pdf
-2. 0610279-final-check.md
+1. 2001057-di-reflection.pdf
+2. 2001057-final-check.md
 
 <br> 
 
