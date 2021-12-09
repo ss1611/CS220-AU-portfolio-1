@@ -67,7 +67,7 @@ The second component of this portfolio is a reflective essay that examines the p
 
 **06/12/21**: expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
 
-**08/12/21**: started potfolio overview.
+**08/12/21**: started potfolio overview - completed overview of the website segment. All blog posts were also hyperlinked for clarity.
 
 <br>
 
