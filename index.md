@@ -47,4 +47,5 @@ Here is my work.
 
 <br><br> 
 
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+My full CV can be found here [CV 2021.pdf](https://github.com/2102860/CS220-AU-portfolio/files/7682667/CV.2021.pdf)
+
