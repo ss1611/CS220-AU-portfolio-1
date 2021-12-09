@@ -30,7 +30,7 @@ Sigmund Freud, founder of psychoanalysis.
 ## now
 - I am polishing this [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/) account 
-- working on a group project for [PA223-5-AU] titled, 'Edward Kemper, sadistic serial killer or a product of his environment' for the University of Essex
+- working on a group project for PA223-5-AU titled, 'Edward Kemper, sadistic serial killer or a product of his environment?' for the University of Essex
 <br>
 
 ## education
@@ -42,7 +42,7 @@ Sigmund Freud, founder of psychoanalysis.
 <br>
 
 ## work experience
-Volunteering as a Language ambassaddor for Bexhill College, work included helping GCSE German students with their exams.
+Volunteering as a Language ambassaddor for [Bexhill College](https://www.bexhillcollege.ac.uk/), work included helping GCSE German students with their exams.
 
 ### Academic research interests
 - Lacanian Psychoanalysis ([Notes](https://github.com/2001057/CS220-AU-portfolio/blob/main/assets/documents/Lacan.pdf))
