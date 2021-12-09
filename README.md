@@ -21,12 +21,7 @@ The portfolio items I will submit contains the following:
 3. **self-and peer-assessment** - the CS220 AU marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
 4. **portfolio overview** - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
 
-After you finish these items, add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
-
-In essence, you need to submit two files on FASER:
-
-1. di-reflection.pdf
-2. final-check.md
+I have added my student number and portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
 
 I have submitted my files, like this:
 
@@ -50,14 +45,13 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 - 2021-12-09 README.md refined with clearer overview.
-- 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
-- 2021-10-11 one peer assessment instead of two needed.
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
+- 2021-11-25 based on feedback, refining the essay.
+- 2021-11-18 Experimented with embedding audio and video
+- 2021-11-11 continued with editing website
 - 2021-11-04 started editing index.md
 - 2021-10-30 First essay draft sent
 - 2021-10-21 digital identity essay started
-- 2021-10-14 'CS220-AU-portfolio' forked. readme.md refined, 
+- 2021-10-14 'CS220-AU-portfolio' forked. readme.md refined
 - 2021-10-07 repo created. readme.md added and next steps in the todo heading defined
 <br>
 
@@ -65,7 +59,3 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-10-14 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
 
 <br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
