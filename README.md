@@ -65,7 +65,7 @@ The second component of this portfolio is a reflective essay that examines the p
 
 **05/12/21**: Learned how to resize and centre images in GitHub readme.md files; edited the photo (quality/size and centrality) in the first blog post hyperlink.
 
-**06/12/21**: Expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
+**06/12/21**: Expanded 'education' section and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
 
 **08/12/21**: Started potfolio overview - completed overview of the website segment. All blog posts were also hyperlinked for clarity.
 
