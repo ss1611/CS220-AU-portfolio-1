@@ -51,9 +51,9 @@ The second component of this portfolio is a reflective essay that examines the p
 
 **09/11/21**: Learned how to embed images and hyperlinks to a GitHub repository; started subsequently developing my index.md file further.
 
-**10/11/21**: Finished the first of 3 segments of the Sociology website (year 11) and got half way through the college section.
+**10/11/21**: Finished the first segment of the Sociology website (year 11) and got half way through the college section.
 
-**11/11/21**: Finished the second of 3 segments of the Sociology website (college experience).
+**11/11/21**: Finished the second of segment of the Sociology website (college experience).
 
 **15/11/21**: Created an overview to introduce my media ideology essay (current project).
 
@@ -65,9 +65,9 @@ The second component of this portfolio is a reflective essay that examines the p
 
 **05/12/21**: Learned how to resize and centre images in GitHub readme.md files; edited the photo (quality/size and centrality) in the first blog post hyperlink.
 
-**06/12/21**: expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
+**06/12/21**: Expanded 'education' setion and inserted CV. Also converted this section to a hyperlink for aesthetic clarity.
 
-**08/12/21**: started potfolio overview - completed overview of the website segment. All blog posts were also hyperlinked for clarity.
+**08/12/21**: Started potfolio overview - completed overview of the website segment. All blog posts were also hyperlinked for clarity.
 
 <br>
 
@@ -83,7 +83,7 @@ The second component of this portfolio is a reflective essay that examines the p
 - ~~Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.~~
 - ~~Create an overview of the third segment of my website: the current project (SC106 essay on media ideologies and ineqaulity reinforcement).~~
 - ~~Email SC106 tutor to see if I can directly insert essay into website.~~
-- Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the final segment.
+- Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the 'present' segment.
 - ~~Begin constructing a portfolio overview - email Krisztian for details/clarification.~~
 - ~~Find a peer for feedback.~~
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
