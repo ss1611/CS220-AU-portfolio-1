@@ -49,6 +49,8 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2021-12-9 attached CV pdf file and my research pdf file
+- 2021-12-7 Created CV
 - 2021-12-3 Eddited few parts of my file
 - 2021-11-24 Talked to a tutor about my website and essay. It helped a lot.
 - 2021-10-19 minor grammar and logic changes. 
