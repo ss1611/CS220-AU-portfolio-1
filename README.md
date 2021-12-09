@@ -34,6 +34,8 @@ This portfolio comprises my website (a personal account of my professional ident
 
 The first component of this portfolio is the [website](https://2103461.github.io/CS220-AU-portfolio/), which entails the details of my professional identity, referring to the institutional practices related to my sense of self (White, 2014). The core of the website focuses specifically on 'my sociological journey': a series of blog posts interwoven with images and hyperlinks that discusses my passion for the subject, how I developed my sociological skills, and where I may go with sociology in the future. I decided to utilise GitHub (a static site generator (SSG)) as the framework for my website, due to markdown language being simplistic to learn, and the fact that this form of website is free. Additional reasoning behind selecting GitHub over other forms of websites, such as web content management systems (WCMS) can be found [here](2021-12-08-GitHub-justification.md). All images used were taken by myself, thus avoiding issues of copyright (further justification is outlined in this [hyperlink](2021-12-08-image-justification.md)). 
 
+The second component of this portfolio is a reflective essay that examines the progression of my digital identity, meaning how one presents themself and identifies online (White, 2011), from 5 years ago, when I was in secondary school, up to today, whilst also looking into how it may change in the future.
+
 <br> 
 
 ## Log
