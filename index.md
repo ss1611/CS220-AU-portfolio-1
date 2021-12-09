@@ -36,9 +36,21 @@ Email address eh20891@essex.ac.uk
 
 ## My research
 ### How human emotion change through watching sad films and how these changes may affect life
-I studied a foundation course in 2020, and this was my research topic. I was looking at university website and found that there are studies about films and human relatioships. I am interested in this topic, so I decided to research more about it, mainly focusing on human emotions.I was curious as to why people like sad movies despite the fact that they make people cry. I was interseted in knowing what makes it enjoyable, as well as how humans deal with negative and happy emotions. As a result, I wanted to concentrate on sad films and how that affect people's life. 
+I studied a foundation course in 2020, and this was my research topic. I was looking at university website and found that there are studies about films and human relatioships. I am interested in this topic, so I decided to research more about it, mainly focusing on human emotions.I was curious as to why people like sad movies despite the fact that they make people cry. I was interseted in knowing what makes it enjoyable, as well as how humans deal with negative and happy emotions. As a result, I wanted to concentrate on sad films and how that affect people's life.Research question is mainly devided into 4 parts.
 
-Here is my work.
+### Research questions
+
+・Why do people enjoy sad films?
+
+・What do they enjoy about in sad films?
+
+・What part of brain is functioning?
+
+・What kind of differences do they have after watching sad fims?
+
+
+
+#### Here is my work. 
 
 [How human emotion change through watching sad films and how these changes may affect life.pdf](https://github.com/2102860/CS220-AU-portfolio/files/7682382/FC300.Summative.task.2.pdf)
 
