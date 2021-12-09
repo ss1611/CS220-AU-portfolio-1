@@ -33,10 +33,6 @@ I have submitted my files, like this:
 ![](assets/img/portfolio-graph.png)
 
 
-### Flexibilities 
-1. you can have more than two pages on your website if needed
-2. your website can be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages (just make sure you provide a link to your website.)
-
 <br> 
 
 How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification in class or privately in my academic support hours. 
@@ -56,7 +52,12 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Todo List
-- 2021-10-21 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
-- 
+- 2021-12-01 Make overview clearer
+- 2021-11-24 read feedback and use it to refine essay
+- 2021-11-19 fix 'refused to connect' with audio and video
+- 2021-11-12 Find picture of Freud and upload essays to github
+- 2021-11-05 Rewrite website template, add information about myself
+- 2021-10-28 Send first draft
+- 2021-10-24 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
 
 <br>
