@@ -58,7 +58,7 @@ To measure my own progress, I filled in the table below using the above marking 
 | 1.3 |     |     |     |     |  o  |
 | 2.1 |     |     |  o  |     |     |
 | 2.2 |     |     |     |  o  |     |
-| 3.1 |     |     |     |  o  |  o  |
+| 3.1 |     |     |     |     |  o  |
 | 3.2 |     |     |     |     |  o  |
 | 4.1 |     |     |     |     |  o  |
 
