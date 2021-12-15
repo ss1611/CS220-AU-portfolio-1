@@ -32,3 +32,6 @@ In July 2020, I began to upload my firt video about film on the platform and unt
 ##Screenshots for my video making 
 
 ![image](https://github.com/2008771/CS220-AU-portfolio/blob/871722f19f2bf38941fa3f83efe36762e5df93cf/screenshots/premiere%20for%20my%20video%20op.png)
+<br>
+
+![image](https://github.com/2008771/CS220-AU-portfolio/blob/97997b4d31689c9e8f69c380f400fd1f0539dac6/screenshots/video%20premiere%20on%20mobile.jpg)
