@@ -2,7 +2,7 @@ Within the development of website via internet, there is a plenty of people have
 
 <br>
 
-<br><br>https://github.com/2008771/CS220-AU-portfolio/blob/main/IMG_20211208_154154.jpg
+![image](https://github.com/2008771/CS220-AU-portfolio/blob/eda7836dece4632cc8f53d5c08bbaa516c6a1ba2/IMG_20211208_154154.jpg)
 
 <br>
 
