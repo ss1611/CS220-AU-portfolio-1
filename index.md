@@ -30,4 +30,4 @@ The information below can be used as a template for your own home page.
 In July 2020, I began to upload my firt video about film on the platform and until now I upload over 187 videos within films, animations games and some vlogs Meanwhile, I tried to seek a part-time job such as a waiter in a restaurant. In addition, I did some online part-time jobs for over a year. In July 2021, I started to upload my own light novels and so far I wrote over two hundred thousand words. Generally, those work experiences help me a lot.
 
 Screenshots for my video making 
-https://github.com/2008771/CS220-AU-portfolio/blob/main/IMG_20211208_154154.jpg
+![text] https://github.com/2008771/CS220-AU-portfolio/blob/main/IMG_20211208_154154.jpg
