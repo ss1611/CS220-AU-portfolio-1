@@ -14,11 +14,12 @@
 - 2021-11-17 Attended class and learn about innovation centre
 - 2021-12-01 Attended class, progress with github protfolio, V&R map creating
 - 2021-12-03 Create a Linkedin account
+- 2021-12-08 Attended class 
 
 <br>
 
 ## TODO
--  make a short video to create a brief statement about my github
-- V&R map modification, work with following essay
+-   complete my essay
+- add some pictures to my CV
 
 <br>
