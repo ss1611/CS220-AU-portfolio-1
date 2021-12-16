@@ -28,10 +28,6 @@ I have submitted my files, like this:
 1. 2001057-di-reflection.pdf
 2. 2001057-final-check.md
 
-<br> 
-
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification in class or privately in my academic support hours. 
-
 <br>
 
 ## Log
