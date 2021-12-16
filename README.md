@@ -30,11 +30,6 @@ I have submitted my files, like this:
 
 <br> 
 
-![](assets/img/portfolio-graph.png)
-
-
-<br> 
-
 How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification in class or privately in my academic support hours. 
 
 <br>
@@ -64,4 +59,3 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
