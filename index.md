@@ -1,5 +1,3 @@
- 
-
 ## Emma Hailes
 **Liberal Arts First Year Student**  
 
@@ -54,7 +52,7 @@ I studied a foundation course in 2020, and this was my research topic. I was loo
 
 #### Here is my work. 
 
-[How human emotions change through watching sad films and how these changes may affect life.]
+[How human emotions change through watching sad films and how these changes may affect life.](Human%20enotion%20and%20films%20Research%202021%20.pdf)
 
 
 
