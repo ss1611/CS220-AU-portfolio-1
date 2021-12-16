@@ -12,7 +12,6 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a home page that contains my website.
 
 <br>
-
 ## Portfolio items
 The portfolio items I will submit contains the following:
 
@@ -29,7 +28,6 @@ I have submitted my files, like this:
 2. 2001057-final-check.md
 
 <br>
-
 ## Log
 - 2021-12-09 README.md refined with clearer overview.
 - 2021-11-25 based on feedback, refining the essay.
