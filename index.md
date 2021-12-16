@@ -31,6 +31,7 @@ Sigmund Freud, founder of psychoanalysis.
 - I am polishing this [Website](https://2001057.github.io/CS220-AU-portfolio/)
 - created a [LinkedIn](https://www.linkedin.com/in/lucas-schoedel-1a5649225/) account 
 - working on a group project for PA223-5-AU titled, 'Edward Kemper, sadistic serial killer or a product of his environment?' for the University of Essex
+- I have decided to use github over other sites such as WIX as the simplictly and CV like formatting with markdown works more effective at conveying the precise and efficient clarity that I aim to convey
 <br>
 
 ## education
