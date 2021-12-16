@@ -47,6 +47,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Todo List
+- 2021-12-16 Use peer feedback to improve essay
 - 2021-12-01 Make overview clearer
 - 2021-11-24 read feedback and use it to refine essay
 - 2021-11-19 fix 'refused to connect' with audio and video
