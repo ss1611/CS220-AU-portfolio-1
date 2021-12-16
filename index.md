@@ -52,7 +52,7 @@ I studied a foundation course in 2020, and this was my research topic. I was loo
 
 #### Here is my work. 
 
-ー[How human emotions change through watching sad films and how these changes may affect life.](changehttps://github.com/2102860/CS220-AU-portfolio/blob/main/FC300.Summative.task.2.pdf)
+[How human emotions change through watching sad films and how these changes may affect life.](changehttps://github.com/2102860/CS220-AU-portfolio/blob/main/FC300.Summative.task.2.pdf)
 
 
 
